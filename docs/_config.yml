@@ -1,4 +1,5 @@
 title: Pick a trek
+author: Antonio Pastorino
 email: antonio.pastorino@gmail.com
 description: >-
   Una semplice raccolta di sentieri e percorsi calpestati da Antonio e Marta
@@ -9,3 +10,8 @@ github_username:  andou
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+
+collections:
+  tracks:
+    output: true

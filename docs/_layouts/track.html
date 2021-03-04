@@ -21,9 +21,9 @@ layout: default
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
         {% if page.track %}
-        <section id="map_container" class="gpx" data-gpx-source="{{ page.track }}" data-map-target="demo-map">
+        <section id="map_container" class="gpx" data-gpx-source="{{ page.track }}" data-map-target="demo-map" data-track-color="{{ page.track_color }}">
             <header>
-                <h3>Loading...</h3>
+                <h4>Traccia:&nbsp;<span class="track-name">Sto caricando...</span></h4>
                 <span class="start"></span>
             </header>
 
@@ -33,12 +33,13 @@ layout: default
 
             <footer>
                 <ul class="info">
-                    <li>Lunghezza:&nbsp;<span class="distance"></span>&nbsp;kms</li>
+                    <li>Lunghezza:&nbsp;<span class="distance"></span>&nbsp;km</li>
                     &mdash;
                     <li>Durata:&nbsp;<span class="duration"></span></li>
                     &mdash;
-                    <li>D:&nbsp;+<span class="elevation-gain"></span>&nbsp;mt,
-                    </li>
+                    <li>Alt. min.:&nbsp;<span class="elevation-min"></span>&nbsp;mt</li>
+                    &mdash;
+                    <li>Alt. max.:&nbsp;<span class="elevation-max"></span>&nbsp;mt</li>
                 </ul>
             </footer>
         </section>
