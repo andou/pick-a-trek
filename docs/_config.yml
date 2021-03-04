@@ -22,8 +22,8 @@ title: Pick a trek
 email: antonio.pastorino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Una raccolta di sentieri e percorsi fatti da me e da Marta
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/pick-a-trek" # the subpath of your site, e.g. /blog
+url: "https://andou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: A_Pastorino
 github_username:  andou
 
