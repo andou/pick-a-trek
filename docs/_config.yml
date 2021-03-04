@@ -1,0 +1,11 @@
+title: Pick a trek
+email: antonio.pastorino@gmail.com
+description: >-
+  Una semplice raccolta di sentieri e percorsi calpestati da Antonio e Marta
+baseurl: "/pick-a-trek"
+url: "https://andou.github.io"
+github_username:  andou
+
+theme: minima
+plugins:
+  - jekyll-feed
