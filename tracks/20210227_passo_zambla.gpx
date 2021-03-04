@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata>
+    <name>Dal Passo Zambla verso Cima Grem</name>
     <time>2021-03-04T16:39:43.482Z</time>
     <keywords>osmtracker</keywords>
     <bounds minlat="45.887247530" minlon="9.797658160" maxlat="45.901445250" maxlon="9.824144370"/>
   </metadata>
   <trk>
-    <name>Tracciato con OSMTracker per Android™</name>
+    <name>Dal Passo Zambla verso Cima Grem</name>
     <trkseg>
       <trkpt lat="45.887333080" lon="9.797797510">
         <ele>1313.823</ele>

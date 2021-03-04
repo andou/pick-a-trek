@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata>
-    <name>Monte San Primo dalla Colma di Sormano</name>
+    <name>Dalla Colma di Sormano al Monte San Primo</name>
     <time>2021-03-01T13:53:33.788Z</time>
     <bounds minlat="45.882785000" minlon="9.209887000" maxlat="45.915446000" maxlon="9.248534000"/>
   </metadata>
   <trk>
-    <name>Tracciato con OSMTracker per Android™</name>
+    <name>Dalla Colma di Sormano al Monte San Primo</name>
     <extensions>
       <gpxx:TrackExtension>
         <gpxx:DisplayColor>DarkMagenta</gpxx:DisplayColor>

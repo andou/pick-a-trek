@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata>
+    <name>Da Chiesa Valmalenco verso l'Alpe Lago di Chiesa</name>
     <time>2021-03-04T16:38:27.151Z</time>
     <keywords>osmtracker</keywords>
     <bounds minlat="46.251184030" minlon="9.830246180" maxlat="46.265769500" maxlon="9.851027190"/>
   </metadata>
   <trk>
-    <name>Tracciato con OSMTracker per Android™</name>
+    <name>Da Chiesa Valmalenco verso l'Alpe Lago di Chiesa</name>
     <trkseg>
       <trkpt lat="46.264460840" lon="9.850688830">
         <ele>1018.184</ele>

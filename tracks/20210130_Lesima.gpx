@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata>
+    <name>Ciaspolata al Monte Lesima dall'albergo abbandonato</name>
     <time>2021-03-04T16:53:55.161Z</time>
     <keywords>osmtracker</keywords>
     <bounds minlat="44.680056800" minlon="9.216982140" maxlat="44.687193390" maxlon="9.259323560"/>
   </metadata>
   <trk>
-    <name>Tracciato con OSMTracker per Android™</name>
+    <name>Ciaspolata al Monte Lesima dall'albergo abbandonato</name>
     <trkseg>
       <trkpt lat="44.684057590" lon="9.217012210">
         <ele>1410.886</ele>

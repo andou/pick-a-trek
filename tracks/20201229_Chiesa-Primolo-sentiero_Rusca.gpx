@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata>
+    <name>Da Chiesa a Primolo e ritorno lungo il sentiero Rusca</name>
     <time>2021-03-04T16:38:27.537Z</time>
     <keywords>osmtracker</keywords>
     <bounds minlat="46.264564920" minlon="9.838135900" maxlat="46.288072340" maxlon="9.850871600"/>
   </metadata>
   <trk>
-    <name>Tracciato con OSMTracker per Android™</name>
+    <name>Da Chiesa a Primolo e ritorno lungo il sentiero Rusca</name>
     <trkseg>
       <trkpt lat="46.265981770" lon="9.846408000">
         <ele>1097.101</ele>

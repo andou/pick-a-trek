@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata>
+    <name>Alpe del Vicerè, Monte Palanzone e Punta dell'Asino</name>
     <time>2021-03-04T16:38:26.027Z</time>
     <keywords>osmtracker</keywords>
     <bounds minlat="45.825043420" minlon="9.186646390" maxlat="45.862054530" maxlon="9.201652140"/>
   </metadata>
   <trk>
-    <name>Tracciato con OSMTracker per Android™</name>
+    <name>Alpe del Vicerè, Monte Palanzone e Punta dell'Asino</name>
     <trkseg>
       <trkpt lat="45.825043420" lon="9.186646390">
         <ele>929.596</ele>
