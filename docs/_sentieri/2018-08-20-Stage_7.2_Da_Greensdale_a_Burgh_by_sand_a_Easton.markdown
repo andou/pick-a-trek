@@ -1,0 +1,10 @@
+---
+layout: sentiero
+title:  "Stage 7.2 Da Greensdale a Burgh by sand a Easton"
+date:   2018-08-20 09:05:00 +0100
+track:  /assets/tracks/2018-08-20-Stage_7.2_Da_Greensdale_a_Burgh_by_sand_a_Easton.gpx
+track_color: green
+categories: sentieri
+---
+
+Un altro bel sentiero!! :mountain: :snowflake:

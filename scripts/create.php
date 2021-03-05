@@ -90,7 +90,7 @@ $markdown = <<<EOD
 ---
 layout: sentiero
 title:  "{$trackname}"
-date:   2019-06-08 09:05:00 +0100
+date:   {$year}-{$month}-{$day} 09:05:00 +0100
 track:  /assets/tracks/{$pathinfo['basename']}
 track_color: green
 categories: sentieri

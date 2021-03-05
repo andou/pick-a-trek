@@ -1,10 +1,10 @@
 ---
 layout: sentiero
-title:  "Passo di Zambla"
+title:  "Passo Zambla"
 date:   2021-02-27 09:05:00 +0100
-track:  /assets/tracks/20210227_passo_zambla.gpx
+track:  /assets/tracks/2021-02-27-Passo_Zambla.gpx
 track_color: green
-categories: sentieris
+categories: sentieri
 ---
 
-Bei panorami ed una bella sgambata :snowflake: :mountain: :snowflake:
+Un altro bel sentiero!! :mountain: :snowflake:
