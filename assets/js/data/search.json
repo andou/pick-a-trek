@@ -2,10 +2,14 @@
 layout: compress
 ---
 
+{% assign the_tracks = site.sentieri | sort: 'date' | reverse %}
+{% assign the_posts = site.posts | sort: 'date' | reverse %}
+{% assign everything = the_posts | concat: the_tracks %}
 [
-  {% for post in site.posts %}
+  {% for post in everything %}
   {
     "title": "{{ post.title | escape }}",
+    "layout": "{{ post.layout }}",
     "url": "{{ site.baseurl }}{{ post.url }}",
     "categories": "{{ post.categories | join: ', '}}",
     "tags": "{{ post.tags | join: ', ' }}",
