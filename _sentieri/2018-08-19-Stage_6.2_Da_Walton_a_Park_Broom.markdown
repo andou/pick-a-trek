@@ -1,0 +1,10 @@
+---
+layout: sentiero
+title:  "Stage 6.2 Da Walton a Park Broom"
+date:   2018-08-19 09:05:00 +0100
+track:  /assets/tracks/2018-08-19-Stage_6.2_Da_Walton_a_Park_Broom.gpx
+track_color: green
+categories: sentieri
+---
+
+Un altro bel sentiero!! :mountain: :snowflake:
