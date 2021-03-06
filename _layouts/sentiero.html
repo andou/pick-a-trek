@@ -50,7 +50,7 @@ layout: default
                 {{ content }}
 
                 {% if page.track %}
-                <section id="map_container" class="gpx" data-gpx-source="{{ page.track | relative_url }}" data-map-target="demo-map" data-track-color="{{ page.track_color }}">
+                <section id="map_container" class="gpx" data-gpx-source="{{ page.track | relative_url }}" data-map-target="demo-map" data-track-color="{{ page.track_color }}" data-hide-elevation-profile="{{page.hide_elevation_profile}}">
                     <header>
                         <h4>Traccia:&nbsp;<span class="track-name">Sto caricando...</span></h4>
                         <span class="start"></span>
@@ -133,6 +133,7 @@ layout: default
 {% if page.track %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@netmust/leaflet-elevation@0.0.2/leaflet-elevation.min.js"></script>
 <script type="application/javascript">
     displayGpx(document.getElementById('map_container'));
 </script>
