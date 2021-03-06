@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="GPSBabel - https://www.gpsbabel.org">
-  <metadata>
+  <metadata><name>Grignetta</name>
     <time>2021-03-05T15:27:39.577Z</time>
     <bounds minlat="45.901536460" minlon="9.389879990" maxlat="45.921974900" maxlon="9.396027550"/>
-  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright><author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
+  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
   <trk>
     <name>Grignetta</name>
     <trkseg>

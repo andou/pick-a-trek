@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="GPSBabel - https://www.gpsbabel.org">
-  <metadata>
+  <metadata><name>Anello del monte Sibilla</name>
     <time>2021-03-05T15:28:14.733Z</time>
     <bounds minlat="42.895515290" minlon="13.254251110" maxlat="42.914026520" maxlon="13.292106510"/>
-  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright><author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
+  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
   <trk>
     <name>Anello del monte Sibilla</name>
     <trkseg>

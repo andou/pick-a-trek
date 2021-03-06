@@ -48,16 +48,53 @@ if (!empty($trk)) {
     }
 }
 
-
-//$author = $xml->metadata[0]->addChild("author");
-//$copyright = $xml->metadata[0]->addChild("copyright");
-
-//$author->addAttribute("text", "geography");
-
 $meta = $xml->getElementsByTagName("metadata");
 if (!empty($meta)) {
     /** @var \DOMNodeList $meta */
     $first_meta = $meta->item(0);
+    /** @var \DOMNode $first_meta */
+    if (!empty($first_meta->childNodes)) {
+        $nodes_to_remove = $nodes_to_mantain = [];
+        foreach ($first_meta->childNodes as $childNode) {
+            /** @var \DOMNode $childNode */
+            if (
+                $childNode->nodeName == 'author' ||
+                $childNode->nodeName == 'copyright' ||
+                $childNode->nodeName == 'name'
+            ) {
+                $nodes_to_remove[] = $childNode;
+            } else {
+                $nodes_to_mantain[] = $childNode;
+            }
+        }
+        if (!empty($nodes_to_remove)) {
+            foreach ($nodes_to_remove as $node_to_remove) {
+                echo "-> Removing: ", $node_to_remove->nodeName, "\n";
+                $oldChild = $first_meta->removeChild($node_to_remove);
+                echo "-> Removed: ", $oldChild->nodeName, "\n";
+            }
+        }
+        if (!empty($nodes_to_mantain)) {
+            foreach ($nodes_to_mantain as $node_to_mantain) {
+                echo "-> Removing: ", $node_to_mantain->nodeName, "\n";
+                $oldChild = $first_meta->removeChild($node_to_mantain);
+                echo "-> Removed: ", $oldChild->nodeName, "\n";
+            }
+        }
+    }
+
+
+    $track_name = $xml->createElement('name');
+    $track_name->nodeValue = $trackname;
+    $first_meta->appendChild($track_name);
+    echo "-> Adding: ", $track_name->nodeName, " - ", $track_name->nodeValue, "\n";
+
+    if (!empty($nodes_to_mantain)) {
+        foreach ($nodes_to_mantain as $node_to_mantain) {
+            echo "-> Adding: ", $node_to_mantain->nodeName, "\n";
+            $first_meta->appendChild($node_to_mantain);
+        }
+    }
 
     $author = $xml->createElement('author');
     $author_name = $xml->createElement('name');
@@ -65,7 +102,9 @@ if (!empty($meta)) {
     $author_name->nodeValue = "Antonio Pastorino";
     $author_email->nodeValue = "antonio.pastorino@gmail.com";
     $author->appendChild($author_name);
+    echo "-> Adding: ", $author_name->nodeName, " - ", $author_name->nodeValue, "\n";
     $author->appendChild($author_email);
+    echo "-> Adding: ", $author_email->nodeName, " - ", $author_email->nodeValue, "\n";
     $first_meta->appendChild($author);
 
     $copyright = $xml->createElement('copyright');
@@ -76,8 +115,13 @@ if (!empty($meta)) {
     $copyright_license->nodeValue = "https://creativecommons.org/licenses/by/4.0/legalcode";
     $copyright->nodeValue = "https://creativecommons.org/licenses/by/4.0/legalcode";
     $copyright->appendChild($copyright_year);
+    echo "-> Adding: ", $copyright_year->nodeName, " - ", $copyright_year->nodeValue, "\n";
     $copyright->appendChild($copyright_license);
+    echo "-> Adding: ", $copyright_year->nodeName, " - ", $copyright_year->nodeValue, "\n";
     $first_meta->appendChild($copyright);
+    echo "-> Adding: ", $copyright->nodeName, "\n";
+
+
 }
 
 

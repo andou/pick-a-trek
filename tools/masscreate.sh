@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tracks=`ls ../docs/assets/tracks/*.gpx`
+tracks=`ls ../assets/tracks/*.gpx`
 for eachfile in $tracks
 do
    echo $eachfile

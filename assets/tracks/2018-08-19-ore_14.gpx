@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="GPSBabel - https://www.gpsbabel.org">
-  <metadata>
+  <metadata><name>ore 14</name>
     <time>2021-03-05T15:28:11.347Z</time>
     <bounds minlat="54.920508580" minlon="-2.889550430" maxlat="54.973116660" maxlon="-2.748561700"/>
-  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright><author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
+  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
   <trk>
     <name>ore 14</name>
     <trkseg>

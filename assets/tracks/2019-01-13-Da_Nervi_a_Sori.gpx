@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="GPSBabel - https://www.gpsbabel.org">
-  <metadata>
+  <metadata><name>Da Nervi a Sori</name>
     <time>2021-03-05T15:28:40.005Z</time>
     <bounds minlat="44.369628080" minlon="9.038720470" maxlat="44.408135910" maxlon="9.105979420"/>
-  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright><author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
+  <author><name>Antonio Pastorino</name><email>antonio.pastorino@gmail.com</email></author><copyright author="Antonio Pastorino">https://creativecommons.org/licenses/by/4.0/legalcode<year>2021</year><license>https://creativecommons.org/licenses/by/4.0/legalcode</license></copyright></metadata>
   <trk>
     <name>Da Nervi a Sori</name>
     <trkseg>
