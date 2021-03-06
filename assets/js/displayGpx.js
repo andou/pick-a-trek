@@ -44,7 +44,7 @@ function displayGpx(elt) {
         var kms = mts / 1000;
 
         _c('distance').textContent = kms.toFixed(2);
-        _c('duration').textContent = gpx.get_duration_string(gpx.get_moving_time());
+        //_c('duration').textContent = gpx.get_duration_string(gpx.get_moving_time());
         _c('elevation-max').textContent = gpx.get_elevation_max().toFixed(0);
         _c('elevation-min').textContent = gpx.get_elevation_min().toFixed(0);
     }).addTo(map);
