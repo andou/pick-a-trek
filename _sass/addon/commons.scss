@@ -953,6 +953,11 @@ $sidebar-display: "sidebar-display";
       font-size: 80%;
     }
 
+    i.title{
+      font-size: 100%;
+      margin-right: 0.5rem;
+    }
+
     > p {
       overflow: hidden;
       text-overflow: ellipsis;
