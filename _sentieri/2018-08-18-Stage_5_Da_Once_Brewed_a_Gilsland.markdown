@@ -1,8 +1,8 @@
 ---
 layout: sentiero
-title:  "Stage 5.1 Da Once Brewed a Walltown"
+title:  "Stage 5 Da Once Brewed a Gilsland"
 date:   2018-08-18 09:05:00 +0100
-track:  /assets/tracks/2018-08-18-Stage_5.1_Da_Once_Brewed_a_Walltown.gpx
+track:  /assets/tracks/2018-08-18-Stage_5_Da_Once_Brewed_a_Gilsland.gpx
 track_color: green
 categories: sentieri
 ---
