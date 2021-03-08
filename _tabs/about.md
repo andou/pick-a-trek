@@ -35,7 +35,7 @@ Nel **2020** la pandemia non ci abbatte: ogni volta che è possibile andiamo a c
 
 Se avete avuto la pazienza di leggere fino a qui, avrete capito che noi due ci accompagniamo nella vita e sui sentieri già da un po' di tempo :smile:. Adesso abbiamo deciso che era arrivato il momento di tenere una raccolta dei sentieri e delle escursioni che abbiamo avuto la fortuna di fare.
 
-Sono una specie di diario, se volete! Li trovate raccolti in questo sito. E chissà che non abbiate voglia di scriverci due righe per dirci se e come vi abbiamo ispirato. :muscle:
+Sono una specie di diario, se volete! Li trovate [raccolti in questo sito](../sentieri). E chissà che non abbiate voglia di scriverci due righe per dirci se e come vi abbiamo ispirato. :muscle:
 
 _Buon Cammino!!_
 

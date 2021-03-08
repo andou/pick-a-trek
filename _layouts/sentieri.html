@@ -4,6 +4,8 @@ layout: page
 ---
 {% assign the_tracks = site.sentieri | sort: 'date' | reverse %}
 
+
+{{ content }}
 <div id="archives" class="pl-xl-2">
 {% for post in the_tracks %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
