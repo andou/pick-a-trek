@@ -4,7 +4,9 @@ title:  "Da Sori a Camogli"
 date:   2019-01-27 09:05:00 +0100
 track:  /assets/tracks/2019-01-27-Da_Sori_a_Camogli.gpx
 track_color: green
-categories: sentieri
+categories:
+- Italia
+- Sentiero Liguria
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

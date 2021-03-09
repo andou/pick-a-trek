@@ -4,7 +4,9 @@ title:  "Da Alpe Devero a Alpe Fontane"
 date:   2020-02-22 09:05:00 +0100
 track:  /assets/tracks/2020-02-22-Da_Alpe_Devero_a_Alpe_Fontane.gpx
 track_color: green
-categories: sentieri
+categories:
+- Italia
+- Alpi Lepontine
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:
