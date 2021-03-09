@@ -8,6 +8,9 @@ grid-gallery: /assets/img/galleries/grem/
 categories:
 - Italia
 - Prealpi
+tags:
+- ciaspole
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Dopo un inzio con leggero saliscendi, il sentiero attraverso ripido un bosco e poi sale in spazi aperti, che noi abbiamo affrontato su un bel manto nevoso ma senza bisogno di ciaspole o ramponi. Ci sono poi due vie per raggiungere la Cima Grem, una sale in costa e l’altra, che abbiamo fatto noi, resta a mezzacosta. 
+La nostra traccia si ferma là dove sembra esserci una cima, ma è solo un punto di sosta; ancora mezzoretta e si raggiunge la vetta.
