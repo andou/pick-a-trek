@@ -41,7 +41,7 @@ layout: default
 
       </div> <!-- .post-meta -->
 
-      <div class="post-content">
+      <div class="post-content post-content__raccolta">
 
         {% if page.image.src %}
           <img src="{{ page.image.src }}" class="preview-img" alt="{{ page.image.alt | default: "Preview Image" }}">
@@ -56,7 +56,7 @@ layout: default
 
           {% for post in page.stages %}
           <li class="d-flex justify-content-between pl-md-3 pr-md-3">
-            Tappa {{ forloop.index }} - <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <i class="fas fa-hiking track"></i> <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             <span class="flex-grow-1"></span>
           </li>
           {% endfor %}
