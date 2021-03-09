@@ -1,7 +1,7 @@
 ---
 layout: sentieri
 title: Sentieri
-icon: fas fa-archive
+icon: fas fa-hiking
 order: 2
 ---
 
