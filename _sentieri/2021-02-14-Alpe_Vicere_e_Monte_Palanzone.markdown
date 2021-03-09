@@ -7,6 +7,9 @@ track_color: green
 categories:
 - Italia
 - Prealpi
+tags:
+- Ciaspole
+- Como
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:
