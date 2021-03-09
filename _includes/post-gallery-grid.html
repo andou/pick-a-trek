@@ -19,8 +19,9 @@
 <section class="gallery-container">
   <div class="grid-container">
     {% directory path: page.grid-gallery exclude: private %}
-    {% assign imgsrc = file.url | absolute_url %}
+    {% assign imgsrc = file.url %}
     {% if use_weserve %}
+    {% assign imgsrc = file.url | absolute_url %}
       {% assign imgsrc = site.data.weserve.url | append: imgsrc | append: site.data.weserve.resize.gallery-grid %}
     {% endif %}
     <div>
