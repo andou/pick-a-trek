@@ -2,19 +2,29 @@
   POST Gallery
 -->
 
+{% if jekyll.environment == "development" %}
+  {% assign use_weserve = false %}
+{% else %}
+  {% assign use_weserve = site.data.weserve.active %}
+{% endif %}
+
 {% if page.grid-gallery %}
 <h2>
   {% if page.gallery-title %}
   {{ page.gallery-title }}
   {% else %}
-  Qualche immagine
+  Le foto
   {% endif %}
 </h2>
 <section class="gallery-container">
   <div class="grid-container">
     {% directory path: page.grid-gallery exclude: private %}
+    {% assign imgsrc = file.url | absolute_url %}
+    {% if use_weserve %}
+      {% assign imgsrc = site.data.weserve.url | append: imgsrc | append: site.data.weserve.resize.gallery-grid %}
+    {% endif %}
     <div>
-      <img src="{{ file.url }}"
+      <img src="{{ imgsrc }}"
            alt="{{ file.name }}"
            datetime="{{ file.date | date_to_xmlschema }}" />
     </div>

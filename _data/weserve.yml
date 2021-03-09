@@ -1,0 +1,8 @@
+# Weserve confs
+
+active: true
+
+url: "http://images.weserv.nl/?url="
+
+resize:
+  gallery-grid: "&w=250&output=jpg&q=90"
