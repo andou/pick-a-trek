@@ -49,34 +49,9 @@ layout: default
 
                 {{ content }}
 
-                {% if page.track %}
-                <section id="map_container" class="gpx" data-gpx-source="{{ page.track | relative_url }}" data-map-target="demo-map" data-track-color="{{ page.track_color }}" data-hide-elevation-profile="{{page.hide_elevation_profile}}">
-                    <header>
-                        <h4>Traccia:&nbsp;<span class="track-name">Sto caricando...</span></h4>
-                        <span class="start"></span>
-                    </header>
+                {% include post-map.html %}
 
-                    <article>
-                        <div class="map" id="demo-map"></div>
-                    </article>
-
-                    <div class="footer">
-                        <ul class="info">
-                            <li>
-                                <a href="{{ page.track | relative_url }}" data-toggle="tooltip" data-placement="top" title="" target="_blank" rel="noopener" aria-label="Scarica Traccia" data-original-title="Scarica Traccia">
-                                    <i class="fas fa-map-marked-alt"></i>
-                                </a>
-                            </li>
-                            <li>Lunghezza:&nbsp;<span class="distance"></span>&nbsp;km</li>
-                            &mdash;
-                            <li>Altezza min.:&nbsp;<span class="elevation-min"></span>&nbsp;mt</li>
-                            &mdash;
-                            <li>Altezza. max.:&nbsp;<span class="elevation-max"></span>&nbsp;mt</li>
-                        </ul>
-                    </div>
-                </section>
-                {% endif %}
-
+                {% include post-gallery-grid.html %}
             </div>
 
             <div class="post-tail-wrapper text-muted">
@@ -130,12 +105,6 @@ layout: default
 
 </div> <!-- .row -->
 
-{% if page.track %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@netmust/leaflet-elevation@0.0.2/leaflet-elevation.min.js"></script>
-<script type="application/javascript">
-    displayGpx(document.getElementById('map_container'));
-</script>
-{% endif %}
+
+{% include post-map-script.html %}
 

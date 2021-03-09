@@ -1,0 +1,24 @@
+<!--
+  POST Gallery
+-->
+
+{% if page.grid-gallery %}
+<h2>
+  {% if page.gallery-title %}
+  {{ page.gallery-title }}
+  {% else %}
+  Qualche immagine
+  {% endif %}
+</h2>
+<section class="gallery-container">
+  <div class="grid-container">
+    {% directory path: page.grid-gallery exclude: private %}
+    <div>
+      <img src="{{ file.url }}"
+           alt="{{ file.name }}"
+           datetime="{{ file.date | date_to_xmlschema }}" />
+    </div>
+    {% enddirectory %}
+  </div>
+</section>
+{% endif %}
