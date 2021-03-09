@@ -117,6 +117,9 @@ collections:
   sentieri:
     output: true
     sort_by: date
+  raccolte:
+    output: true
+    sort_by: date
 
 defaults:
   -
