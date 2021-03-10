@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: Archivio post
+title: Blog
 icon: fas fa-archive
 order: 4
 ---
