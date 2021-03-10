@@ -36,7 +36,7 @@ CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
 if [ "$CURRENT_BRANCH" != "$BRANCH" ]; then
   echo "Skipping tests, not currently on target branch 👋"
-  exit 1;
+  exit 0;
 fi
 
 if [ "$KILL" = "true" ]; then
