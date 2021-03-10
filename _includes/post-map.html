@@ -3,7 +3,7 @@
 -->
 
 {% if page.track %}
-<section id="map_container" class="gpx" data-gpx-source="{{ page.track | relative_url }}" data-map-target="demo-map" data-track-color="{{ page.track_color }}" data-hide-elevation-profile="{{page.hide_elevation_profile}}">
+<section id="map_container" class="gpx" data-gpx-source="{{ page.track | relative_url }}" data-map-target="demo-map" data-track-color="{{ page.track_color }}" data-hide-elevation-profile="{{page.hide_elevation_profile}}" data-pin-base-path="{{ "/assets/img/pins/" | relative_url }}">
   <header>
     <h4>Traccia:&nbsp;<span class="track-name">Sto caricando...</span></h4>
     <span class="start"></span>
