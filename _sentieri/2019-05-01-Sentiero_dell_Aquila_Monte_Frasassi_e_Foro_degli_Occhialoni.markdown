@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Italia
 - Marche
+tags:
+- Anello
+- Panorami
+- Appennino
+- Fenomeni Carsici
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

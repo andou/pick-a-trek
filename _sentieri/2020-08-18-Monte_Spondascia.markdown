@@ -7,6 +7,10 @@ track_color: green
 categories:
 - Italia
 - Alpi Orobie
+tags:
+- Andata e ritorno
+- Panorami
+- Facili roccette
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

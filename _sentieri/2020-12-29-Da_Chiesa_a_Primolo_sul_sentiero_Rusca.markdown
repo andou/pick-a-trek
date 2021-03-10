@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Italia
 - Alpi Orobie
+tags:
+- Anello
+- Panorami
+- Ciaspole
+- Neve
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

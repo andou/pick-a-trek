@@ -9,7 +9,10 @@ categories:
 - Italia
 - Prealpi
 tags:
+- Andata e ritorno
+- Panorami
 - Ciaspole
+- Neve
 ---
 
 Dopo un inzio con leggero saliscendi, il sentiero attraverso ripido un bosco e poi sale in spazi aperti, che noi abbiamo affrontato su un bel manto nevoso ma senza bisogno di ciaspole o ramponi. Ci sono poi due vie per raggiungere la Cima Grem, una sale in costa e l’altra, che abbiamo fatto noi, resta a mezzacosta. 

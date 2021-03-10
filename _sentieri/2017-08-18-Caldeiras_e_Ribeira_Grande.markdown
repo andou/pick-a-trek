@@ -7,6 +7,8 @@ track_color: green
 categories:
 - Estero
 - Azzorre
+tags:
+- Natura
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

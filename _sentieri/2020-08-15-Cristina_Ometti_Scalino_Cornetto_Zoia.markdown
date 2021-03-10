@@ -7,6 +7,16 @@ track_color: green
 categories:
 - Italia
 - Alpi Orobie
+tags:
+- Anello
+- Lunghe tratte  
+- Panorami
+- Questi un pò le gambe le spezzano
+- Facili roccette
+- Neve
+- 3000s
+- Rifugi Alpini
+- Ghiacciaio
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

@@ -7,6 +7,12 @@ track_color: green
 categories:
 - Italia
 - Oltrepò
+tags:
+- Lunghe tratte
+- Mare
+- Paesaggi
+- Natura
+- Bici
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

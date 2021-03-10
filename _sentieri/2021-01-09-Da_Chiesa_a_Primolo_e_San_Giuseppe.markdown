@@ -9,7 +9,10 @@ categories:
 - Italia
 - Alpi Orobie
 tags:
+- Anello
+- Panorami
 - Ciaspole
+- Neve
 ---
 
 Dal paese di Chiesa si imbocca un sentiero sterrato che sale a zigzag verso Primolo, ripido ma costante. Attraversato il paesino di Primolo, si raggiunge la piacevole pineta con il parco giochi. Da lì un sentiero scende ripido a destra verso le cave, ma noi abbiamo proseguito scendendo dolcemente sempre nel bosco fino a congiungerci con il sentiero Rusca. Attraversato il Mallero su un ponticello (ce ne sono due a poca distanza), si risale velocemente l'altro versante fino a raggiungere San Giuseppe. 

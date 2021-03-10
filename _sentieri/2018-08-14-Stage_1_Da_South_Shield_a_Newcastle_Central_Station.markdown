@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Estero
 - Inghilterra
+tags:
+- Lunghe tratte
+- Campagna
+- Paesaggi
+- Città
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

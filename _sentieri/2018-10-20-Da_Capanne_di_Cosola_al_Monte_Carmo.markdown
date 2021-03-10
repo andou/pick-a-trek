@@ -7,6 +7,10 @@ track_color: green
 categories:
 - Italia
 - Oltrepò
+tags:
+- Andata e ritorno
+- Panorami
+- Appennino
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

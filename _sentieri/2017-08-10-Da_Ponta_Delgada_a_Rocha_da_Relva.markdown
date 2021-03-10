@@ -7,6 +7,10 @@ track_color: green
 categories: 
 - Estero 
 - Azzorre
+tags:
+- Ripido
+- Andata e ritorno
+- Mare
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

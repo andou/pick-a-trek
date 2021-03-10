@@ -7,6 +7,12 @@ track_color: green
 categories:
 - Estero
 - Scozia
+tags:
+- Anello
+- Campagna
+- Paesaggi
+- Natura
+- Pioggia
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

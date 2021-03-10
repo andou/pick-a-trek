@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Italia
 - Val d'Aosta
+tags:
+- Anello
+- Panorami
+- Laghi
+- Rifugi Alpini
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

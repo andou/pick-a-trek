@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Italia
 - Val Grande
+tags:
+- Lunghe tratte
+- Paesaggi
+- Natura
+- Solitudine
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

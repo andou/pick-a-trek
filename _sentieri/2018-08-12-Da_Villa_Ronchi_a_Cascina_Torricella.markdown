@@ -7,6 +7,9 @@ track_color: green
 categories:
 - Italia
 - Ticino
+tags:
+- Natura
+- Fiume
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

@@ -6,7 +6,13 @@ track:  /assets/tracks/2018-08-21-Stage_8_Da_Easton_a_Bowness_on_Solway.gpx
 track_color: green
 categories:
 - Estero
-- Inghilterra
+- Inghilterra 
+tags:
+- Lunghe tratte
+- Campagna
+- Paesaggi
+- Natura
+- Pioggia
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Italia
 - Alpi Lepontine
+tags:
+- Andata e ritorno
+- Panorami
+- Ciaspole
+- Neve
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

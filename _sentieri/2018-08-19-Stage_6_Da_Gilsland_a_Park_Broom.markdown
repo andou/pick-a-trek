@@ -7,6 +7,12 @@ track_color: green
 categories:
 - Estero
 - Inghilterra
+tags:
+- Lunghe tratte
+- Campagna
+- Paesaggi
+- Natura
+- Pioggia
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

@@ -8,6 +8,11 @@ categories:
 - Italia
 - Prealpi
 grid-gallery: /assets/img/galleries/grignetta/
+tags:
+- Andata e ritorno
+- Panorami
+- Questi un pò le gambe le spezzano
+- Facili roccette
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

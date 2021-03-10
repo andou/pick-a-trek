@@ -7,6 +7,12 @@ track_color: green
 categories:
 - Italia
 - Appennino Ligure
+tags:
+- Tranquillo
+- Andata e ritorno
+- Panorami
+- Natura
+- Appennino
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

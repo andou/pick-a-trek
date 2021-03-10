@@ -9,6 +9,11 @@ categories:
 - Oltrepò
 gallery-title: Le foto
 grid-gallery: /assets/img/galleries/pietra_corva/
+tags:
+- Tranquillo
+- Andata e ritorno
+- Panorami
+- Appennino
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

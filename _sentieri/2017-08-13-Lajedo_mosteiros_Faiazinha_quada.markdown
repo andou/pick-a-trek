@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Estero
 - Azzorre
+tags:
+- One-way
+- Panorami
+- Natura
+- Mare
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

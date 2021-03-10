@@ -7,6 +7,12 @@ track_color: green
 categories:
 - Italia
 - Alpi Orobie
+tags:
+- Andata e ritorno
+- Panorami
+- Questi un pò le gambe le spezzano
+- Facili roccette
+- Rifugi Alpini
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

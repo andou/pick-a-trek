@@ -7,6 +7,10 @@ track_color: green
 categories:
 - Italia
 - Prealpi
+tags:
+- Andata e ritorno
+- Panorami
+- Natura
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

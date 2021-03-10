@@ -7,6 +7,10 @@ track_color: green
 categories:
 - Italia
 - Monti Sibillini
+tags:
+- Anello
+- Panorami
+- Appennino
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

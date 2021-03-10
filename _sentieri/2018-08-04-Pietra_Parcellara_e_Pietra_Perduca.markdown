@@ -7,6 +7,9 @@ track_color: green
 categories:
 - Italia
 - Piacentino
+tags:
+- Panorami
+- Appennino
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

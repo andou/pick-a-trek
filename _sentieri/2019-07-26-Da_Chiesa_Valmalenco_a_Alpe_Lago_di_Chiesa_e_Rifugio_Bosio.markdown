@@ -8,6 +8,11 @@ categories:
 - Italia
 - Alpi Orobie
 grid-gallery: /assets/img/galleries/alpe_lago_bosio/
+tags:
+- Andata e ritorno
+- Panorami
+- Natura
+- Rifugi Alpini
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

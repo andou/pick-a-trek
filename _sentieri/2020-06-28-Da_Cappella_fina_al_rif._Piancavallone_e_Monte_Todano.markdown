@@ -7,6 +7,11 @@ track_color: green
 categories:
 - Italia
 - Val Grande
+tags:
+- Tranquillo
+- Andata e ritorno
+- Panorami
+- Natura
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:
