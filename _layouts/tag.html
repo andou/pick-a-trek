@@ -3,6 +3,7 @@ layout: page
 # The layout for Tag page
 ---
 
+{% assign the_content = page.posts | sort: 'date' | reverse %}
 
 <div id="page-tag">
   <h1 class="pl-lg-2">
@@ -13,7 +14,7 @@ layout: page
   <ul class="post-content pl-0">
     {% assign post_long_df = site.data.date_format.post.long | default: '%b %e, %Y' %}
 
-    {% for post in page.posts %}
+    {% for post in the_content %}
     <li class="d-flex justify-content-between pl-md-3 pr-md-3">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span class="dash flex-grow-1"></span>
