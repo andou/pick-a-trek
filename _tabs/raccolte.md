@@ -1,6 +1,6 @@
 ---
 layout: raccolte
-title: Raccolte
+title: Multi-tappa
 icon: fas fa-list
 order: 3
 ---
