@@ -1,6 +1,6 @@
 ---
 layout: sentiero
-title:  "Da San Giuseppe al Lago Palu"
+title:  "Da San Giuseppe al Lago Palù"
 date:   2020-12-30 09:05:00 +0100
 track:  /assets/tracks/2020-12-30-Da_San_Giuseppe_al_Lago_Palu.gpx
 track_color: green

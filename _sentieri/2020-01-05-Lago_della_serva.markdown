@@ -1,6 +1,6 @@
 ---
 layout: sentiero
-title:  "Lago della serva"
+title:  "Lago della Serva"
 date:   2020-01-05 09:05:00 +0100
 track:  /assets/tracks/2020-01-05-Lago_della_serva.gpx
 track_color: green
