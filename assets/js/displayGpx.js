@@ -13,9 +13,10 @@ function displayGpx(elt) {
     var track_url = elt.getAttribute('data-gpx-source');
     var track_color = elt.getAttribute('data-track-color');
     var hide_elevation_profile = elt.getAttribute('data-hide-elevation-profile');
+    var pin_bp = elt.getAttribute('data-pin-base-path');
 
     var map = L.map(mapid);
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
     }).addTo(map);
 
@@ -54,9 +55,9 @@ function displayGpx(elt) {
         },
         async: true,
         marker_options: {
-            startIconUrl: 'http://mpetazzoni.github.io/leaflet-gpx/pin-icon-start.png',
-            endIconUrl: 'http://mpetazzoni.github.io/leaflet-gpx/pin-icon-end.png',
-            shadowUrl: 'http://mpetazzoni.github.io/leaflet-gpx/pin-shadow.png'
+            startIconUrl: pin_bp + 'pin-icon-start.png',
+            endIconUrl: pin_bp + 'pin-icon-end.png',
+            shadowUrl: pin_bp + 'pin-shadow.png'
         },
     }).on("addline", function (e) {
         if (hide_elevation_profile != 'true') {
