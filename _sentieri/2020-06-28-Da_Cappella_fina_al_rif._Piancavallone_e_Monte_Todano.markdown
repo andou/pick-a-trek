@@ -14,4 +14,4 @@ tags:
 - Natura
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+La Val Grande ha fama di essere selvaggia e pericolosa, a noi invece è sembrata tranquilla e questo sentiero lo testimonia: facile tenere la traccia, per lo più nel bosco; uscendo dal bosco la vista spazia sulla Val Grande e si raggiunge la cima del Todano. Subito sotto, il rifugio Pian Cavallone. 
