@@ -14,4 +14,4 @@ tags:
 - Appennino
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+La riserva di Monte Alpe ha alcuni sentieri; noi abbiamo parcheggiato al passo delle Tre Strade, e da lì si sale nel bosco seguendo il sentiero principale, una comoda carrareccia, che arriva in cresta.
