@@ -14,4 +14,5 @@ tags:
 - Appennino
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Da Bagnaria il sentiero sale fino al Monte Bagnaria, poi resta in falsopiano fino all'abbazia di Sant'Alberto di Butrio. Il sentiero è sempre tra i boschi, ombroso e fresco. 
+L'abbazia merita una visita per gli affreschi. 
