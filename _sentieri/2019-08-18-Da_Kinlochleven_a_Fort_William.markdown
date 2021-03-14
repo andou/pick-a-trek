@@ -15,4 +15,4 @@ tags:
 - Pioggia
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Settima e ultima tappa della West Highland Way.

@@ -15,4 +15,4 @@ tags:
 - Pioggia
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Prima tappa della West Highland Way.

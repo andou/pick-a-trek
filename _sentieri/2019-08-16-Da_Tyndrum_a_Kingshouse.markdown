@@ -15,4 +15,4 @@ tags:
 - Pioggia
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Quinta tappa della West Highland Way, la più lunga.
