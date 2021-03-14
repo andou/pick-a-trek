@@ -14,4 +14,5 @@ tags:
 - Neve
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+La salita presenta alcuni tratti più costanti e alcuni strappi più ripidi, soprattutto per raggiungere la ex seggiovia dell'Aquila. Da lì la traccia corre in cresta, e i versanti sono ripidi quindi consigliamo i ramponi.
+Le fatiche sono ricompensate ampiamente: il panorama dalla Punta dell'Aquila è uno dei migliori!
