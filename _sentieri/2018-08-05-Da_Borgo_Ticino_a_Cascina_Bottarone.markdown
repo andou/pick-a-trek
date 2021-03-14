@@ -12,4 +12,4 @@ tags:
 - Fiume
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Da Borgo Ticino, quartiere di Pavia a sud del Ponte Coperto, si costeggia il Ticino e poi si prosegue tra i campi coltivati a pioppeto, lungo le strade bianche che conducono tra una cascina e l'altra. Il sentiero passa accanto alla Panchina Gigante, e arriva al parco "Grande Foresta tra i due fiumi", un progetto di riqualificazione ambientale tra Po e Ticino. 
