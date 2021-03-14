@@ -15,4 +15,4 @@ tags:
 - Pioggia
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Settima tappa del Vallo di Adriano, che attraversa Carlisle. 

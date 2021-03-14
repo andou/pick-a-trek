@@ -15,4 +15,4 @@ tags:
 - Pioggia
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Sesta tappa del Vallo di Adriano, per noi la più lunga.
