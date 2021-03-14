@@ -13,4 +13,6 @@ tags:
 - Natura
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Nel Triangolo Lariano, questa zona è ricca di sentieri per tutte le difficoltà: il pezzo iniziale è su comoda carrareccia, poi ci sono diverse cime che si possono raggiungere o... aggirare! 
+Dalle cime (Palanzone, Bul) la vista sui laghi è splendida. 
+Il parcheggio all'Alpe del Viceré è molto grande, e d'estate è a pagamento, ma non sottovalutate l'affluenza: è sempre opportuno arrivare presto! 
