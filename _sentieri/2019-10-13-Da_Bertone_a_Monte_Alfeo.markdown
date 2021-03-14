@@ -15,4 +15,4 @@ tags:
 - Appennino
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Un altro bel sentiero in appennino, in parte nel bosco e in parte in cresta dove (nebbia permettendo...) si gode di una splendida vista. 
