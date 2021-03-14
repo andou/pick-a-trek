@@ -12,4 +12,4 @@ tags:
 - Fiume
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Il sentiero costeggia il Ticino all'interno del suo Parco Naturale, a sud di Vigevano. L'idea era di fare un anello in senso antiorario, ma poco dopo la partenza abbiamo scoperto che la vegetazione fitta aveva preso il sopravvento sul sentiero marcato sulla mappa, e siamo tornati indietro, accontentandoci di arrivare a Cascina Torricella e poi tornare indietro per la medesima strada. Il sentiero fatto è comodo, largo e pianeggiante, e attraversa piacevolmente il bosco.
