@@ -32,7 +32,11 @@
             {% assign url = '/' %}
           {% endif %}
           <a href="{{ url | relative_url }}">
+          {% if page.layout == 'raccolta' %}
+            {{ 'Multi-tappa' | capitalize }}
+          {% else %}
             {{ item | capitalize }}
+          {% endif %}
           </a>
         </span>
 
