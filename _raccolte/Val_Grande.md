@@ -6,7 +6,6 @@ order: 4
 stages_n: 2
 stages:
 - "/sentieri/Da_Cicogna_a_Pian_di_Boit"
-- "/sentieri/Da_Pian_di_Boit_a_Pogallo"
 - "/sentieri/Da_Pogallo_a_Cicogna"
 ---
 
