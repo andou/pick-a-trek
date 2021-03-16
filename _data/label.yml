@@ -7,6 +7,8 @@ panel:
 
 post:
   relate_posts: Vedi anche
+  multi_track_nav: Nella stessa multi-tappa
+  track_nav: Altri sentieri
   share: Condividi
   button:
     next: Successivo
