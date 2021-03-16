@@ -1,6 +1,6 @@
 ---
 layout: sentiero
-title:  "Da Torriglia alle bici"
+title:  "VDS19/T2: Da Torriglia alle bici"
 date:   2019-06-09 09:05:00 +0100
 track_color: green
 grid-gallery: /assets/img/galleries/viadelsale/

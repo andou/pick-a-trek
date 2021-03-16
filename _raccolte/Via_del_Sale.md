@@ -10,4 +10,7 @@ stages:
 - "/sentieri/Discesa_a_Sori_in_bici"
 ---
 
-Un estratto in due tappe della famosa Via del Sale. Collegherebbe Varzi al mare ma noi abbiamo _barato_ e siamo partiti da Capanne di Cosola
+Un estratto in due tappe della famosa Via del Sale. Collegherebbe Varzi al mare ma noi abbiamo _barato_ e siamo partiti 
+da Capanne di Cosola.
+
+Ah, l'ultimissimo tratto fino a Sori l'abbiamo barato ancora di più e l'abbiamo fatto in bici, ma è stato ugualmente bellissimo :rainbow:
