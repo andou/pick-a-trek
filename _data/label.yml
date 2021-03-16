@@ -7,12 +7,14 @@ panel:
 
 post:
   relate_posts: Vedi anche
-  multi_track_nav: Nella stessa multi-tappa
+  multi_track_nav: "Multi-tappa"
   track_nav: Altri sentieri
   share: Condividi
   button:
     next: Successivo
     previous: Precedente
+    previousstage: Tappa Successiva
+    nextstage: Tappa Precedente
 
 search_hint: Ricerca   # text show on search bar
 

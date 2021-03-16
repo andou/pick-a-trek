@@ -12,9 +12,17 @@ Jekyll::Hooks.register :site, :post_read do |site|
   for raccolta in site.collections['raccolte'].docs
     if raccolta['stages'].size > 0
       stages = []
+      prevmulti = nil
       for stage in raccolta['stages']
         #Jekyll.logger.info  stage.inspect
         #Jekyll.logger.info  dictionary[stage].inspect
+        unless prevmulti.nil?
+            dictionary[stage].data['prevmulti'] = prevmulti
+            dictionary[stage].data['multistage'] = raccolta
+            dictionary[prevmulti.id].data['nextmulti'] = dictionary[stage]
+            dictionary[prevmulti.id].data['multistage'] = raccolta
+        end
+        prevmulti = dictionary[stage]
         stages << dictionary[stage]
       end
 

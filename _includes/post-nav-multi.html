@@ -1,37 +1,49 @@
 <!--
   Navigation buttons at the bottom of the post.
 -->
-
-{% if page.previousmulti.url || page.nextmulti.url %}
-<h3 class="pt-2 mt-4 ml-1"
-    data-toc-skip>{{ site.data.label.post.multi_track_nav | default: 'Further Reading' }}</h3>
+{% if page.prevmulti.url or page.nextmulti.url %}
+<h3 class="pt-2 mt-4 ml-1" data-toc-skip>
+  <i class="fas fa-list fa-sm mr-1"></i>
+  {% if page.multistage.url %}
+    <a href="{{ site.baseurl }}{{ page.multistage.url }}">
+      {{ page.multistage.title }}
+    </a>
+  {% else %}
+    {{ site.data.label.post.multi_track_nav | default: 'Multi-tappa' }}
+  {% endif %}
+</h3>
 <div class="post-navigation d-flex justify-content-between">
-  {% if page.previous.url %}
-  <a href="{{ site.baseurl }}{{ page.previous.url }}" class="btn btn-outline-primary"
-    prompt="{{ site.data.label.post.button.previous | default: 'previous' }}">
-    <p>{{ page.previous.title }}</p>
+  {% if page.prevmulti.url %}
+  <a href="{{ site.baseurl }}{{ page.prevmulti.url }}" class="btn btn-outline-primary"
+    prompt="{{ site.data.label.post.button.previousstage | default: 'previous' }}">
+    <p>{{ page.prevmulti.title }}</p>
   </a>
   {% else %}
   <span class="btn btn-outline-primary disabled"
-    prompt="{{ site.data.label.post.button.previous | default: 'previous' }}">
+    prompt="{{ site.data.label.post.button.previousstage | default: 'previous' }}">
     <p>-</p>
   </span>
   {% endif %}
 
-  {% if page.next.url %}
+  {% if page.nextmulti.url %}
   <a href="{{ site.baseurl }}{{page.next.url}}" class="btn btn-outline-primary"
-    prompt="{{ site.data.label.post.button.next | default: 'next' }}">
-    <p>{{ page.next.title }}</p>
+    prompt="{{ site.data.label.post.button.nextstage | default: 'next' }}">
+    <p>{{ page.nextmulti.title }}</p>
   </a>
   {% else %}
   <span class="btn btn-outline-primary disabled"
-    prompt="{{ site.data.label.post.button.next | default: 'next' }}">
+    prompt="{{ site.data.label.post.button.nextstage | default: 'next' }}">
     <p>-</p>
   </span>
   {% endif %}
 </div>
 
 
-<h3 class="pt-2 mt-4 ml-1"
+{% unless page.prevmulti.url and page.nextmulti.url %}
+<h3 class="pt-1 mt-1 ml-1"
     data-toc-skip>{{ site.data.label.post.track_nav | default: 'Further Reading' }}</h3>
+{% include post-nav.html %}
+{% endunless %}
+
+
 {% endif %}

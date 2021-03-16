@@ -63,6 +63,9 @@
           margin-left: 2.5rem;
           position: relative;
           top: 0.1rem;
+          &.multi-track-link{
+            margin-left: 0.5rem;
+          }
         }
       }
 
@@ -102,7 +105,7 @@
       width: 1.4rem;
       text-align: center;
 
-      ~ a::before {
+      + a::before {
         /* A dot for Month and Day */
         content: "";
         display: inline-block;
