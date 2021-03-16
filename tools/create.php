@@ -100,7 +100,7 @@ if (!empty($meta)) {
     $author_name = $xml->createElement('name');
     $author_email = $xml->createElement('email');
     $author_name->nodeValue = "Antonio Pastorino";
-    $author_email->nodeValue = "antonio.pastorino@gmail.com";
+    $author_email->nodeValue = "antonio.pastorino@pick-a-trek.it";
     $author->appendChild($author_name);
     echo "-> Adding: ", $author_name->nodeName, " - ", $author_name->nodeValue, "\n";
     $author->appendChild($author_email);

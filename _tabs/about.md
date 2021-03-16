@@ -6,7 +6,7 @@ order: 1
 
 ## In due parole
 
-Antonio ([antonio.pastorino@gmail.com](mailto:antonio.pastorino@gmail.com)) e Marta ([marta.paravidino@gmail.com](mailto:marta.paravidino@gmail.com)), camminatori e amanti della natura.
+Antonio ([antonio.pastorino@pick-a-trek.it](mailto:antonio.pastorino@pick-a-trek.it)) e Marta ([marta.paravidino@pick-a-trek.it](mailto:marta.paravidino@pick-a-trek.it)), camminatori e amanti della natura.
 
 ## Un pochino di storia
 
