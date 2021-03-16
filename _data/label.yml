@@ -13,8 +13,8 @@ post:
   button:
     next: Successivo
     previous: Precedente
-    previousstage: Tappa Successiva
-    nextstage: Tappa Precedente
+    previousstage: Tappa Precedente
+    nextstage: Tappa Successiva
 
 search_hint: Ricerca   # text show on search bar
 
