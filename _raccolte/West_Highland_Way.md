@@ -14,4 +14,6 @@ stages:
 - "/sentieri/Da_Kinlochleven_a_Fort_William"
 ---
 
-La sontuosa lunga via che collega Glasgow a Fort William, nella selvaggia Scozia
+La sontuosa lunga via che collega Glasgow a Fort William, nella selvaggia Scozia.
+
+Qualche info in più sul sito internet della [West Highland Way](https://www.westhighlandway.org/){:target="_blank"}.
