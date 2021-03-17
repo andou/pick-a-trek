@@ -10,12 +10,12 @@
   {% if include.tooltip %}
     data-toggle="tooltip"
     data-placement="bottom"
-    title="{{ include.date | date: tooltip_df }}"
+    title="{{ include.date | date_loc: tooltip_df }}"
   {% endif %}>
 
   {% assign this_year = site.time | date: "%Y" %}
   {% assign post_year = include.date | date: "%Y" %}
-  {% capture this_month %}{{ include.date | date: "%b" }}{% endcapture %}
+  {% capture this_month %}{{ include.date | date_loc: "%b" }}{% endcapture %}
 
   {% if post_year == this_year %}
     {{ this_month }}
