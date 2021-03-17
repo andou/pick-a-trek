@@ -25,3 +25,13 @@ Repository del sito web [Pick a Trek](https://www.pick-a-trek.it/)
 ## Updates
 
 - 17/03/2021 -> Traduzione ITA delle date :smirk:
+
+
+## SVG Resources
+
+- https://www.reddit.com/r/webdev/comments/eejh52/websites_i_use_for_free_svg_illustrations/
+- https://css-tricks.com/animating-svg-css/
+- https://www.manypixels.co/gallery
+- https://undraw.co/search
+- https://www.humaaans.com/
+- https://github.com/SVG-Edit/svgedit
