@@ -54,9 +54,9 @@
       {% if page.layout == 'home' %}
         {{- site.title -}}
       {% elsif page.dynamic_title %}
-        {{- page.title -}}
+      {{- site.title -}}&nbsp;/&nbsp;{{- page.title -}}
       {% else %}
-        {{- page.layout | capitalize -}}
+      {{- site.title -}}&nbsp;/&nbsp;{{- page.layout | capitalize -}}
       {% endif %}
     </div>
 
