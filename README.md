@@ -1,6 +1,6 @@
 # Pick a trek
 
-Repository del sito web [Pick a Trek](https://andou.github.io/pick-a-trek/raccolte/)
+Repository del sito web [Pick a Trek](https://www.pick-a-trek.it/)
 
 ## Brevi riferimenti
 
@@ -21,3 +21,7 @@ Repository del sito web [Pick a Trek](https://andou.github.io/pick-a-trek/raccol
 ├── tools/                              # Tool di varia utilità 
 └── README.md                           # Questo README
 ```
+
+## Updates
+
+- 17/03/2021 -> Traduzione ITA delle date :smirk:
