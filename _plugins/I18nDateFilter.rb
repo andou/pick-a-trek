@@ -1,6 +1,9 @@
-  require 'i18n'
+# see: https://github.com/gacha/gacha.id.lv/blob/old-blog/_plugins/i18n_filter.rb
+# see: https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
 
-LOCALE = Jekyll.configuration({})['locale'] # set your locale from config var
+require 'i18n'
+
+LOCALE = Jekyll.configuration({})['locale']
 
 module Jekyll
   module I18nDateFilter
