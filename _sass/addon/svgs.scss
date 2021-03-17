@@ -1,0 +1,28 @@
+
+.pickatrek--illustration {
+  /** background-color: whitesmoke; **/
+  &.pickatrek--illustration_right {
+    float: right;
+    margin: 0.5rem 0rem 0.5rem 1.5rem;
+  }
+
+  &.pickatrek--illustration_left {
+    float: left;
+    margin: 0.5rem 1.5rem 0.5rem 0;
+  }
+
+  figcaption {
+    font-style: italic;
+    width: 100%;
+  }
+
+  svg {
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 576px) {
+  .pickatrek--illustration {
+    width: 100%;
+  }
+}
