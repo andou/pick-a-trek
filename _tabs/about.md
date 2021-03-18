@@ -12,19 +12,13 @@ Antonio ([antonio.pastorino@pick-a-trek.it](mailto:antonio.pastorino@pick-a-trek
 
 Nel **2016** scopriamo le camminate. Anzi, ri-scopriamo, perché in realtà da bimbetti avevamo avuto diversi approcci con la montagna: Marta si faceva convincere a scarpinare dalla mamma e gli zii che le mostravano i fiorellini :cherry_blossom: :hibiscus: e le fragoline di bosco nascoste lungo il sentiero, Antonio trascinato dal nonno sui rifugi della Valmalenco. :mountain:
 
-<figure class="pickatrek--illustration_left pickatrek--illustration">
-  {% include svgs/marta.svg %}
-  <figcaption class="text-muted text-center">Marta studia il nostro percorso</figcaption>
-</figure>
+{% render_svg 'svg/marta.svg','pickatrek--illustration_left pickatrek--illustration', 'Marta studia il nostro percorso' %}
 
 Crescendo, altri interessi e la pigrizia ci hanno distolto dalle escursioni, riscoperte poi nel **2016**: in un viaggio nei grandi parchi degli Stati Uniti :us:, abbiamo subito capito che per allontanarsi dalle orde di turisti e godere di tutta quella natura selvaggia, in fondo bastava solo fare due passi. E se a due ne aggiungi altri due... insomma, siamo tornati carichi di voglia di natura. :national_park:
 
 Nell’estate del **2017** andiamo alle Azzorre :portugal:, in mezzo all’Atlantico, e scopriamo essere il paradiso del trekking: [siti web](http://trails.visitazores.com/en){:target="_blank"} ben fatti per mostrare che percorso fare, con tutte le informazioni e sentieri di tutte le difficoltà, e poi sul posto i segnavia ben visibili e i sentieri manutenuti impediscono di perdersi e ci hanno fatto appassionare ancora di più. In questa vacanza iniziamo a registrare le tracce che facciamo :round_pushpin:.
 
-<figure class="pickatrek--illustration_right pickatrek--illustration">
-{% include svgs/antonio.svg %}
-  <figcaption class="text-muted text-center">Antonio in posizione di fuga</figcaption>
-</figure>
+{% render_svg 'svg/antonio.svg','pickatrek--illustration_right pickatrek--illustration', 'Antonio in posizione di fuga' %}
 
 Ogni giorno facevamo tranquillamente circa 20 km, e allora che fai, non vuoi lanciarti nell’esperienza della multi-tappa? No, no, vi stoppiamo subito: niente Santiago. La spiritualità non fa per noi, e nemmeno il caldo della Spagna :es:.
 
