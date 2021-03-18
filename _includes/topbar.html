@@ -50,14 +50,8 @@
 
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
-    <div id="topbar-title">
-      {% if page.layout == 'home' %}
-        {{- site.title -}}
-      {% elsif page.dynamic_title %}
-      {{- site.title -}}&nbsp;/&nbsp;{{- page.title -}}
-      {% else %}
-      {{- site.title -}}
-      {% endif %}
+    <div id="topbar-title-pat">
+      {% render_svg 'svg/pat-logo.svg','pickatrek--illustration pickatrek--illustration_logo' %}
     </div>
 
     <i id="search-trigger" class="fas fa-search fa-fw"></i>

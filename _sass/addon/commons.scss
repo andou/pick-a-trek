@@ -674,6 +674,7 @@ $sidebar-display: "sidebar-display";
   // #avatar
 
   .site-title {
+    font-family: 'Assistant', sans-serif;
     a {
       font-weight: 900;
       font-size: 1.5rem;
@@ -1036,7 +1037,8 @@ $sidebar-display: "sidebar-display";
 
 // #search-results
 
-#topbar-title {
+#topbar-title,
+#topbar-title-pat {
   display: none;
   font-size: 1.1rem;
   font-weight: 600;
@@ -1300,6 +1302,7 @@ $sidebar-display: "sidebar-display";
   }
 
   #topbar-title,
+  #topbar-title-pat,
   #sidebar-trigger,
   #search-trigger {
     display: block;
@@ -1389,7 +1392,8 @@ $sidebar-display: "sidebar-display";
     box-shadow: none !important;
   }
 
-  #topbar-title {
+  #topbar-title,
+  #topbar-title-pat {
     text-align: left;
   }
 
@@ -1437,6 +1441,7 @@ $sidebar-display: "sidebar-display";
 
   .site-title {
     font-size: 1.3rem;
+    font-family: 'Assistant', sans-serif;
     margin-left: 0 !important;
   }
 
@@ -1630,7 +1635,7 @@ $sidebar-display: "sidebar-display";
 
       .site-title {
         @extend %profile-ml;
-
+        font-family: 'Assistant', sans-serif;
         a {
           font-size: 1.7rem;
           letter-spacing: 1px;
