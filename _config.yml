@@ -185,3 +185,6 @@ jekyll-archives:
 cookie_policy:
   enabled: true
   endpoint: https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?theme=grey&tracking=1&thirdparty=1&always=1&hideDetailsBtn=1
+
+animation:
+  enabled: true
