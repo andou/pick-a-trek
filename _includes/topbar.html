@@ -4,29 +4,28 @@
 
 <div id="topbar-wrapper" class="row justify-content-center topbar-down">
   <div id="topbar" class="col-11 d-flex h-100 align-items-center justify-content-between">
-    <span id="breadcrumb">
-
+    <div id="breadcrumb" class="d-flex h-100">
+    <div id="breadcrumb-title-pat">
+      {% render_svg 'svg/pat-logo.svg','pickatrek--illustration pickatrek--illustration_logo' %}
+    </div>
     {% assign paths = page.url | split: '/' %}
 
-    {% if paths.size == 0 %}
-      <!-- index page -->
-      <span>{{ 'Posts' }}</span>
-    {% else %}
+    {% if paths.size != 0 %}
 
       {% for item in paths %}
 
         {% if forloop.first %}
           {% unless page.layout == 'post' %}
-          <span>
+          <div class="breadcrumb-crumb">
             <a href="{{ '/' | relative_url }}">{{ 'Home' }}</a>
-          </span>
+          </div>
           {% endunless %}
 
         {% elsif forloop.last %}
-          <span>{{ page.title }}</span>
+          <div class="breadcrumb-crumb">{{ page.title }}</div>
 
         {% else %}
-        <span>
+        <div class="breadcrumb-crumb">
           {% assign url = item %}
           {% if item == 'posts' and page.layout == 'post' %}
             {% assign url = '/' %}
@@ -38,7 +37,7 @@
             {{ item | capitalize }}
           {% endif %}
           </a>
-        </span>
+        </div>
 
         {% endif %}
 
@@ -46,7 +45,7 @@
 
     {% endif %}
 
-    </span><!-- endof #breadcrumb -->
+    </div><!-- endof #breadcrumb -->
 
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 

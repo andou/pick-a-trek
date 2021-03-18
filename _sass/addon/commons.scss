@@ -675,6 +675,7 @@ $sidebar-display: "sidebar-display";
 
   .site-title {
     font-family: 'Assistant', sans-serif;
+
     a {
       font-weight: 900;
       font-size: 1.5rem;
@@ -880,6 +881,12 @@ $sidebar-display: "sidebar-display";
   #topbar-wrapper {
     height: $topbar-height-mobile;
   }
+
+  #topbar {
+    #breadcrumb {
+      display: none !important;
+    }
+  }
 }
 
 #topbar {
@@ -896,7 +903,11 @@ $sidebar-display: "sidebar-display";
       @extend %link-hover;
     }
 
-    span {
+    .breadcrumb-crumb {
+      padding: 0.75rem 0 0 0.5rem;
+    }
+
+    div {
       &:not(:last-child) {
         &::after {
           content: "›";
@@ -1636,6 +1647,7 @@ $sidebar-display: "sidebar-display";
       .site-title {
         @extend %profile-ml;
         font-family: 'Assistant', sans-serif;
+
         a {
           font-size: 1.7rem;
           letter-spacing: 1px;
