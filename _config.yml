@@ -188,3 +188,6 @@ cookie_policy:
 
 animation:
   enabled: true
+
+manifest:
+  release: 01.00.02

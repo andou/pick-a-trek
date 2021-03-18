@@ -2,7 +2,7 @@
   CSS selector for site.
 -->
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.manifest.release | default: '01.00.01' }}">
 
 {% if site.toc and page.toc %}
   <link rel="stylesheet"

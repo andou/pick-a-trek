@@ -7,7 +7,7 @@ layout: compress
 const include = [
 
   /*--- CSS ---*/
-  '{{ "/assets/css/style.css" | relative_url }}',
+  '{{ "/assets/css/style.css" | relative_url }}?v={{ site.manifest.release | default: "01.00.01" }}',
 
   /*--- Javascripts ---*/
   '{{ "/assets/js/dist/home.min.js" | relative_url }}',
