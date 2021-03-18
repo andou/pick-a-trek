@@ -3,6 +3,9 @@
 */
 
 .home-superpin__container {
+
+  margin-top: 3.5rem;
+
   .home-superpin__message{
     font-size: 1.1rem;
   }
@@ -22,6 +25,13 @@
         text-decoration: none;
       }
     }
+  }
+}
+
+
+@media all and (max-width: 830px) {
+  .home-superpin__container {
+    margin-top: 4.5rem;
   }
 }
 
