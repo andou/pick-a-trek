@@ -28,7 +28,7 @@
 
 module Jekyll
 
-  class DirectoryTag < Liquid::Block
+  class TagDirectory < Liquid::Block
     include Convertible
 
     STANDARD_POST_FILENAME_MATCHER = /^(.+\/)*(\d+-\d+-\d+)-(.*)(\.[^.]+)$/
@@ -119,4 +119,4 @@ module Jekyll
 
 end
 
-Liquid::Template.register_tag('directory', Jekyll::DirectoryTag)
+Liquid::Template.register_tag('directory', Jekyll::TagDirectory)

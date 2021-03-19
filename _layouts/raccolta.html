@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if jekyll.environment == "development" %}
+{% assign use_weserve = false %}
+{% else %}
+{% assign use_weserve = site.data.weserve.active %}
+{% endif %}
+
 <div class="row">
 
   <div id="post-wrapper" class="col-12 col-lg-11 col-xl-8">
@@ -21,11 +27,19 @@ layout: default
       <div class="post-content post-content__raccolta">
 
         {% if page.image.src %}
-          <img src="{{ page.image.src }}" class="preview-img" alt="{{ page.image.alt | default: "Preview Image" }}">
+          {% if use_weserve %}
+            {% figure {{site.data.weserve.url | append: site.url | append: page.image.src }}, col-lg-6 float-lg-left mr-lg-2, {{page.image.caption | default: ''}} , {{page.image.alt | default: 'Preview'}} %}
+          {% else %}
+            {% figure {{page.image.src}}, col-lg-6 float-lg-left mr-lg-2, {{page.image.caption | default: ''}} , {{page.image.alt | default: 'Preview'}} %}
+          {% endif %}
         {% endif %}
 
         {{ content }}
 
+      </div>
+
+      <div class="post-content post-content__raccolta">
+        <h2>Le tappe</h2>
         <!-- stages -->
         {% if page.stages.size > 0 %}
         <ul class="post-content pl-0">
@@ -39,7 +53,6 @@ layout: default
           {% endfor %}
         </ul>
         {% endif %}
-
       </div>
 
       <div class="post-tail-wrapper text-muted">

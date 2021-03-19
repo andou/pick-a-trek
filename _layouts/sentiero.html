@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if jekyll.environment == "development" %}
+{% assign use_weserve = false %}
+{% else %}
+{% assign use_weserve = site.data.weserve.active %}
+{% endif %}
+
 <div class="row">
 
     <div id="post-wrapper" class="col-12 col-lg-11 col-xl-8">
@@ -43,8 +49,13 @@ layout: default
 
             <div class="post-content">
 
+
                 {% if page.image.src %}
-                <img src="{{ page.image.src }}" class="preview-img" alt="{{ page.image.alt | default: "Preview Image" }}">
+                    {% if use_weserve %}
+                        {% figure {{site.data.weserve.url | append: site.url | append: page.image.src }}, col-lg-6 float-lg-left mr-lg-2, {{page.image.caption | default: ''}} , {{page.image.alt | default: 'Preview'}} %}
+                    {% else %}
+                        {% figure {{page.image.src}}, col-lg-6 float-lg-left mr-lg-2, {{page.image.caption | default: ''}} , {{page.image.alt | default: 'Preview'}} %}
+                    {% endif %}
                 {% endif %}
 
                 {{ content }}

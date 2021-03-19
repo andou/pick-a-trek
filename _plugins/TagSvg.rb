@@ -1,5 +1,5 @@
 module Jekyll
-  class SvgTag < Liquid::Tag
+  class TagSvg < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
       super
@@ -33,4 +33,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('render_svg', Jekyll::SvgTag)
+Liquid::Template.register_tag('render_svg', Jekyll::TagSvg)
