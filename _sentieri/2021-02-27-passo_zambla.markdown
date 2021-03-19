@@ -5,8 +5,8 @@ date:   2021-02-27 09:05:00 +0100
 track:  /assets/tracks/2021-02-27-Passo_Zambla.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/grem/
-image:
-    src: /assets/img/galleries/grem/IMG_4527.jpg
+image: /assets/img/galleries/grem/IMG_4527.jpg
+featured_image:
     alt: Cresta di passo Zambla
     caption: Una veduta dalla cresta finale
 categories:

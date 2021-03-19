@@ -4,8 +4,8 @@ title: Via del Sale
 date: 2019-06-08 00:00:00 +0100
 order: 2
 stages_n: 2
-image:
-    src: /assets/img/featured/VDS.jpg
+image: /assets/img/featured/VDS.jpg
+featured_image:
     alt: Via del Sale
     caption: Panorami così non si trovano da altre parti
 stages:

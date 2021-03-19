@@ -3,6 +3,7 @@ layout: raccolte
 title: Multi-tappa
 icon: fas fa-list
 order: 3
+image: /assets/img/featured/map.png
 ---
 {% render_svg 'svg/map.svg','pickatrek--illustration_left pickatrek--illustration' %}
 

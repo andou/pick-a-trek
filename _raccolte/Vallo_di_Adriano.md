@@ -4,8 +4,8 @@ title: Vallo di Adriano (Hadrian's Wall Path)
 date: 2018-08-14 00:00:00 +0100
 order: 1
 stages_n: 8
-image:
-    src: /assets/img/featured/HWP.jpg
+image: /assets/img/featured/HWP.jpg
+featured_image:
     alt: West Highland Way
     caption: No non ci si cammina sopra tutto il tempo
 stages: 

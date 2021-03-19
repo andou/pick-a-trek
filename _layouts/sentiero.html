@@ -50,11 +50,11 @@ layout: default
             <div class="post-content">
 
 
-                {% if page.image.src %}
+                {% if page.image %}
                     {% if use_weserve %}
-                        {% figure {{site.data.weserve.url | append: site.url | append: page.image.src }}, col-lg-6 float-lg-left mr-lg-2, {{page.image.caption | default: ''}} , {{page.image.alt | default: 'Preview'}} %}
+                        {% figure {{site.data.weserve.url | append: site.url | append: page.image }}, col-lg-6 float-lg-left mr-lg-2, {{page.featured_image.caption | default: ''}} , {{page.featured_image.alt | default: 'Preview'}} %}
                     {% else %}
-                        {% figure {{page.image.src}}, col-lg-6 float-lg-left mr-lg-2, {{page.image.caption | default: ''}} , {{page.image.alt | default: 'Preview'}} %}
+                        {% figure {{page.image}}, col-lg-6 float-lg-left mr-lg-2, {{page.featured_image.caption | default: ''}} , {{page.featured_image.alt | default: 'Preview'}} %}
                     {% endif %}
                 {% endif %}
 

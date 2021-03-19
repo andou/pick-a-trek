@@ -3,6 +3,7 @@ layout: archives
 title: Blog
 icon: fas fa-archive
 order: 4
+image: /assets/img/featured/open_map.png
 ---
 
 {% render_svg 'svg/open_map.svg','pickatrek--illustration_left pickatrek--illustration' %}

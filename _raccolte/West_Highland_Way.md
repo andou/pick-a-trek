@@ -4,8 +4,8 @@ title: West Highland Way
 date:   2019-08-12 00:00:00 +0100
 order: 3
 stages_n: 7
-image:
-    src: /assets/img/featured/WHW.jpg
+image: /assets/img/featured/WHW.jpg
+featured_image:
     alt: WHW2019
     caption: Proprio come te la immagini
 stages:

@@ -3,6 +3,7 @@ layout: sentieri
 title: Sentieri
 icon: fas fa-hiking
 order: 2
+image: /assets/img/featured/backpack.png
 ---
 
 {% render_svg 'svg/backpack.svg','pickatrek--illustration_left pickatrek--illustration' %}
