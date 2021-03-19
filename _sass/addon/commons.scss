@@ -934,6 +934,7 @@ $sidebar-display: "sidebar-display";
   border: 1px solid var(--search-wrapper-bg);
   background: var(--search-wrapper-bg);
   padding: 0 0.5rem;
+  margin-left: 1rem;
 
   i {
     z-index: 2;
@@ -948,7 +949,7 @@ $sidebar-display: "sidebar-display";
 
 #search-cancel { /* 'Cancel' link */
   color: var(--link-color);
-  margin-left: 1rem;
+  margin-left: 0.6rem;
   display: none;
 }
 
