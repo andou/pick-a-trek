@@ -908,10 +908,12 @@ $sidebar-display: "sidebar-display";
     }
 
     div {
-      &:not(:last-child) {
-        &::after {
-          content: "›";
-          padding: 0 0.3rem;
+      &:not(:first-child) {
+        &:not(:last-child) {
+          &::after {
+            content: "›";
+            padding: 0 0.3rem;
+          }
         }
       }
     }

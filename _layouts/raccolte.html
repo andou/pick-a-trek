@@ -5,7 +5,12 @@ layout: page
 {% assign le_raccolte = site.raccolte | sort: 'date' | reverse %}
 
 
+<h1>Raccolte Multi-tappa</h1>
+
+<div class="post-content track-archives">
 {{ content }}
+</div>
+
 <div id="archives" class="pl-xl-2">
   {% for post in le_raccolte %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

@@ -40,6 +40,12 @@
 }
 
 .post-content {
+  overflow: hidden;
+
+  &.track-archives{
+    margin-bottom: 2.5rem;
+  }
+
   .preview-img {
     @include align-center;
 
