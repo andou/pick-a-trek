@@ -23,7 +23,7 @@ timezone: Europe/Rome
 # --------------------------
 title: Pick a Trek                          # the main title
 
-tagline: Un passo davanti all'altro, silenzio tempo e misura.   # it will display as the sub-title
+tagline: Un passo davanti all'altro, silenzio tempo e misura.@[P. Cognetti]   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Una semplice raccolta di sentieri e percorsi calpestati da Antonio e Marta
