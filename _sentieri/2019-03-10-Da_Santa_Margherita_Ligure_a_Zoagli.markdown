@@ -14,4 +14,4 @@ tags:
 - Natura
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Quarta tappa del Sentiero Liguria.

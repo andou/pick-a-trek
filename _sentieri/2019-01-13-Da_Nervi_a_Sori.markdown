@@ -14,4 +14,4 @@ tags:
 - Natura
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Prima tappa del Sentiero Liguria.
