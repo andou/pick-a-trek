@@ -8,10 +8,10 @@ image: /assets/img/featured/map.png
 {% render_svg 'svg/map.svg','pickatrek--illustration_left pickatrek--illustration' %}
 
 Quando sei appassionato di escursioni e di camminate, spesso, arriva un momento in cui ti chiedi se le sole sgambate di un
-giorno ti siano sufficienti. E allora inizi a pensare se sarebbe possibile fermarsi da qualche parte a fine giornata per
+giorno ti siano sufficienti. E allora inizi a pensare che sarebbe possibile fermarsi da qualche parte a fine giornata per
 riprendere il cammino il giorno successivo. 
 
-A quanto pare questa cosa succede ad un pò di persone e quindi in giro per il mondo e per l'europa ci sono un sacco di 
+A quanto pare questa cosa succede ad un po' di persone e quindi in giro per il mondo e per l'europa ci sono un sacco di 
 sentieri organizzati in tappe multiple con punti di appoggio intermedi siano essi piccoli paesini o rifugi montani. 
 Con un minimo di organizzazione si riesce quindi ad organizzare un bel viaggetto di qualche giorno che permette di visitare
 diversi posti senza mai prendere la macchina e godersi delle belle camminate.
