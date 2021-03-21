@@ -4,6 +4,11 @@ title:  "Janela do inferno"
 date:   2017-08-19 09:05:00 +0100
 track:  /assets/tracks/2017-08-19-Janela_do_infierno.gpx
 track_color: green
+grid-gallery: /assets/img/galleries/Janela_inferno/
+image: /assets/img/galleries/Janela_inferno/IMG_1651.jpg
+featured_image:
+    alt: Janela do inferno
+    caption: la finestra dell'inferno
 categories:
 - Estero
 - Azzorre

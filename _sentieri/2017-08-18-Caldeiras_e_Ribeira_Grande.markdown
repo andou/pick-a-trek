@@ -4,6 +4,11 @@ title:  "Caldeiras e Ribeira Grande"
 date:   2017-08-18 09:05:00 +0100
 track:  /assets/tracks/2017-08-18-Caldeiras_e_Ribeira_Grande.gpx
 track_color: green
+grid-gallery: /assets/img/galleries/Rib_Grande/
+image: /assets/img/galleries/Rib_Grande/IMG_1542.jpg
+featured_image:
+    alt: Ribeira Grande
+    caption: la stretta gola
 categories:
 - Estero
 - Azzorre
