@@ -14,4 +14,4 @@ tags:
 - Mare
 ---
 
-Un altro bel sentiero!! 
+Nell'isola di Flores, splendido sentiero a picco sull'oceano.

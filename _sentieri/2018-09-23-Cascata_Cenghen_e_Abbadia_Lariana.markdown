@@ -13,4 +13,4 @@ tags:
 - Natura
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Un bel sentiero ad anello che conduce facilmente alla Cascata del Cenghen. 

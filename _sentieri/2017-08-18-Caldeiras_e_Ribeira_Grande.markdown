@@ -11,4 +11,5 @@ tags:
 - Natura
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Un altro sentiero a Sao Miguel, un sentiero ad anello nella foresta, accanto alle condotte della centrale idroelettrica. 
+Al termine del percorso, le terme naturali sono imperdibili!

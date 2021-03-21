@@ -13,4 +13,5 @@ tags:
 - Appennino
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Un bel sentiero in Oltrepò, che da Capanne di Cosola tocca le cime di Monte Cavalmurone, Monte Legnà, e Monte Carmo. Un po' di sali-scendi, in un misto di boschi e creste aperte (se il tempo lo consente, la vista è bellissima!). 
+Le cime del Legnà e del Carmo possono essere sfidanti... Doppia soddisfazione il panorama!

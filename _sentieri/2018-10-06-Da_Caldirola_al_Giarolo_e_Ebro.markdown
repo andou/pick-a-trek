@@ -14,4 +14,6 @@ tags:
 - Appennino
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Un altro bel sentiero in Oltrpò, che da Caldirola fa toccare le cime del Monte Giarolo, Gropà, Panà, Cosfrone e Ebro. 
+Sulla via si incrocia il rifugio Ezio Orsi, immerso nel bosco. 
+Il sentiero è spesso solcato dalle bici e moto da cross, che producono profondi solchi, e rendono un po' disagevole il percorso, specie se ha piovuto da poco.

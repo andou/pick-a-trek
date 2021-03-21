@@ -14,4 +14,5 @@ tags:
 - Neve
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Una replica del sentiero già fatto in versione estiva, ma questa volta con le ciaspole. Sentiero tra gli alberi e poi su strada carrareccia, da Chiesa sale fino all'Alpe Lago. 
+La nevicata in corso ci ha costretto però a interrompere e tornare indietro :)

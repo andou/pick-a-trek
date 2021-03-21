@@ -14,4 +14,4 @@ tags:
 - Appennino
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Da Pian dell'Armà, semplice e tipico percorso dell'Oltrepò, che porta in cima al Monte Chiappo (punto di incontro tra le 3 Regioni Piemonte, Lombardia, Emilia-Romagna), e poi, tra saliscendi in cresta, porta ai Monti Prenardo e Ebro. 

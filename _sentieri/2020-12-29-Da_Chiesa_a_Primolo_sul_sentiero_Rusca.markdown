@@ -14,4 +14,5 @@ tags:
 - Neve
 ---
 
-Un altro bel sentiero!! :mountain: :snowflake:
+Dal paese di Chiesa si imbocca un sentiero sterrato che sale a zigzag verso Primolo, ripido ma costante. 
+Attraversato il paesino di Primolo, si raggiunge la piacevole pineta con il parco giochi. Da lì abbiamo proseguito scendendo dolcemente sempre nel bosco fino a congiungerci con il sentiero Rusca, che abbiamo percorso per tornare a casa (ultimo tratto su strada asfaltata).
