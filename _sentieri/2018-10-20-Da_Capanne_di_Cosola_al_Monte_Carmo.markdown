@@ -4,6 +4,11 @@ title:  "Da Capanne di Cosola al Monte Carmo"
 date:   2018-10-20 09:05:00 +0100
 track:  /assets/tracks/2018-10-20-Da_Capanne_di_Cosola_al_Monte_Carmo.gpx
 track_color: green
+grid-gallery: /assets/img/galleries/2018-10-20_Carmo/
+image: /assets/img/galleries/2018-10-20_Carmo/IMG_4452.jpg
+featured_image:
+    alt: oltrepo
+    caption: tipico panorama dell'Oltrepò
 categories:
 - Italia
 - Oltrepò
