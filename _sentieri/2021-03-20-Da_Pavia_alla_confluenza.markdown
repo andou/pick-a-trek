@@ -34,7 +34,7 @@ La zona triangolare che conduce alla confluenza dei due grandi fiumi di questa z
 percorrerne interamente uno dei lati, partendo dal centro città fino ad arrivare nei pressi del ponte che passa in quella 
 zona, il [Ponte della Becca](https://it.wikipedia.org/wiki/Ponte_della_Becca){:target="_blank"}.
 
-{% figure /assets/img/galleries/2021-03-20_confluenza/IMG_4611.jpeg,col-lg-6 float-lg-right mr-lg-2, La panchina gigante, La panchina gigante %}
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/2021-03-20_confluenza/IMG_4611.jpeg&w=400" }},col-lg-6 float-lg-right mr-lg-2, La panchina gigante, La panchina gigante %}
 
 Il percorso non è tecnicamente nè difficile nè molto impegnativo, anche se piuttosto lungo se lo si vuole percorrere a piedi 
 nella sua interezza andata e ritorno. In totale, andando e tornando da casa nostra abbiamo percorso circa 24 chilometri.

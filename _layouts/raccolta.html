@@ -28,7 +28,7 @@ layout: default
 
         {% if page.image %}
           {% if use_weserve %}
-            {% figure {{site.data.weserve.url | append: site.url | append: page.image }}, col-lg-6 float-lg-left mr-lg-2, {{page.featured_image.caption | default: ''}} , {{page.featured_image.alt | default: 'Preview'}} %}
+            {% figure {{site.data.weserve.url | append: site.url | append: page.image | append: "&w=400" }}, col-lg-6 float-lg-left mr-lg-2, {{page.featured_image.caption | default: ''}} , {{page.featured_image.alt | default: 'Preview'}} %}
           {% else %}
             {% figure {{page.image}}, col-lg-6 float-lg-left mr-lg-2, {{page.featured_image.caption | default: ''}} , {{page.featured_image.alt | default: 'Preview'}} %}
           {% endif %}
