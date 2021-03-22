@@ -8,7 +8,7 @@ grid-gallery: /assets/img/galleries/2019-04-20_Maggiorasca/
 image: /assets/img/galleries/2019-04-20_Maggiorasca/IMG_4641.jpg
 featured_image:
     alt: Maggiorasca
-    caption: ...
+    caption: Antonio esulta con il vento sulla cima del Maggiorasca
 categories:
 - Italia
 - Appennino Ligure
