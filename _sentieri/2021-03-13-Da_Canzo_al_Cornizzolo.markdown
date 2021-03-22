@@ -17,7 +17,7 @@ tags:
 - Panorami
 ---
 
-Sentiero tecnicamente semplice e fisicamente non troppo impegnativo, sebbene pienamente soddisfacente per una bella sgambata in montagna.
+Sentiero tecnicamente semplice e fisicamente non troppo impegnativo, sebbene pienamente soddisfacente per una bella sgambata in montagna. :running:
 
 Dalla Cima del Cornizzolo si gode di un fantastico panorama sulle Alpi e sui sottostanti laghi morenici. 
 Si tratta anche di un punto di osservazione privilegiato sul Resegone, il gruppo delle Grigne e i vicini Corni di Canzo.
