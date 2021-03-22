@@ -18,7 +18,7 @@ tags:
 - Pianura
 ---
 
-Marzo 2021. Lombardia. Zona Rossa. 
+Marzo 2021. Lombardia. *Zona Rossa* :grimacing:
 
 Si, io e Marta viviamo a Pavia e da li partiamo per le nostre escursioni. Quantomeno 
 è nostra consuetudine farlo nei weekend delle settimane durante le quali lavoriamo.
