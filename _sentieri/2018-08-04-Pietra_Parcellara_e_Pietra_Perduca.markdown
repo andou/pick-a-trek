@@ -4,8 +4,8 @@ title:  "Pietra Parcellara e Pietra Perduca"
 date:   2018-08-04 09:05:00 +0100
 track:  /assets/tracks/2018-08-04-Pietra_Parcellara_e_Pietra_Perduca.gpx
 track_color: green
-grid-gallery: /assets/img/galleries/parcellara_perduca/
-image: /assets/img/galleries/parcellara_perduca/IMG_3151.jpg
+grid-gallery: /assets/img/galleries/2018-08-04_parcellara-perduca/
+image: /assets/img/galleries/2018-08-04_parcellara-perduca/IMG_3151.jpg
 featured_image:
     alt: Pietra Perduca vista da pietra Parcellara
     caption: Pietra Perduca vista da pietra Parcellara

@@ -4,7 +4,7 @@ title:  "Da Champorcher al lago Vercoche"
 date:   2020-08-02 09:05:00 +0100
 track:  /assets/tracks/2020-08-02-Da_Champorcher_al_lago_Vercoche.gpx
 track_color: green
-grid-gallery: /assets/img/galleries/Vercoche/
+grid-gallery: /assets/img/galleries/2020-08-02_vercoche/
 categories:
 - Italia
 - Val d'Aosta

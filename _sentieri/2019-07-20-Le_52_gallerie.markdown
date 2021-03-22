@@ -7,7 +7,7 @@ track_color: green
 categories:
 - Italia
 - Prealpi
-grid-gallery: /assets/img/galleries/52_gallerie/
+grid-gallery: /assets/img/galleries/2019-07-20_le-52-gallerie/
 tags:
 - Anello
 - Panorami

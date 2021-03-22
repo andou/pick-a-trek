@@ -7,7 +7,7 @@ track_color: green
 categories:
 - Italia
 - Alpi Orobie
-grid-gallery: /assets/img/galleries/alpe_lago_bosio/
+grid-gallery: /assets/img/galleries/2019-07-26_alpe-lago-bosio/
 tags:
 - Andata e ritorno
 - Panorami

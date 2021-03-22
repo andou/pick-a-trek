@@ -8,7 +8,7 @@ categories:
 - Italia
 - Oltrepò
 gallery-title: Le foto
-grid-gallery: /assets/img/galleries/pietra_corva/
+grid-gallery: /assets/img/galleries/2019-07-14_pietra-corva/
 tags:
 - Tranquillo
 - Andata e ritorno

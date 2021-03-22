@@ -4,7 +4,7 @@ title:  "Col du Lac blanc"
 date:   2020-10-11 09:05:00 +0100
 track:  /assets/tracks/2020-10-11-Col_du_Lac_blanc.gpx
 track_color: green
-grid-gallery: /assets/img/galleries/col_du_lac_blanc/
+grid-gallery: /assets/img/galleries/2020-10-11_col-du-lac-blanc/
 categories:
 - Italia
 - Val d'Aosta

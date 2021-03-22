@@ -4,8 +4,8 @@ title:  "Lajedo - Mosteiro - Fajazinha - Faja Grande"
 date:   2017-08-13 09:05:00 +0100
 track:  /assets/tracks/2017-08-13-Lajedo_mosteiros_Faiazinha_quada.gpx
 track_color: green
-grid-gallery: /assets/img/galleries/Mosteiros/
-image: /assets/img/galleries/Mosteiros/IMG_1025.jpg
+grid-gallery: /assets/img/galleries/2017-08-13-mosteiros/
+image: /assets/img/galleries/2017-08-13-mosteiros/IMG_1025.jpg
 featured_image:
     alt: Flores
     caption: Poço Ribeira do Ferreiro

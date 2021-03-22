@@ -7,7 +7,7 @@ track_color: green
 categories:
 - Italia
 - Prealpi
-grid-gallery: /assets/img/galleries/grignetta/
+grid-gallery: /assets/img/galleries/2019-07-07_grignetta/
 tags:
 - Andata e ritorno
 - Panorami

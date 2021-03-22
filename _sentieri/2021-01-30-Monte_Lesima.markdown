@@ -4,7 +4,7 @@ title:  "Monte Lesima"
 date:   2021-01-30 09:05:00 +0100
 track:  /assets/tracks/2021-01-30-Monte_Lesima.gpx
 track_color: green
-grid-gallery: /assets/img/galleries/lesima/
+grid-gallery: /assets/img/galleries/2021-01-30_lesima/
 categories:
 - Italia
 - Oltrepò
