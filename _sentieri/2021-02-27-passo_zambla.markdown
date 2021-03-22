@@ -23,5 +23,5 @@ Dopo un inzio con leggero saliscendi, il sentiero attraverso ripido un bosco e p
 
 La traccia si ferma là dove sembra esserci una cima, ma è solo un punto di sosta; ancora mezzoretta e si raggiunge la vetta.
 
-Antonio in realtà ha inforcato i ramponi ed è arrivato fino in cima alla cresta, dalla quale si gode di un'ottima vista e 
+Antonio in realtà ha inforcato i ramponi ed è arrivato fino in cima alla cresta :godmode: , dalla quale si gode di un'ottima vista e 
 ci si può fermare un poco a contemplare il paesaggio e scattare un paio di foto. :smile:
