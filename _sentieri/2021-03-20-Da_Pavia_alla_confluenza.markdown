@@ -36,7 +36,7 @@ zona, il [Ponte della Becca](https://it.wikipedia.org/wiki/Ponte_della_Becca){:t
 
 {% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/2021-03-20_confluenza/IMG_4611.jpeg&w=400" }},col-lg-6 float-lg-right mr-lg-2, La panchina gigante, La panchina gigante %}
 
-Il percorso non è tecnicamente nè difficile nè molto impegnativo, anche se piuttosto lungo se lo si vuole percorrere a piedi 
+Il percorso non è tecnicamente né difficile né molto impegnativo, anche se piuttosto lungo se lo si vuole percorrere a piedi 
 nella sua interezza andata e ritorno. In totale, andando e tornando da casa nostra abbiamo percorso circa 24 chilometri.
 Che se ci pensate, in epoca di _lock down_ non è malaccio.
 
@@ -44,5 +44,5 @@ Lungo il percorso se si ha fortuna si riescono a vedere uccelli ed animali fluvi
 l'attenzione è l'installazione della [Big Bench](https://bigbenchcommunityproject.org/){:target="_blank"}, o panchina gigante, 
 nei pressi dell'[Imbarcadero di Travacò Siccomario](https://www.comune.travacosiccomario.pv.it/it-it/vivere-il-comune/associazioni-enti/imbarcadero-38528-1-cc6876ed4c30d0abc0762c10ff26d450){:target="_blank"}.
 
-Insomma, ricordiamoci sempre che anche in periodo di restrizioni, con le dovute attenzioni e con un pò di ingegno, si riesce 
+Insomma, ricordiamoci sempre che anche in periodo di restrizioni, con le dovute attenzioni e con un po' di ingegno, si riesce 
 a fare dei bei percorsi ugualmente. :smile:

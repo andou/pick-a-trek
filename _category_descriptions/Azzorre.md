@@ -7,7 +7,7 @@ title: Azzorre
 
 Se avete dato un'occhiata al [perché di questo sito]({% link _tabs/about.md %}){:target="_blank"} saprete che nel 2017 avevamo già da circa un anno riabbracciato la nostra vecchia passione delle escursioni. Dopo l'esperienza dei Grandi Parchi Statunitensi dell'anno prima evaramo alla ricerca di un luogo che fosse al contempo _magico_ e amico dei camminatori :runner:.
 
-Cercando un un po' qui e la in rete e chiedendo ad amici con passioni simili abbiamo scoperto che c'è un paradiso nel bel mezzo dell'oceano che tiene in gran considerazione le esigenze di chi vuole praticamente escursionismo e che al contempo racchiude e custodisce dei gioielli naturali unici e difficilmente equiparabili.
+Cercando un un po' qui e lì in rete e chiedendo ad amici con passioni simili abbiamo scoperto che c'è un paradiso nel bel mezzo dell'oceano che tiene in gran considerazione le esigenze di chi vuole praticare escursionismo e che al contempo racchiude e custodisce dei gioielli naturali unici e difficilmente equiparabili.
 
 Si, si, la stiamo facendo lunga, ora arriviamo al sodo :smile: si tratta delle [Azzorre](https://it.wikipedia.org/wiki/Azzorre){:target="_blank"}, un arcipelago nell'Oceano Atlantico composto da 9 isole vulcaniche: São Miguel, Terceira, São Jorge, Pico, Faial, Flores, Graciosa, Corvo e Santa Maria.
 
