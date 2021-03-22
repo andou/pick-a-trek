@@ -15,10 +15,11 @@
       <ul class="post-content pl-0 pb-1 ml-1 mt-2">
 
       {% for item in update_list %}
-        {% assign index = item | split: "::" | last | plus: 0 %}
-        {% assign post = site.posts[index] %}
-        {% assign url = post.url | relative_url %}
-        <li><a href="{{ url }}">{{ post.title }}</a></li>
+        {% assign date = item | split: "::" | first  %}
+        {% assign data = item | split: "::" | last %}
+        {% assign title = data | split: "##" | first %}
+        {% assign url = data | split: "##" | last %}
+        <li><a href="{{ url }}">{{ title }}</a></li>
       {% endfor %}
 
       </ul>

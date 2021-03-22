@@ -6,10 +6,15 @@
 
 {% assign all_list = "" | split: "" %}
 
-{% for post in site.posts %}
+{% assign the_tracks = site.sentieri %}
+{% assign the_multis = site.raccolte %}
+{% assign the_posts = site.posts %}
+{% assign everything = the_posts | concat: the_tracks | concat: the_multis %}
+
+{% for post in everything %}
   {% if post.last_modified_at %}
     {% capture elem %}
-      {{- post.last_modified_at | date: "%Y%m%d%H%M%S" -}}::{{- forloop.index0 -}}
+      {{- post.last_modified_at | date: "%Y%m%d%H%M%S" -}}::{{- post.title -}}##{{- post.url | relative_url -}}
     {% endcapture %}
     {% assign all_list = all_list | push: elem %}
   {% endif %}
