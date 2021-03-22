@@ -27,14 +27,6 @@ layout: default
                 </div>
 
                 <div>
-                    <!-- lastmod -->
-                    {% if page.last_modified_at %}
-                    <span>
-            Updated
-            {% include timeago.html date=page.last_modified_at class="lastmod" tooltip=true %}
-          </span>
-                    {% endif %}
-
                     <!-- read time -->
                     {% include read-time.html content=content %}
 

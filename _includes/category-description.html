@@ -1,0 +1,9 @@
+<!--
+  CATEGORY Description
+-->
+
+{% assign description = site.category_descriptions | where:"title", page.title | first %}
+
+{{- description.content -}}
+
+<div class="clearfix"></div>

@@ -123,6 +123,8 @@ collections:
   raccolte:
     output: true
     sort_by: date
+  category_descriptions:
+    output: false
 
 defaults:
   -

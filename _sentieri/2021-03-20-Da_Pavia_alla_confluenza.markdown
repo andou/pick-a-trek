@@ -4,8 +4,8 @@ title:  "Da Pavia alla confluenza"
 date:   2021-03-20 09:05:00 +0100
 track:  /assets/tracks/2021-03-20-Da_Pavia_alla_confluenza.gpx
 track_color: green
-grid-gallery: /assets/img/galleries/confluenza_2021/
-image: /assets/img/galleries/confluenza_2021/IMG_4592.jpeg
+grid-gallery: /assets/img/galleries/2021-03-20_confluenza/
+image: /assets/img/galleries/2021-03-20_confluenza/IMG_4592.jpeg
 featured_image:
     alt: Un passaggio nel Siccomario
     caption: Un passaggio nel Siccomario
@@ -34,7 +34,7 @@ La zona triangolare che conduce alla confluenza dei due grandi fiumi di questa z
 percorrerne interamente uno dei lati, partendo dal centro città fino ad arrivare nei pressi del ponte che passa in quella 
 zona, il [Ponte della Becca](https://it.wikipedia.org/wiki/Ponte_della_Becca){:target="_blank"}.
 
-{% figure /assets/img/galleries/confluenza_2021/IMG_4611.jpeg,col-lg-6 float-lg-left mr-lg-2, La panchina gigante, La panchina gigante %}
+{% figure /assets/img/galleries/2021-03-20_confluenza/IMG_4611.jpeg,col-lg-6 float-lg-right mr-lg-2, La panchina gigante, La panchina gigante %}
 
 Il percorso non è tecnicamente nè difficile nè molto impegnativo, anche se piuttosto lungo se lo si vuole percorrere a piedi 
 nella sua interezza andata e ritorno. In totale, andando e tornando da casa nostra abbiamo percorso circa 24 chilometri.
