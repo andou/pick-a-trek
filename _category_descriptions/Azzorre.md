@@ -3,7 +3,7 @@ title: Azzorre
 ---
 
 
-{% figure /assets/img/galleries/Mosteiros/IMG_1025.jpg,col-lg-6 float-lg-left mr-lg-2, Poço Ribeira do Ferreiro, Poço Ribeira do Ferreiro %}
+{% figure /assets/img/galleries/2017-08-13-mosteiros/IMG_1025.jpg,col-lg-6 float-lg-left mr-lg-2, Poço Ribeira do Ferreiro, Poço Ribeira do Ferreiro %}
 
 Se avete dato un'occhiata al [perché di questo sito]({% link _tabs/about.md %}){:target="_blank"} saprete che nel 2017 avevamo già da circa un anno riabbracciato la nostra vecchia passione delle escursioni. Dopo l'esperienza dei Grandi Parchi Statunitensi dell'anno prima evaramo alla ricerca di un luogo che fosse al contempo _magico_ e amico dei camminatori :runner:.
 
@@ -11,7 +11,7 @@ Cercando un un po' qui e la in rete e chiedendo ad amici con passioni simili abb
 
 Si, si, la stiamo facendo lunga, ora arriviamo al sodo :smile: si tratta delle [Azzorre](https://it.wikipedia.org/wiki/Azzorre){:target="_blank"}, un arcipelago nell'Oceano Atlantico composto da 9 isole vulcaniche: São Miguel, Terceira, São Jorge, Pico, Faial, Flores, Graciosa, Corvo e Santa Maria.
 
-{% figure /assets/img/galleries/Furnas/IMG_1228.jpg,col-lg-6 float-lg-right mr-lg-2, Furnas, Furnas %}
+{% figure /assets/img/galleries/2017-08-16_furnas/IMG_1228.jpg,col-lg-6 float-lg-right mr-lg-2, Furnas, Furnas %}
 
 Durante la nostra _vacanza escursionistica_ siamo stati a São Miguel, la più grossa delle 9 e a Flores, la più occidentale e la più... _Jurassic Park_ :t-rex:.
 
