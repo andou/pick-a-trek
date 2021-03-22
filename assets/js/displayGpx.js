@@ -67,9 +67,9 @@ function displayGpx(elt) {
         var gpx = e.target;
         map.fitBounds(gpx.getBounds());
 
-        _c('track-name').textContent = gpx.get_name();
-        _c('start').textContent = gpx.get_start_time().toDateString() + ', '
-            + gpx.get_start_time().toLocaleTimeString();
+        //_c('track-name').textContent = gpx.get_name();
+        //_c('start').textContent = gpx.get_start_time().toDateString() + ', '
+            //+ gpx.get_start_time().toLocaleTimeString();
 
         var mts = gpx.get_distance();
         var kms = mts / 1000;
