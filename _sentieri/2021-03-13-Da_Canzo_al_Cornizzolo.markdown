@@ -5,7 +5,7 @@ date:   2021-03-13 09:05:00 +0100
 track:  /assets/tracks/2021-03-13-Da_Canzo_al_Cornizzolo.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2021-03-13_cornizzolo/
-image: /assets/img/galleries/2021-03-13_cornizzolo/IMG-4567.JPG
+image: /assets/img/galleries/2021-03-13_cornizzolo/IMG-4567.jpg
 featured_image:
     alt: Non male come vista
     caption: Non male come vista
