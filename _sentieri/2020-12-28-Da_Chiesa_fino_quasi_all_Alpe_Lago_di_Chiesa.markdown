@@ -12,6 +12,7 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Valtellina
 ---
 
 Una replica del sentiero già fatto in versione estiva, ma questa volta con le ciaspole. Sentiero tra gli alberi e poi su strada carrareccia, da Chiesa sale fino all'Alpe Lago. 

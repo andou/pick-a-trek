@@ -11,6 +11,7 @@ tags:
 - Anello
 - Panorami
 - Rifugi Alpini
+- Valtellina
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

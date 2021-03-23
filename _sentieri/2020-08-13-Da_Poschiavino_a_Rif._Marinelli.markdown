@@ -12,6 +12,7 @@ tags:
 - Panorami
 - Questi un pò le gambe le spezzano
 - Rifugi Alpini
+- Valtellina
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

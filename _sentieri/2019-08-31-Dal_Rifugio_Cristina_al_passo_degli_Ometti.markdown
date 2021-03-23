@@ -13,6 +13,7 @@ tags:
 - Questi un pò le gambe le spezzano
 - Facili roccette
 - Rifugi Alpini
+- Valtellina
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

@@ -15,6 +15,7 @@ tags:
 - Neve
 - 3000s
 - Rifugi Alpini
+- Valtellina
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

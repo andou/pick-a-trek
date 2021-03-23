@@ -12,6 +12,7 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Valtellina
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

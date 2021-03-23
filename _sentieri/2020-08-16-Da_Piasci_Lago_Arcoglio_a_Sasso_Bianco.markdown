@@ -11,6 +11,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Laghi
+- Valtellina
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

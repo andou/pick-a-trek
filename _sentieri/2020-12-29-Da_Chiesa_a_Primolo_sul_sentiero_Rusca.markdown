@@ -12,6 +12,7 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Valtellina
 ---
 
 Dal paese di Chiesa si imbocca un sentiero sterrato che sale a zigzag verso Primolo, ripido ma costante. 

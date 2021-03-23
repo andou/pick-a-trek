@@ -17,6 +17,7 @@ tags:
 - 3000s
 - Rifugi Alpini
 - Ghiacciaio
+- Valtellina
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

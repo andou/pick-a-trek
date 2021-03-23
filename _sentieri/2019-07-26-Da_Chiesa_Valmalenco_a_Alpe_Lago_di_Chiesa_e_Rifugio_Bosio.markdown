@@ -13,6 +13,7 @@ tags:
 - Panorami
 - Natura
 - Rifugi Alpini
+- Valtellina
 ---
 
 Da Chiesa in Valmalenco si sale a zig zag nel bosco e poi su strada sterrata fino al pianoro dell'Alpe Lago di Chiesa (non c'è nessun lago, eh). 
