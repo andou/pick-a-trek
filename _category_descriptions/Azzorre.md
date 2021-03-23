@@ -3,7 +3,7 @@ title: Azzorre
 ---
 
 
-{% figure /assets/img/galleries/2017-08-13-mosteiros/IMG_1025.jpg,col-lg-6 float-lg-left mr-lg-2, Poço Ribeira do Ferreiro, Poço Ribeira do Ferreiro %}
+{% figure /assets/img/galleries/2017-08-13_mosteiros/IMG_1025.jpg,col-lg-6 float-lg-left mr-lg-2, Poço Ribeira do Ferreiro, Poço Ribeira do Ferreiro %}
 
 Se avete dato un'occhiata al [perché di questo sito]({% link _tabs/about.md %}){:target="_blank"} saprete che nel 2017 avevamo già da circa un anno riabbracciato la nostra vecchia passione delle escursioni. Dopo l'esperienza dei Grandi Parchi Statunitensi dell'anno prima evaramo alla ricerca di un luogo che fosse al contempo _magico_ e amico dei camminatori :runner:.
 
