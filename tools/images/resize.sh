@@ -4,6 +4,7 @@ CONVERTED_SUFFIX='wb'
 WIDTH=400
 OVERWRITE='false'
 DRYRUN='false'
+STRIP='false'
 
 
 print_usage() {
@@ -22,10 +23,11 @@ EOF
 }
 
 
-while getopts 'ohdi:w:s:' flag; do
+while getopts 'ohdti:w:s:' flag; do
   case "${flag}" in
     o) OVERWRITE='true' ;;
     d) DRYRUN='true' ;;
+    t) STRIP='true' ;;
     s) CONVERTED_SUFFIX="${OPTARG}" ;;
     i) FILE="${OPTARG}" ;;
     w) WIDTH="${OPTARG}" ;;
@@ -64,7 +66,15 @@ fi
 
 if [ "$DRYRUN" = "true" ]; then
   echo "Resize command:"
-  echo "$ convert $ORIGINAL -resize $WIDTH -strip -quality 85 $OUTPUT"
+  if [ "$STRIP" = "true" ]; then
+    echo "$ convert $ORIGINAL -resize $WIDTH -strip -quality 85 $OUTPUT"
+  else
+    echo "$ convert $ORIGINAL -resize $WIDTH -quality 85 $OUTPUT"
+  fi
 else
-  convert $ORIGINAL -resize $WIDTH -strip -quality 85 $OUTPUT
+  if [ "$STRIP" = "true" ]; then
+    convert $ORIGINAL -resize $WIDTH -strip -quality 85 $OUTPUT
+  else
+    convert $ORIGINAL -resize $WIDTH -quality 85 $OUTPUT
+  fi
 fi
