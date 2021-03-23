@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "404: Page not found"
+title: "404: Pagina non trovata"
 permalink: /404.html
 
 redirect_from:
@@ -11,11 +11,13 @@ redirect_from:
 dynamic_title: true
 ---
 
+{% render_svg 'svg/404.svg','pickatrek--illustration_left pickatrek--illustration' %}
+
 <div class="lead">
-  <p>Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. </p>
+  <p>Ci spiace ma sembra che la pagina che cercavi non esista. </p>
   <p>
-    <a href="{{ '/' | relative_url }}">Head back Home</a>
-    to try finding it again, or search for it on the
-    <a href="{{ 'archives' | relative_url }}">Archives page</a>.
+    <a href="{{ '/' | relative_url }}">Torna al campo base</a>
+    oppure cerca la traccia giusta tra i
+    <a href="{{ 'sentieri' | relative_url }}">Nostri Sentieri</a>.
   </p>
 </div>
