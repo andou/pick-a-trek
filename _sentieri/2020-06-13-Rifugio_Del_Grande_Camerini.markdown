@@ -12,6 +12,7 @@ tags:
 - Panorami
 - Rifugi Alpini
 - Valtellina
+- Valmalenco
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

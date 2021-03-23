@@ -13,6 +13,7 @@ tags:
 - Ghiacciaio
 - Rifugi Alpini
 - Valtellina
+- Valmalenco
 ---
 
 Dal parcheggio sotto la diga dell'Alpe Gera, il sentiero sale sulla diga, la si attraversa e si costeggia il lago sulla sponda ovest. La salita fino al rifugio Bignami è abbastanza dolce, tranne l'ultimo tratto che "tira" un po'. Già la Bignami è una splendida tappa, "entry level" ma di soddisfazione.

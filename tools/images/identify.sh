@@ -21,7 +21,7 @@ BASENAME=$(magick identify -verbose -format "%f" $FILE)
 DIRECTORY=$(magick identify -verbose -format "%d" $FILE)
 FILENAME=$(magick identify -verbose -format "%t" $FILE)
 EXTENSION=$(magick identify -verbose -format "%e" $FILE)
-ORIGINAL_DIM=$(magick identify -verbose -format "%b" $FILE |  awk '{ byte =$1 /1024; print byte " KB" }' )
+ORIGINAL_DIM=$(magick identify -verbose -format "%b" $FILE)
 ORIGINAL="$DIRECTORY/$FILENAME.$EXTENSION"
 OUTPUT="$DIRECTORY/$FILENAME$CONVERTED_SUFFIX.$EXTENSION"
 #echo "Filename   : $BASENAME"
@@ -29,10 +29,13 @@ OUTPUT="$DIRECTORY/$FILENAME$CONVERTED_SUFFIX.$EXTENSION"
 #echo "Extension  : $EXTENSION"
 #echo "Directory  : $DIRECTORY"
 echo "Original   : $ORIGINAL"
-echo "Dim        : $ORIGINAL_DIM"
+echo "Dimensions : $ORIGINAL_DIM"
 
 #echo "Output     : $OUTPUT"
 
 magick identify -verbose -format \
-"Dimensions : %[fx:w]x%[fx:h] pixels" $ORIGINAL
+"Sizes      : %[fx:w]x%[fx:h] pixels" $ORIGINAL
 echo ""
+
+echo "Resize command:"
+echo "$ convert $ORIGINAL -resize 400 -strip -quality 85 $OUTPUT"

@@ -13,6 +13,7 @@ tags:
 - Questi un pò le gambe le spezzano
 - Rifugi Alpini
 - Valtellina
+- Valmalenco
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

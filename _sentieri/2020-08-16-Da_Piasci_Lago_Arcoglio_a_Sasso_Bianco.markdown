@@ -12,6 +12,7 @@ tags:
 - Panorami
 - Laghi
 - Valtellina
+- Valmalenco
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

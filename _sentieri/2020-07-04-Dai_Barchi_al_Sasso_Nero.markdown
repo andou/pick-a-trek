@@ -16,6 +16,7 @@ tags:
 - 3000s
 - Rifugi Alpini
 - Valtellina
+- Valmalenco
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

@@ -18,6 +18,7 @@ tags:
 - Rifugi Alpini
 - Ghiacciaio
 - Valtellina
+- Valmalenco
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:
