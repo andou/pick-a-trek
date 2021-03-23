@@ -11,6 +11,7 @@ layout: page
     {{ page.title }}
     <span class="lead text-muted pl-2">{{ page.posts | size }}</span>
   </h1>
+  {% include tag-description.html %}
   <ul class="post-content pl-0">
     {% assign post_long_df = site.data.date_format.post.long | default: '%b %e, %Y' %}
 

@@ -125,6 +125,8 @@ collections:
     sort_by: date
   category_descriptions:
     output: false
+  tag_descriptions:
+    output: false
 
 defaults:
   -
