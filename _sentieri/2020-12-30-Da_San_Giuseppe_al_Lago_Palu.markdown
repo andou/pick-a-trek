@@ -10,7 +10,7 @@ featured_image:
     caption: Una vista mozzafiato
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

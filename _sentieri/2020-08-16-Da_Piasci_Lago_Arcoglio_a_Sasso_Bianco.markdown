@@ -10,7 +10,7 @@ featured_image:
     caption: La vista dal Lago Arcoglio verso la valle
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

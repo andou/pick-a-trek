@@ -6,7 +6,7 @@ track:  /assets/tracks/2020-12-29-Da_Chiesa_a_Primolo_sul_sentiero_Rusca.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Anello
 - Panorami

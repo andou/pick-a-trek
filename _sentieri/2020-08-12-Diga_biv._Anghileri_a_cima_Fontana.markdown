@@ -6,7 +6,7 @@ track:  /assets/tracks/2020-08-12-Diga_biv._Anghileri_a_cima_Fontana.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

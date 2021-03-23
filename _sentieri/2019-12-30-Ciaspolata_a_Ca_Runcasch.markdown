@@ -7,7 +7,7 @@ track_color: green
 notes: bisogna togliere i primi punti della traccia perchè sono sminchiati (quota di partenza -640 m slm...)
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

@@ -10,7 +10,7 @@ featured_image:
     caption: Una vista dalla cima
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Anello
 - Lunghe tratte  

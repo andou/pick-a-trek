@@ -6,7 +6,7 @@ track:  /assets/tracks/2019-06-30-Rifugio_Bignami_e_Vedretta_di_Fellaria.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

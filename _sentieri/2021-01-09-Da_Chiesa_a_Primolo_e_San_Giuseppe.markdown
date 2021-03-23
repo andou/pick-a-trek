@@ -11,7 +11,7 @@ featured_image:
     caption: Il paese di Primolo dal bosco
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Anello
 - Panorami

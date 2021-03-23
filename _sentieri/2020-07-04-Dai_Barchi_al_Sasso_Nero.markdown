@@ -6,7 +6,7 @@ track:  /assets/tracks/2020-07-04-Dai_Barchi_al_Sasso_Nero.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

@@ -6,7 +6,7 @@ track:  /assets/tracks/2019-08-31-Dal_Rifugio_Cristina_al_passo_degli_Ometti.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

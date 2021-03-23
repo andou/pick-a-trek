@@ -6,7 +6,7 @@ track:  /assets/tracks/2020-06-13-Rifugio_Del_Grande_Camerini.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Anello
 - Panorami

@@ -6,7 +6,7 @@ track:  /assets/tracks/2019-07-27-Alpe_Entova.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

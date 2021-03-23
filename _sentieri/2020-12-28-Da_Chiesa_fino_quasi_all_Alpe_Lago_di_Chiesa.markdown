@@ -6,7 +6,7 @@ track:  /assets/tracks/2020-12-28-Da_Chiesa_fino_quasi_all_Alpe_Lago_di_Chiesa.g
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Andata e ritorno
 - Panorami

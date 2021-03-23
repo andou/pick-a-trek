@@ -6,7 +6,7 @@ track:  /assets/tracks/2020-08-13-Da_Poschiavino_a_Rif._Marinelli.gpx
 track_color: green
 categories:
 - Italia
-- Alpi Orobie
+- Alpi Retiche
 tags:
 - Lunghe tratte
 - Panorami
