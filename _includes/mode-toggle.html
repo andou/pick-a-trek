@@ -133,13 +133,16 @@
     } /* flipMode() */
 
   } /* ModeToggle */
-
-  let toggle = new ModeToggle();
-
-  $(".mode-toggle").click(function() {
-
-    toggle.flipMode();
-
-  });
-
+  
+  function fireToggle() {
+      let toggle = new ModeToggle();
+      $(".mode-toggle").click(function() {
+          toggle.flipMode();
+      });
+  }
+  if (window.addEventListener)
+      window.addEventListener("load", fireToggle, false);
+  else if (window.attachEvent)
+      window.attachEvent("onload", fireToggle);
+  else window.onload = fireToggle();
 </script>
