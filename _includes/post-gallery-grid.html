@@ -3,33 +3,33 @@
 -->
 
 {% if jekyll.environment == "development" %}
-  {% assign use_weserve = false %}
+{% assign use_weserve = false %}
 {% else %}
-  {% assign use_weserve = site.data.weserve.active %}
+{% assign use_weserve = site.data.weserve.active %}
 {% endif %}
 
 {% if page.grid-gallery %}
 <h2>
-  {% if page.gallery-title %}
-  {{ page.gallery-title }}
-  {% else %}
-  Le foto
-  {% endif %}
+    {% if page.gallery-title %}
+    {{ page.gallery - title }}
+    {% else %}
+    Le foto
+    {% endif %}
 </h2>
-<section class="gallery-container">
-  <div class="grid-container">
+<section class="col-lg-12 justify-content-center">
     {% directory path: page.grid-gallery exclude: private %}
     {% assign imgsrc = file.url %}
     {% if use_weserve %}
     {% assign imgsrc = file.url | absolute_url %}
-      {% assign imgsrc = site.data.weserve.url | append: imgsrc | append: site.data.weserve.resize.gallery-grid %}
+    {% assign imgsrc = site.data.weserve.url | append: imgsrc | append: site.data.weserve.resize.gallery-grid %}
     {% endif %}
-    <div>
-      <img src="{{ imgsrc }}"
-           alt="{{ file.name }}"
-           datetime="{{ file.date | date_to_xmlschema }}" />
+    <div class="">
+        <figure class="figure col-lg-6 float-lg-left d-flex justify-content-center">
+            <img class="rounded" src="{{ imgsrc }}"
+                 alt="{{ file.name }}"
+                 datetime="{{ file.date | date_to_xmlschema }}"/>
+        </figure>
     </div>
     {% enddirectory %}
-  </div>
 </section>
 {% endif %}

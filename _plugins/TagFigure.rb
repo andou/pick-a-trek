@@ -35,7 +35,7 @@ module Jekyll
 
           markup = <<-HTML.gsub /^\s+/, ''
               <figure class="figure #{fig_classes}">
-                <img class="figure-img" src="#{fig_src}" alt="#{fig_alt}">
+                <img class="rounded figure-img" src="#{fig_src}" alt="#{fig_alt}">
                 #{fig_caption}
               </figure>
           HTML
