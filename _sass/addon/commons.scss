@@ -46,6 +46,8 @@ html[mode=dark] {
 }
 
 body {
+  visibility: visible;
+  opacity: 1;
   line-height: 1.75rem;
   background: var(--body-bg);
   color: var(--text-color);
