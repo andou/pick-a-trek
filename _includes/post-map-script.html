@@ -3,10 +3,19 @@
 -->
 
 {% if page.track %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@netmust/leaflet-elevation@0.0.2/leaflet-elevation.min.js"></script>
+<script defer="defer" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+<script defer="defer" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js"></script>
+<script defer="defer" src="https://unpkg.com/d3@4.13.0/build/d3.min.js"></script>
+<script defer="defer" src="https://cdn.jsdelivr.net/npm/@netmust/leaflet-elevation@0.0.2/leaflet-elevation.min.js"></script>
 <script type="application/javascript">
-  displayGpx(document.getElementById('map_container'));
+    function fireGpx() {
+        displayGpx(document.getElementById('map_container'));
+    }
+    if (window.addEventListener)
+        window.addEventListener("load", fireGpx, false);
+    else if (window.attachEvent)
+        window.attachEvent("onload", fireGpx);
+    else window.onload = fireGpx();
+
 </script>
 {% endif %}
