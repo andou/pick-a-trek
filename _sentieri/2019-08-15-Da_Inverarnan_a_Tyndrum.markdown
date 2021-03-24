@@ -8,7 +8,7 @@ grid-gallery: /assets/img/galleries/2019-08-15_WHW4/
 image: /assets/img/galleries/2019-08-15_WHW4/IMG_5339.JPG
 featured_image:
     alt: WHW 4
-    caption: Quando accetti con serenità la pioggia, allora arriva l'arcobaleno...
+    caption: Solo quando accetti con serenità la pioggia arriva l'arcobaleno...
 categories:
 - Estero
 - Scozia
