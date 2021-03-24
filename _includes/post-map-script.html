@@ -3,19 +3,43 @@
 -->
 
 {% if page.track %}
-<script defer="defer" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
-<script defer="defer" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js"></script>
-<script defer="defer" src="https://unpkg.com/d3@4.13.0/build/d3.min.js"></script>
-<script defer="defer" src="https://cdn.jsdelivr.net/npm/@netmust/leaflet-elevation@0.0.2/leaflet-elevation.min.js"></script>
 <script type="application/javascript">
-    function fireGpx() {
-        displayGpx(document.getElementById('map_container'));
+
+    function fireItUpTheMapYo() {
+        includeResources(function () {
+            displayGpx(document.getElementById('map_container'));
+        });
     }
+
+    function includeJs(src, onLoad) {
+        var element = document.createElement("script");
+        element.src = src;
+        element.defer = true;
+        element.addEventListener("load", function (event) {
+            onLoad.call();
+        });
+        document.body.appendChild(element);
+    }
+
+    function includeResources(onLoad) {
+        includeJs("https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js",
+            function () {
+                includeJs("https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.5.1/gpx.min.js", function () {
+                    includeJs("https://unpkg.com/d3@4.13.0/build/d3.min.js", function () {
+                        includeJs("https://cdn.jsdelivr.net/npm/@netmust/leaflet-elevation@0.0.2/leaflet-elevation.min.js", function () {
+                            onLoad.call();
+                        });
+                    });
+                });
+            }
+        );
+    }
+
     if (window.addEventListener)
-        window.addEventListener("load", fireGpx, false);
+        window.addEventListener("load", fireItUpTheMapYo, false);
     else if (window.attachEvent)
-        window.attachEvent("onload", fireGpx);
-    else window.onload = fireGpx();
+        window.attachEvent("onload", fireItUpTheMapYo);
+    else window.onload = fireItUpTheMapYo();
 
 </script>
 {% endif %}
