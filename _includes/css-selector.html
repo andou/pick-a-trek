@@ -8,6 +8,14 @@
         opacity: 0;
         transition: visibility 0s, opacity 0.5s linear;
     }
+    @media all and (max-width: 830px) {
+        #sidebar {
+            -webkit-transition: transform 0.4s ease;
+            transition: transform 0.4s ease;
+            transform: translateX(-260px);
+            -webkit-transform: translateX(-260px);
+        }
+    }
 </style>
 
 
