@@ -8,6 +8,10 @@ categories:
 - Italia
 - Alpi Retiche
 grid-gallery: /assets/img/galleries/2019-07-26_alpe-lago-bosio/
+image: /assets/img/galleries/2019-07-26_alpe-lago-bosio/IMG_1728.jpg
+featured_image:
+    alt: Bosio
+    caption: Il placido ruscello vicino al rifugio Bosio
 tags:
 - Andata e ritorno
 - Panorami
@@ -18,4 +22,5 @@ tags:
 ---
 
 Da Chiesa in Valmalenco si sale a zig zag nel bosco e poi su strada sterrata fino al pianoro dell'Alpe Lago di Chiesa (non c'è nessun lago, eh). 
+
 Da qui si continua in parte su strada sterrata e in parte su sentieri nel bosco, fino al Rifugio Bosio, che si trova in una conca attraversata da un placido ruscello, circondata dai monti. 

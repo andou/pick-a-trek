@@ -16,5 +16,6 @@ tags:
 - Valmalenco
 ---
 
-Una replica del sentiero già fatto in versione estiva, ma questa volta con le ciaspole. Sentiero tra gli alberi e poi su strada carrareccia, da Chiesa sale fino all'Alpe Lago. 
-La nevicata in corso ci ha costretto però a interrompere e tornare indietro :)
+Una replica del sentiero [già fatto in versione estiva]({% link _sentieri/2019-07-26-Da_Chiesa_Valmalenco_a_Alpe_Lago_di_Chiesa_e_Rifugio_Bosio.markdown %}){:target="_blank"}), ma questa volta con le ciaspole. 
+Sentiero tra gli alberi e poi su strada carrareccia, da Chiesa sale fino all'Alpe Lago. 
+La nevicata in corso ci ha costretto però a interrompere e tornare indietro :grin:
