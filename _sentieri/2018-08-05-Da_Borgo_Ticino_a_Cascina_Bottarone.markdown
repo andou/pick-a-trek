@@ -16,5 +16,7 @@ tags:
 - Natura
 - Fiume
 ---
-cascina_bottarone
-Da Borgo Ticino, quartiere di Pavia a sud del Ponte Coperto, si costeggia il Ticino e poi si prosegue tra i campi coltivati a pioppeto, lungo le strade bianche che conducono tra una cascina e l'altra. Il sentiero passa accanto alla Panchina Gigante (installata nel 2020), e arriva al parco "Grande Foresta tra i due fiumi", un progetto di riqualificazione ambientale tra Po e Ticino. 
+
+Da Borgo Ticino, quartiere di Pavia a sud del Ponte Coperto, si costeggia il Ticino e poi si prosegue tra i campi coltivati a pioppeto, lungo le strade bianche che conducono tra una cascina e l'altra. 
+
+Il sentiero passa accanto alla Panchina Gigante (installata nel 2020), e arriva al parco "Grande Foresta tra i due fiumi", un progetto di riqualificazione ambientale tra Po e Ticino. 
