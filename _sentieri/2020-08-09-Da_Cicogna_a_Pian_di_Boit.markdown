@@ -5,6 +5,10 @@ date:   2020-08-09 09:05:00 +0100
 track:  /assets/tracks/2020-08-09-Da_Cicogna_a_Pian_di_Boit.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2020-08-10_val-grande/
+image: /assets/img/galleries/2020-08-10_val-grande/Valgrande1.jpg
+featured_image:
+    alt: Val Grande
+    caption: lungo la valle del torrente Pogallo
 categories:
 - Italia
 - Val Grande
