@@ -6,9 +6,32 @@
 <script type="application/javascript">
 
     function fireItUpTheMapYo() {
+        var x = window.matchMedia("screen and (min-width:1650px)").matches;
+        if (x) {
+            includeResources(function () {
+                displayGpx(document.getElementById('map_container'));
+            });
+        } else {
+            document.getElementById('demo-map').parentElement.style.display = "none";
+            document.getElementById('map-footer').style.display = "none";
+            document.getElementById('map-title').innerHTML = "<button type=\"button\" class=\"btn btn-link btn btn-link font-weight-bold text-uppercase\">Vedi il percorso</button>";
+            if (window.addEventListener)
+                window.addEventListener("click", fireItUpTheMapMobile, false);
+            else if (window.attachEvent)
+                window.attachEvent("onclick", fireItUpTheMapMobile);
+            else window.onclick = fireItUpTheMapMobile();
+        }
+    }
+
+    function fireItUpTheMapMobile(){
+        document.getElementById('demo-map').parentElement.style.display = "block";
+        document.getElementById('map-footer').style.display = "block";
+        document.getElementById('map-title').textContent = "La Traccia";
+
         includeResources(function () {
             displayGpx(document.getElementById('map_container'));
         });
+
     }
 
     function includeJs(src, onLoad) {
