@@ -16,6 +16,7 @@ tags:
 - Andata e ritorno 
 - Fiume
 - Pianura
+difficulty: 1
 ---
 
 Marzo 2021. Lombardia. *Zona Rossa* :grimacing:

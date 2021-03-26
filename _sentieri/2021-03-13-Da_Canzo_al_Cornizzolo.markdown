@@ -15,6 +15,7 @@ categories:
 tags:
 - Anello
 - Panorami
+difficulty: 2
 ---
 
 Sentiero tecnicamente semplice e fisicamente non troppo impegnativo, sebbene pienamente soddisfacente per una bella sgambata in montagna. :running:
