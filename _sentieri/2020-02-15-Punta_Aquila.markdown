@@ -4,6 +4,7 @@ title:  "Punta Aquila"
 date:   2020-02-15 09:05:00 +0100
 track:  /assets/tracks/2020-02-15-Punta_Aquila.gpx
 track_color: green
+difficulty: 3
 categories:
 - Italia
 - Alpi Cozie

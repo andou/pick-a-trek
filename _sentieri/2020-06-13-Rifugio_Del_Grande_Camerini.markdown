@@ -4,6 +4,7 @@ title:  "Rifugio Del Grande Camerini"
 date:   2020-06-13 09:05:00 +0100
 track:  /assets/tracks/2020-06-13-Rifugio_Del_Grande_Camerini.gpx
 track_color: green
+difficulty: 3
 image: /assets/img/featured/2020-06-13-Rifugio_Del_Grande_Camerini.jpg
 featured_image:
     alt: Il ghiacciaio del Disgrazia dal terrazzo del rifugio

@@ -4,6 +4,7 @@ title:  "Diga di Gera - Bivacco Anghileri - Cima Fontana"
 date:   2020-08-12 09:05:00 +0100
 track:  /assets/tracks/2020-08-12-Diga_biv._Anghileri_a_cima_Fontana.gpx
 track_color: green
+difficulty: 3
 categories:
 - Italia
 - Alpi Retiche

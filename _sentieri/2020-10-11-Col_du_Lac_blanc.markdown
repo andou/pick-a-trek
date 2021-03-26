@@ -4,6 +4,7 @@ title:  "Col du Lac blanc"
 date:   2020-10-11 09:05:00 +0100
 track:  /assets/tracks/2020-10-11-Col_du_Lac_blanc.gpx
 track_color: green
+difficulty: 2
 grid-gallery: /assets/img/galleries/2020-10-11_col-du-lac-blanc/
 image: /assets/img/galleries/2020-10-11_col-du-lac-blanc/DSC_0841.jpg
 featured_image:

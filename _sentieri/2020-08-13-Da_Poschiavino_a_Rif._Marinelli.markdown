@@ -4,6 +4,7 @@ title:  "Dal Rifugio Poschiavino alla Marinelli"
 date:   2020-08-13 09:05:00 +0100
 track:  /assets/tracks/2020-08-13-Da_Poschiavino_a_Rif._Marinelli.gpx
 track_color: green
+difficulty: 3
 image: /assets/img/featured/2020-08-13-Da_Poschiavino_a_Rif._Marinelli.jpg
 featured_image:
     alt: Le cime di Musella al tramonto

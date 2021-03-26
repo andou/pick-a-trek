@@ -4,6 +4,7 @@ title:  "Da San Giuseppe al Lago Palù"
 date:   2020-12-30 09:05:00 +0100
 track:  /assets/tracks/2020-12-30-Da_San_Giuseppe_al_Lago_Palu.gpx
 track_color: green
+difficulty: 2
 image: /assets/img/featured/2020-12-30-Da_San_Giuseppe_al_Lago_Palu.jpg
 featured_image:
     alt: Una vista mozzafiato

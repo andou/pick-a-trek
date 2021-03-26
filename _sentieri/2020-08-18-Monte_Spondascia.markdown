@@ -4,6 +4,7 @@ title:  "Monte Spondascia"
 date:   2020-08-18 09:05:00 +0100
 track:  /assets/tracks/2020-08-18-Monte_Spondascia.gpx
 track_color: green
+difficulty: 3
 image: /assets/img/featured/2020-08-18-Monte_Spondascia.jpg
 featured_image:
     alt: Quasi in vetta
