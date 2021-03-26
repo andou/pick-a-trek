@@ -4,6 +4,7 @@ title:  "Alpe Viceré e Monte Palanzone"
 date:   2021-02-14 09:05:00 +0100
 track:  /assets/tracks/2021-02-14-Alpe_Vicere_e_Monte_Palanzone.gpx
 track_color: green
+difficulty: 2
 grid-gallery: /assets/img/galleries/2021-02-14_palanzone/
 image: /assets/img/galleries/2021-02-14_palanzone/foto3.jpg
 featured_image:
