@@ -17,19 +17,20 @@
     {% endif %}
 </h2>
 <section class="col-lg-12 justify-content-center">
-    {% directory path: page.grid-gallery exclude: private %}
-    {% assign imgsrc = file.url %}
-    {% if use_weserve %}
-    {% assign imgsrc = file.url | absolute_url %}
-    {% assign imgsrc = site.data.weserve.url | append: imgsrc | append: site.data.weserve.resize.gallery-grid %}
-    {% endif %}
-    <div class="">
-        <figure class="figure col-lg-6 float-lg-left d-flex justify-content-center">
-            <img class="rounded" src="{{ imgsrc }}"
+    <div class="card-columns">
+        {% directory path: page.grid-gallery exclude: private %}
+        {% assign imgsrc = file.url %}
+        {% if use_weserve %}
+        {% assign imgsrc = file.url | absolute_url %}
+        {% assign imgsrc = site.data.weserve.url | append: imgsrc | append: site.data.weserve.resize.gallery-grid %}
+        {% endif %}
+        <div class="card bg-light p-1">
+            <img class="card-img"
+                 src="{{ imgsrc }}"
                  alt="{{ file.name }}"
-                 datetime="{{ file.date | date_to_xmlschema }}"/>
-        </figure>
+                 datetime="{{ file.date | date_to_xmlschema }}">
+        </div>
+        {% enddirectory %}
     </div>
-    {% enddirectory %}
 </section>
 {% endif %}
