@@ -30,6 +30,20 @@ layout: default
                     <!-- read time -->
                     {% include read-time.html content=content %}
 
+                    {% if page.difficulty %}
+                    <span>
+                        Difficoltà
+                    {% case page.difficulty %}
+                    {% when 1 %}
+                    <span class="text-light badge badge-pill badge-success">Facile</span>
+                    {% when 2 %}
+                    <span class="text-light badge badge-pill badge-primary">Normale</span>
+                    {% when 3 %}
+                    <span class="text-light badge badge-pill badge-danger">Impegnativo</span>
+                    {% endcase %}
+                    </span>
+                    {% endif %}
+
                     <!-- page views -->
                     {% if site.google_analytics.pv.enabled %}
                     <span id="pv" class="pageviews"><i class="fas fa-spinner fa-spin fa-fw"></i></span>

@@ -15,3 +15,14 @@ informazione interessante da riportare ad altri appassionati abbiamo deciso di r
 
 Qui sotto trovate quindi un po' di sentieri che abbiamo percorso, in ordine cronologico dai più recenti ai più vecchi. Sperando di
 poterne mano a mano aggiungere altri, sia nuovi che magari vecchi, da rispolverare per dirci _hey, siamo stati pure li!_
+
+Abbiamo pensato di indicare per ciascuno un nostro personalissimo giudizio di _difficoltà_ sulla base dell'impegno fisico che ci hanno richiesto e pensiamo possano richiedere alla maggior parte delle persone abituate a fare attività fisica.
+
+- <span class="text-light badge badge-pill badge-success">F</span> **Facile**, fisicamente poco impegnativo
+- <span class="text-light badge badge-pill badge-primary">N</span> **Normale**, fisicamente impegnativo _il giusto_, alla fine un pò stanchini a casa si torna
+- <span class="text-light badge badge-pill badge-danger">I</span> **Impegnativo**, fisicamente impegnativo o che richiede particolare attenzione
+
+Insomma, per citare Marta
+> Che poi è quello che cerchi quando leggi i dati tecnici di un percorso...
+
+Sono _categorizzazioni_ da prendere con grano salis, mi raccomando! Datevi una letta alla descrizione e cercate sempre di valutare rispetto alle vostre esperienze precedenti :eyeglasses:.

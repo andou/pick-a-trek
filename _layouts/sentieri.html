@@ -27,7 +27,20 @@ layout: page
         {% capture this_month %}{{ post.date | date_loc: "%b" }}{% endcapture %}
         <span class="date day">{{ this_day }}</span>
         <span class="date month small text-muted">{{ this_month }}</span>
-         <a href="{{ post.url | relative_url }}"> {{ post.title }}</a>
+
+
+        {% if post.difficulty %}
+        {% case post.difficulty %}
+        {% when 1 %}
+        <span class="text-light badge badge-pill badge-success cbadge-difficulty">F</span>
+        {% when 2 %}
+        <span class="text-light badge badge-pill badge-primary cbadge-difficulty">N</span>
+        {% when 3 %}
+        <span class="text-light badge badge-pill badge-danger cbadge-difficulty">I</span>
+        {% endcase %}
+        {% endif %}
+
+         <a {% if post.difficulty %}class="with-difficulty"{% endif %}href="{{ post.url | relative_url }}"> {{ post.title }}</a>
 
         {% if post.multistage.url %}
          <a href="{{ post.multistage.url | relative_url }}" class="multi-track-link" data-toggle="tooltip" title="Multi-tappa: {{post.multistage.title}}">
