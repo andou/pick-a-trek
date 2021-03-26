@@ -4,6 +4,7 @@ title:  "Da Chiesa a Primolo e San Giuseppe"
 date:   2021-01-09 09:05:00 +0100
 track:  /assets/tracks/2021-01-09-Da_Chiesa_a_Primolo_e_San_Giuseppe.gpx
 track_color: green
+difficulty: 2
 grid-gallery: /assets/img/galleries/2021-01-09_primolo-san-giuseppe/
 image: /assets/img/galleries/2021-01-09_primolo-san-giuseppe/primolo.jpg
 featured_image:
