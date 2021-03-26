@@ -31,7 +31,7 @@ Siamo partiti dai Piani dei Resinelli, dove, come era normale aspettarsi, abbiam
 
 Inizialmente ci si muove all'interno di un bosco di faggi, appena usciti dal quale si intraprende la salita _importante_. Si tratta di una salita piuttosto ripida e che non concede molto spazio al riposo delle gambe. 
 
-{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/featured/2019-07-07-Grignetta-02.jpg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Il tratto di salita finale, Il tratto di salita finale %}
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/featured/2019-07-07-Grignetta-01.jpg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Il tratto di salita finale, Il tratto di salita finale %}
 
 Come ama dire Marta in questi casi: 
 > Qui si tagliano le isoipse dritto per dritto
