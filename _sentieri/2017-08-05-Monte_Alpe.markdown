@@ -12,6 +12,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+difficulty: 1
 ---
 
 Il [SIC di Monte Alpe](https://www.visitpavia.com/it/visitare-pavia/active-green/riserva-naturale-monte-alpe){:target="_blank"} è una zona naturale molto bella incastonata in Oltrepò a ridosso del [Monte Penice](https://it.wikipedia.org/wiki/Monte_Penice){:target="_blank"} ed il suo [Santuario](https://it.wikipedia.org/wiki/Santuario_di_Santa_Maria_in_Monte_Penice){:target="_blank"}.

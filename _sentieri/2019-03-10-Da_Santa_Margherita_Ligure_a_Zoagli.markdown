@@ -12,6 +12,7 @@ tags:
 - Mare
 - Paesaggi
 - Natura
+difficulty: 2
 ---
 
 Quarta tappa del Sentiero Liguria.

@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+difficulty: 2
 ---
 
 Settima tappa del Vallo di Adriano, che attraversa Carlisle. 

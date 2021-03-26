@@ -17,6 +17,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+difficulty: 1
 ---
 
 Dall’albergo abbandonato ci si incammina sulla strada sterrata che dopo poco si abbandona per entrare nel bosco. 

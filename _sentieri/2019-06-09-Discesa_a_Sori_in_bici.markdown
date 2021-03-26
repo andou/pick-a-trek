@@ -14,6 +14,7 @@ tags:
 - Paesaggi
 - Natura
 - Bici
+difficulty: 1
 ---
 
 Invece che concludere la Via del Sale arrivando a piedi a Sori, abbiamo fatto l'ultimo tratto con delle bici noleggiate. Una discesa lunga e divertente fino al mare!

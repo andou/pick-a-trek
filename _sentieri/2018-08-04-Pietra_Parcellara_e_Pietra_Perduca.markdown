@@ -15,6 +15,7 @@ categories:
 tags:
 - Panorami
 - Appennino
+difficulty: 2
 ---
 
 Pietra Parcellara e Pietra Perduca sono due formazioni rocciose nere e imponenti. Il sentiero ad anello le tocca entrambe, attraversando prati, campi coltivati e boschi. 

@@ -17,6 +17,7 @@ tags:
 - Panorami
 - Appennino
 - Fenomeni Carsici
+difficulty: 2
 ---
 
 Splendido sentiero nel Parco Regionale della Gola Rossa, vicino a Frasassi. Non sottovalutate la salita al Foro degli Occhialoni, il sentiero è stretto e il versante è ripido. Niente di impossibile, ma non affrontatela in infradito... 

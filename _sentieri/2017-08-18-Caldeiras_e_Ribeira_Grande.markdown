@@ -14,6 +14,7 @@ categories:
 - Azzorre
 tags:
 - Natura
+difficulty: 1
 ---
 
 Un altro sentiero a Sao Miguel, un sentiero ad anello nella foresta, accanto alle condotte della centrale idroelettrica. 

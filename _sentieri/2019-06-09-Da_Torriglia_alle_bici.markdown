@@ -12,6 +12,7 @@ tags:
 - Mare
 - Paesaggi
 - Natura
+difficulty: 2
 ---
 
 La via del sale prosegue da Torriglia attraversando i boschi dell'appennino e tra sali-scendi si arriva in vista del mare. Purtroppo la traccia non è stata registrata per un problema tecnico, ma la rifaremo. La variante che abbiamo seguito ci ha portato a una strada asfaltata dove ci aspettavano delle bici prese a noleggio per la discesa a Sori... vi rimandiamo alla traccia successiva!

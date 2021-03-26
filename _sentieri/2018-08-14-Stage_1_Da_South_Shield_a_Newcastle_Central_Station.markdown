@@ -17,6 +17,7 @@ tags:
 - Campagna
 - Paesaggi
 - Città
+difficulty: 2
 ---
 
 Prima tappa del Vallo di Adriano. Anzi, in teoria inizia a Wallsend (a metà di questa tratta), dove si trova il primo forte, ma noi abbiamo preferito partire dal mare. Un breve traghetto porta da South Shield a Norh Shield. 

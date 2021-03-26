@@ -16,6 +16,7 @@ tags:
 - Anello
 - Panorami
 - Appennino
+difficulty: 2
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

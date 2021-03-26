@@ -17,6 +17,7 @@ tags:
 - Panorami
 - Questi un pò le gambe le spezzano
 - Prima guerra mondiale
+difficulty: 2
 ---
 
 Questo sentiero è famoso per essere stato costruito durante la prima guerra mondiale, scavando appunto 52 gallerie dentro la montagna per evitare di essere visti dagli austriaci. 

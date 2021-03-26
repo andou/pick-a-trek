@@ -17,6 +17,7 @@ tags:
 - Andata e ritorno  
 - Mare
 - Falesie
+difficulty: 2
 ---
 
 A Flores, una ripida salita a zigzag tra i boschi pieni di gigli dell'Himalaya, porta sull'altopiano centrale dell'isola, dove ci sono diversi laghi vulcanici, circondati da ortensie e erika, e popolati di sterne, gabbiani... un paradiso della natura.

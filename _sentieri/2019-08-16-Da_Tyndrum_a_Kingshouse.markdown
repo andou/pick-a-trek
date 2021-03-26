@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+difficulty: 2
 ---
 
 Quinta tappa della West Highland Way, la più lunga.

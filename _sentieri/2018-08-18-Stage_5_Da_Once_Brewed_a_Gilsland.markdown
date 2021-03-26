@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+difficulty: 2
 ---
 
 Quinta tappa del Vallo di Adriano. 

@@ -12,6 +12,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+difficulty: 2
 ---
 
 Un altro bel sentiero in Oltrpò, che da Caldirola fa toccare le cime del Monte Giarolo, Gropà, Panà, Cosfrone e Ebro. 

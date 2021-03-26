@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+difficulty: 2
 ---
 
 Seconda tappa della West Highland Way.

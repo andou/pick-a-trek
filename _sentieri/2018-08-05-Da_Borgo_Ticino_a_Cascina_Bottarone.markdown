@@ -15,6 +15,7 @@ categories:
 tags:
 - Natura
 - Fiume
+difficulty: 1
 ---
 
 Da Borgo Ticino, quartiere di Pavia a sud del Ponte Coperto, si costeggia il Ticino e poi si prosegue tra i campi coltivati a pioppeto, lungo le strade bianche che conducono tra una cascina e l'altra. 

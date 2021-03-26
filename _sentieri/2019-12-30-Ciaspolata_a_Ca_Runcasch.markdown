@@ -16,6 +16,7 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
+difficulty: 1
 ---
 
 Una facilissima ciaspolata: dal parcheggio sulla strada per la Diga, si segue il sentiero, attraversando boschi e prati fino al rifugio Cà Runcash. Da lì volendo partono tanti altri sentieri, per ogni gamba. 

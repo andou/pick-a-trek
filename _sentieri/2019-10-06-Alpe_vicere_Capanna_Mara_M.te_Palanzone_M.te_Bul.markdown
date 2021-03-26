@@ -11,6 +11,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Natura
+difficulty: 2
 ---
 
 Nel Triangolo Lariano, questa zona è ricca di sentieri per tutte le difficoltà: il pezzo iniziale è su comoda carrareccia, poi ci sono diverse cime che si possono raggiungere o... aggirare! 

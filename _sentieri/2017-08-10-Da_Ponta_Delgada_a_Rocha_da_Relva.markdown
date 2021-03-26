@@ -17,6 +17,7 @@ tags:
 - Andata e ritorno
 - Mare
 - Falesie
+difficulty: 2
 ---
 
 Si tratta di un bel sentiero ripido ripido che scende fino al mare lungo una falesia, la Rocha da Relva che da il nome al sentiero. 

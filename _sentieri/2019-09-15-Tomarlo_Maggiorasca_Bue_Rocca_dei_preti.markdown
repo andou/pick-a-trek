@@ -12,6 +12,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+difficulty: 2
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

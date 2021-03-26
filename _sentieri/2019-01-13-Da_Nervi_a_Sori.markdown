@@ -17,6 +17,7 @@ tags:
 - Mare
 - Paesaggi
 - Natura
+difficulty: 2
 ---
 
 Prima tappa del Sentiero Liguria.

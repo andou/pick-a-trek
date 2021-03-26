@@ -15,6 +15,7 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
+difficulty: 3
 ---
 
 Un altro bel sentiero!! :mountain: :snowflake:

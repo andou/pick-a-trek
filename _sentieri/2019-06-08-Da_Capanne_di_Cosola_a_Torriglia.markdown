@@ -13,6 +13,7 @@ tags:
 - Appennino
 - Paesaggi
 - Natura
+difficulty: 2
 ---
 
 Tappa della Via del Sale che da Capanne di Cosola porta a Torriglia, toccando le cime dell'Oltrpò: Legnà, Carmo, Brigneto, Antola. 

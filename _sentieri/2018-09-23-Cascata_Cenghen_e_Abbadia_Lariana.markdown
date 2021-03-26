@@ -11,6 +11,7 @@ tags:
 - Ripido
 - Andata e ritorno
 - Natura
+difficulty: 1
 ---
 
 Un bel sentiero ad anello che conduce facilmente alla Cascata del Cenghen. 

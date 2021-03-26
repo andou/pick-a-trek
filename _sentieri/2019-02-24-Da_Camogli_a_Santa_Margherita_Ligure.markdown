@@ -12,6 +12,7 @@ tags:
 - Mare
 - Paesaggi
 - Natura
+difficulty: 2
 ---
 
 Terza tappa del Sentiero Liguria.

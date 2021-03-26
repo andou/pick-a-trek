@@ -17,6 +17,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+difficulty: 2
 ---
 
 Da Casa del Romano un bel sentiero porta in cima al monte Antola, da cui la vista spazia dal mare alle Alpi, e poi scende un po' fino al rifugio. 

@@ -14,6 +14,7 @@ categories:
 - Azzorre
 tags:
 - Natura
+difficulty: 1
 ---
 
 Sentiero ad anello intorno al Lagoa das Furnas, uno dei meravigliosi laghi vulcanici delle [Azzorre](/categories/azzorre){:target="_blank"}. 

@@ -10,6 +10,7 @@ categories:
 tags:
 - Natura
 - Fiume
+difficulty: 1
 ---
 
 Il sentiero costeggia il Ticino all'interno del suo Parco Naturale, a sud di Vigevano. 

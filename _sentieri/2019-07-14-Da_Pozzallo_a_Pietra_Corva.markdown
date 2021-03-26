@@ -14,6 +14,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+difficulty: 1
 ---
 
 Dalla frazione Pozzallo di Romagnese, si segue una carrareccia che attraversa i boschi, tra saliscendi, e si arriva al monte Pan Perduto e poi alla Pietra Corva o Pietra di Corvo, per il colore nero. Si tratta infatti di rocce ofiolitiche.

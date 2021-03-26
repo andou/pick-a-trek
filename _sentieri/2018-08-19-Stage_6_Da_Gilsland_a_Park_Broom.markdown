@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+difficulty: 2
 ---
 
 Sesta tappa del Vallo di Adriano, per noi la più lunga.

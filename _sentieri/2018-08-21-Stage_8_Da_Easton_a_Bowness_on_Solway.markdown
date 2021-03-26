@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+difficulty: 1
 ---
 
 Ottava e ultima tappa del Vallo di Adriano. Tappa breve. 

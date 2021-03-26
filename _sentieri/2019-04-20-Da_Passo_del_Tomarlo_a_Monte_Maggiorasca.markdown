@@ -17,6 +17,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+difficulty: 1
 ---
 
 Alla nostra collezione delle cime dell'Appennino, abbiamo aggiunto il Monte Maggiorasca. Il percorso attraversa placidi boschi, e raggiunge la cima (molto ventosa).

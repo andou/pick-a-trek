@@ -17,6 +17,7 @@ image: /assets/img/featured/2019-07-07-Grignetta.jpg
 featured_image:
     alt: Il lago dall'alto
     caption: Il lago dall'alto
+difficulty: 3
 ---
 
 Per chi vive a Milano o nei pressi (come noi), la zona di Lecco è meta piuttosto comune quando si vuole fare qualche _sgambata_ in montagna. 
