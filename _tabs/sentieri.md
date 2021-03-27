@@ -20,7 +20,7 @@ Abbiamo pensato di indicare per ciascuno un nostro personalissimo giudizio di _d
 
 - <span class="text-light badge badge-pill badge-success">F</span> **Facile**, fisicamente poco impegnativo
 - <span class="text-light badge badge-pill badge-primary">N</span> **Normale**, fisicamente impegnativo _il giusto_, alla fine un pò stanchini a casa si torna
-- <span class="text-light badge badge-pill badge-danger">I</span> **Impegnativo**, fisicamente impegnativo o che richiede particolare attenzione
+- <span class="text-light badge badge-pill badge-warning">I</span> **Impegnativo**, fisicamente impegnativo o che richiede particolare attenzione
 
 Insomma, per citare Marta
 > Che poi è quello che cerchi quando leggi i dati tecnici di un percorso...
