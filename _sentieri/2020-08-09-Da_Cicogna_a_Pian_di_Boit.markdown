@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Solitudine
+- One-way
 ---
 
 Raggiunta Cicogna in auto (la strada per salire è strettissima, pregate di non incrociare nessuno), e dopo aver parcheggiato con un po' di fantasia, ci si incammina lungo il bel sentiero acciottolato che porta verso l'abitato di Pogallo. 

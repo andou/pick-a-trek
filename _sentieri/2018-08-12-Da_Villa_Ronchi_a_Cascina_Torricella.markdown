@@ -8,6 +8,7 @@ categories:
 - Italia
 - Ticino
 tags:
+- Andata e ritorno
 - Natura
 - Fiume
 - Pianura

@@ -13,6 +13,7 @@ categories:
 - Italia
 - Piacentino
 tags:
+- Anello
 - Panorami
 - Appennino
 difficulty: 2
