@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - Solitudine
+- One-way
 ---
 
 Il sentiero tra Pogallo e Cicogna corre nel bosco, senza dislivello particolarmente impegnativo, su un sentiero in parte acciottolato che a volte si restringe. 

@@ -17,6 +17,7 @@ tags:
 - Andata e ritorno  
 - Mare
 - Falesie
+- Laghi
 difficulty: 2
 ---
 

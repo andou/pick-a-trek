@@ -18,6 +18,8 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+- Laghi
+- One-way
 difficulty: 2
 ---
 

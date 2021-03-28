@@ -12,7 +12,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
-difficulty: 2
+difficulty: 1
 ---
 
 Da Bagnaria il sentiero sale fino al Monte Bagnaria, poi resta in falsopiano fino all'abbazia di Sant'Alberto di Butrio. Il sentiero è sempre tra i boschi, ombroso e fresco. 

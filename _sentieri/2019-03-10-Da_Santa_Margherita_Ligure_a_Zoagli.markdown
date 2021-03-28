@@ -9,6 +9,7 @@ categories:
 - Sentiero Liguria
 tags:
 - Lunghe tratte
+- One-way
 - Mare
 - Paesaggi
 - Natura

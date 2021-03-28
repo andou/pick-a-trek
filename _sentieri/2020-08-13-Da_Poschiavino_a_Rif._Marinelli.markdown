@@ -19,6 +19,7 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
+- One-way
 ---
 
 Questo percorso fa parte della tre tappe nell'Alta Via della Valmalenco che ci siamo ritagliati tutta per noi. 

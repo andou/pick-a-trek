@@ -19,6 +19,7 @@ tags:
 - Neve
 - Valtellina
 - Valmalenco
+- Laghi
 ---
 
 Per chi è avvezzo a frequentare Chiesa Valmalenco la funivia ed il comprensorio sciistico a cui conduce sono un elemento piuttosto familiare del paesaggio. 

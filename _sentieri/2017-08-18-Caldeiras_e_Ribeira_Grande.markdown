@@ -13,6 +13,7 @@ categories:
 - Estero
 - Azzorre
 tags:
+- Anello
 - Natura
 difficulty: 1
 ---

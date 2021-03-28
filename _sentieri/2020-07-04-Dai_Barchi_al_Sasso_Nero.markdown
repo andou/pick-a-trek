@@ -22,6 +22,7 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
+- Laghi
 ---
 
 Il massicco del Sasso Nero è un maestoso complesso roccioso di serpentini scuri, ai quali deve il suo nome. La montagna separa l'Alta Valmalenco dal Vallone di Scerscen e dalla sua cima si può godere di uno dei più bei panorami sulla testata della Valmalenco.

@@ -13,7 +13,10 @@ categories:
 - Estero
 - Azzorre
 tags:
+- Anello
 - Natura
+- Laghi
+- Tranquillo
 difficulty: 1
 ---
 
