@@ -1,6 +1,6 @@
 ---
 layout: sentiero
-title:  "Le 52 gallerie"
+title:  "La Strada delle 52 gallerie"
 date:   2019-07-20 09:05:00 +0100
 track:  /assets/tracks/2019-07-20-Le_52_gallerie.gpx
 track_color: green
