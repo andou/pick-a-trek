@@ -15,6 +15,7 @@ categories:
 tags:
 - Natura
 - Fiume
+- Pianura
 difficulty: 1
 ---
 
