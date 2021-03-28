@@ -14,6 +14,8 @@ categories:
 - Azzorre
 tags:
 - Natura
+- Laghi
+- Tranquillo
 difficulty: 1
 ---
 

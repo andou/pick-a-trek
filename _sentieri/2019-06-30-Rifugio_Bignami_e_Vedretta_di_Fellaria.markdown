@@ -14,6 +14,7 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
+- Laghi
 difficulty: 2
 ---
 

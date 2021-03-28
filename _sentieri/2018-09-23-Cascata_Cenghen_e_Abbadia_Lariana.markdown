@@ -11,6 +11,7 @@ tags:
 - Ripido
 - Andata e ritorno
 - Natura
+- Laghi
 difficulty: 1
 ---
 
