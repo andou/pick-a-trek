@@ -1,6 +1,6 @@
 ---
 layout: sentiero
-title:  "Monte Lesima"
+title:  "Ciaspolata al Monte Lesima da Pian del Poggio"
 date:   2021-01-30 09:05:00 +0100
 track:  /assets/tracks/2021-01-30-Monte_Lesima.gpx
 track_color: green

@@ -1,6 +1,6 @@
 ---
 layout: sentiero
-title:  "Da Pavia alla confluenza"
+title:  "Fino alla confluenza di Po e Ticino dal centro di Pavia"
 date:   2021-03-20 09:05:00 +0100
 track:  /assets/tracks/2021-03-20-Da_Pavia_alla_confluenza.gpx
 track_color: green
