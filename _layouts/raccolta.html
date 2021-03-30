@@ -24,6 +24,12 @@ layout: default
 
       </div> <!-- .post-meta -->
 
+      {% if page.excerpt and page.excerpt_separator %}
+      <div class="pl-3 mt-3 post-meta text-dark d-flex font-italic flex-column border-left">
+        {{  page.excerpt | remove: '<p>' }}
+      </div>
+      {% endif %}
+
       <div class="post-content post-content__raccolta">
 
         {% if page.image %}
@@ -34,7 +40,7 @@ layout: default
           {% endif %}
         {% endif %}
 
-        {{ content }}
+        {{ page.content | remove: page.excerpt  }}
 
       </div>
 
