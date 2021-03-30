@@ -10,7 +10,7 @@ module Jekyll
 
 		def render(context)
 			markup = Liquid::Template.parse(@markup).render context
-			arguments = markup.strip.split(',').map {|item| item.strip}
+			arguments = markup.strip.gsub(",,", "^^^^").split(',').map {|item| item.strip.gsub("^^^^",",")}
 
 			fig_src = BASEURL + arguments[0]
 			fig_caption = ""
