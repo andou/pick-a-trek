@@ -5,18 +5,46 @@ layout: page
 {% seo image=site.image %}
 
 <div class="home-superpin__container">
-<h1 class="home-superpin__title">Bentrovati!</h1>
+  <h1 class="mb home-superpin__title">Pick-a-trek: diario di escursioni e di viaggi</h1>
   <div class="home-superpin__message">
-    Siamo <a href="{% link _tabs/about.md %}">Antonio e Marta</a>. Passiamo tutto il tempo che riusciamo sgambando per sentieri di montagna e non,
+    Ciao! Siamo <a href="{% link _tabs/about.md %}">Antonio e Marta</a>. Passiamo tutto il tempo che riusciamo sgambando per sentieri di montagna e non,
     in <a href="{{ '/categories/italia/' | relative_url }}">Italia</a> e in <a href="{{ '/categories/estero/' | relative_url }}">giro per il mondo</a>, quando gli impegni ce lo permettono :smile:
   </div>
   <div class="home-superpin__message mt-3">
     Abbiamo pensato di mettere insieme un po' dei sentieri che abbiamo percorso presentandoli come vorremmo fossero presentati a noi quando siamo alla ricerca di una nuova avventura.
   </div>
-  <div class="home-superpin__button d-flex flex-wrap mt-4 mb-1 mr-3">
-    <a class="p-3 animate__animated animate__pulse animate__infinite animate__slower animate__delay-3s" href="{% link _tabs/sentieri.md %}">Scopri i nostri sentieri!</a>
-  </div>
 </div>
+
+{% assign the_tracks = site.sentieri | sort: 'date' | reverse %}
+
+  <div id="track-list">
+    <h2>Gli ultimi sentieri</h2>
+    {% for the_track in the_tracks limit:4 %}
+      <div class="post-preview">
+        <h3>
+          <a href="{{ the_track.url | relative_url }}">{{ the_track.title }}</a>
+        </h3>
+
+        <div class="post-content">
+          <p>
+            {% include no-linenos.html content=the_track.content %}
+            {{ content | markdownify | strip_html | truncate: 200 }}
+          </p>
+        </div>
+
+        <div class="post-meta text-muted d-flex justify-content-between">
+          <div>
+            <i class="far fa-calendar fa-fw"></i>
+            {% include timeago.html date=the_track.date tooltip=true %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="home-superpin__button d-flex flex-wrap mt-4 mb-1 mr-3">
+    <a class="p-3" href="{% link _tabs/sentieri.md %}">Vedi tutti i sentieri</a>
+  </div>
 
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
@@ -56,12 +84,13 @@ layout: page
 
 <div id="post-list">
 
+    <h2>Aggiornamenti</h2>
 {% for post in posts %}
 
   <div class="post-preview">
-    <h2>
+    <h3>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h2>
+    </h3>
 
     <div class="post-content">
       <p>

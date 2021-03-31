@@ -1,5 +1,5 @@
 /*
-  Style for Homepage
+Style for Homepage
 */
 
 .home-superpin__container {
@@ -9,21 +9,22 @@
   .home-superpin__message{
     font-size: 1.1rem;
   }
-  .home-superpin__button {
-    a {
-      display: inline-block;
-      line-height: 1rem;
-      font-size: 1rem;
-      background-color: #2a408e;
-      color: #fff;
-      border: 1px solid var(--btn-border-color);
-      border-radius: 0.8rem;
+}
 
-      &:hover {
-        border-color: #2a408e;
-        transition: none;
-        text-decoration: none;
-      }
+.home-superpin__button {
+  a {
+    display: inline-block;
+    line-height: 1rem;
+    font-size: 1rem;
+    background-color: #2a408e;
+    color: #fff;
+    border: 1px solid var(--btn-border-color);
+    border-radius: 0.8rem;
+
+    &:hover {
+      border-color: #2a408e;
+      transition: none;
+      text-decoration: none;
     }
   }
 }
@@ -100,9 +101,30 @@
 
 // .pagination
 
-#post-list {
+#post-list, #track-list {
   margin-top: 1rem;
   padding-right: 0.5rem;
+
+
+  .card-columns {
+
+    column-count: 1;
+
+    @media all and (min-width: 577px) and (max-width: 1199px) {
+      column-count: 2;
+    }
+
+    @media all and (min-width: 1200px) {
+      column-count: 2;
+    }
+  }
+
+
+  h2{
+    font-size: 1.8rem;
+    margin: 0;
+    padding-top: 2rem;
+  }
 
   .post-preview {
     padding-top: 1.5rem;
@@ -156,9 +178,14 @@
       }
     }
 
-  }
+    &:first-child {
+      padding-top: 0.5rem;
+    }
 
-  // .post-preview
+    &:last-child{
+      border-bottom: none;
+    }
+  }
 
 }
 
@@ -174,7 +201,7 @@
 /* Sidebar is visible */
 @media all and (min-width: 831px) {
 
-  #post-list {
+  #post-list, #track-list {
     margin-top: 1.5rem;
 
     .post-preview .post-meta {
@@ -207,7 +234,7 @@
 
 /* Pannel hidden */
 @media all and (max-width: 1200px) {
-  #post-list {
+  #post-list, #track-list {
     padding-right: 0;
   }
 }
