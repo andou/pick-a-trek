@@ -40,7 +40,11 @@ layout: default
           {% endif %}
         {% endif %}
 
-        {{ page.content | remove: page.excerpt  }}
+        {% if page.excerpt and page.excerpt_separator %}
+          {{ page.content | remove: page.excerpt  }}
+        {% else %}
+          {{ page.content  }}
+        {% endif %}
 
       </div>
 
