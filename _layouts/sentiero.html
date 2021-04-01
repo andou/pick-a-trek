@@ -35,11 +35,11 @@ layout: default
                         Difficoltà
                     {% case page.difficulty %}
                     {% when 1 %}
-                    <span class="text-light badge badge-pill badge-success">Facile</span>
+                    <span class="text-light badge badge-pill badge-success"><a class="link-unstyled text-light" href="{{ site.baseurl }}/tags/facile/">Facile</a></span>
                     {% when 2 %}
-                    <span class="text-light badge badge-pill badge-primary">Normale</span>
+                    <span class="text-light badge badge-pill badge-primary"><a class="link-unstyled text-light" href="{{ site.baseurl }}/tags/escursione/">Normale</a></span>
                     {% when 3 %}
-                    <span class="text-light badge badge-pill badge-warning">Impegnativo</span>
+                    <span class="text-light badge badge-pill badge-warning"><a class="link-unstyled text-light" href="{{ site.baseurl }}/tags/impegnativo/">Impegnativo</a></span>
                     {% endcase %}
                     </span>
                     {% endif %}

@@ -1810,3 +1810,16 @@ $sidebar-display: "sidebar-display";
     margin-left: 41px;
   }
 }
+
+#post-wrapper{
+  .link-unstyled, .link-unstyled:link {
+    color: inherit!important;
+    text-decoration: inherit!important;
+    border-bottom: inherit!important;
+  }
+  .link-unstyled:hover {
+    color: inherit!important;
+    text-decoration: inherit!important;
+    border-bottom: 1px solid!important;
+  }
+}
