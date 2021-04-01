@@ -15,7 +15,8 @@ categories:
 tags:
 - Anello
 - Natura
+- Escursione
 difficulty: 2
 ---
 
-Un bellissimo percorso nell'isola di Sao Miguel, attraverso boschi lussureggianti, brevi tunnel, e fino alla Janela do Inferno, una parete con un enorme buco creato dall'acqua: la finestra dell'inferno... 
+Un bellissimo percorso nell'isola di Sao Miguel, attraverso boschi lussureggianti, brevi tunnel, e fino alla Janela do Inferno, una parete con un enorme buco creato dall'acqua: la finestra dell'inferno...

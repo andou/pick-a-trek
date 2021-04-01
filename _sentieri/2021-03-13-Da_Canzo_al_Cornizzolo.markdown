@@ -16,7 +16,7 @@ categories:
 tags:
 - Anello
 - Panorami
-- Normale
+- Escursione
 difficulty: 2
 ---
 

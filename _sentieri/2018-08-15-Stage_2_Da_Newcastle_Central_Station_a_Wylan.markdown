@@ -19,7 +19,8 @@ tags:
 - Natura
 - Pioggia
 - One-way
+- Escursione
 difficulty: 2
 ---
 
-Seconda tappa del Vallo di Adriano. 
+Seconda tappa del Vallo di Adriano.

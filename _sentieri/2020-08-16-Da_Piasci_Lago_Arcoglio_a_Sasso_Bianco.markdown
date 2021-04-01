@@ -4,7 +4,6 @@ title:  "Da Piasci al Lago Arcoglio e al Sasso Bianco"
 date:   2020-08-16 09:05:00 +0100
 track:  /assets/tracks/2020-08-16-Da_Piasci_Lago_Arcoglio_a_Sasso_Bianco.gpx
 track_color: green
-difficulty: 2
 image: /assets/img/featured/2020-08-16-Da_Piasci_Lago_Arcoglio_a_Sasso_Bianco.jpg
 featured_image:
     alt: La vista dal Lago Arcoglio verso la valle
@@ -18,6 +17,8 @@ tags:
 - Laghi
 - Valtellina
 - Valmalenco
+- Escursione
+difficulty: 2
 ---
 
 Quando si visita la Valmalenco con l'intenzione di compiere delle escursioni, spesso Torre Santa Maria viene un pò ignorata o non presa nella dovuta considerazione. In realtà questo probabilmente dipende dalla _sudditanza_ che le ben più blasonate mete dell'Alta Valmalenco le impongono.

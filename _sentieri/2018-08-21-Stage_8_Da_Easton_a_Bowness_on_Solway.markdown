@@ -11,7 +11,7 @@ featured_image:
     caption: Quasi arrivati
 categories:
 - Estero
-- Inghilterra 
+- Inghilterra
 tags:
 - Lunghe tratte
 - Campagna
@@ -19,7 +19,8 @@ tags:
 - Natura
 - Pioggia
 - One-way
+- Facile
 difficulty: 1
 ---
 
-Ottava e ultima tappa del Vallo di Adriano. Tappa breve. 
+Ottava e ultima tappa del Vallo di Adriano. Tappa breve.

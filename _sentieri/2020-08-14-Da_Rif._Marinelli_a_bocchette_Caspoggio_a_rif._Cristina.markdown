@@ -4,7 +4,6 @@ title:  "Da Rifugio Marinelli al Rifugio Cristina per la Bocchetta Caspoggio"
 date:   2020-08-14 09:05:00 +0100
 track:  /assets/tracks/2020-08-14-Da_Rif._Marinelli_a_bocchette_Caspoggio_a_rif._Cristina.gpx
 track_color: green
-difficulty: 3
 image: /assets/img/featured/2020-08-14-Da_Rif._Marinelli_a_bocchette_Caspoggio_a_rif._Cristina.jpg
 featured_image:
     alt: La bocchetta di Caspoggio
@@ -22,11 +21,13 @@ tags:
 - Valmalenco
 - Laghi
 - One-way
+- Impegnativo
+difficulty: 3
 ---
 
 Uno degli itinerari più classici e belli della Valmalenco è quello che nell'alta Val Lantera, partendo dalla Diga di Campo Moro e passando per il rifugio Bignami, conduce al Rifugio Marinelli Bombardieri passando per la bocchetta di Caspoggio. Da li si può eventualmente ridiscendere alla Diga passando per il rifugio Carate Brianza oppure tornare sui propri passi.
 
 Il percorso che invece abbiamo fatto noi nella seconda delle tre tappe lungo la Piccola Alta Via della Valmalenco effettua il tragitto inverso, partendo dal Rifugio Marinelli Bombardieri, giungendo al Rifugio Bignami. Nel farlo si passa _nell'altro verso_ presso la bocchetta di Caspoggio, a quasi 3000m.
-Si tratta di un pezzo di ghiacciaio tecnicamente semplice e non troppo ripido ma che comunque richiede l'uso di ramponi. 
+Si tratta di un pezzo di ghiacciaio tecnicamente semplice e non troppo ripido ma che comunque richiede l'uso di ramponi.
 
 Una volta arrivati al rifugio Bignami siamo scesi lungo l'invaso della Diga fino sotto al Rifugio Zoia e siamo risaliti verso il Rifugio Cristina, ai piedi del Pizzo Scalino e alla vista della bellissima Alpe Prabello.

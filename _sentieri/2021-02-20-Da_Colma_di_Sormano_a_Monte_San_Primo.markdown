@@ -18,6 +18,8 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Escursione
+difficulty: 2
 ---
 
 Da Colma di Sormano il sentiero inizia dolcemente nel bosco; uscendo diventa più ripido e lo sguardo si apre sulla vallata. Nell'ultimo tratto si resta sulla cresta, godendo del panorama a destra e sinistra, e con un ultimo sforzo si raggiunge la cima di monte San Primo.

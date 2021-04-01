@@ -4,7 +4,6 @@ title:  "Da Alpe Devero ad Alpe Fontane verso la Corona Troggi"
 date:   2020-02-22 09:05:00 +0100
 track:  /assets/tracks/2020-02-22-Da_Alpe_Devero_a_Alpe_Fontane.gpx
 track_color: green
-difficulty: 2
 image: /assets/img/featured/2020-02-22-Da_Alpe_Devero_a_Alpe_Fontane.jpg
 featured_image:
     alt: L'invidiabile vista lungo il percorso
@@ -17,6 +16,8 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Escursione
+difficulty: 2
 ---
 
 Ci sono delle volte in cui, per quanto ci si impegni, ci si prepari e si cerchi di essere pronti quasi ad ogni evenienza, qualcosa la si sbaglia e l'escursione, come la più classica delle ciambelle, _non riesce con il buco_.
@@ -29,4 +30,3 @@ Nel caso di questa escursione avevamo valutato che la temperatura sarebbe stata 
 Se questo era vero nel primo tratto del percorso, non lo è stato nella sezione superiore, dopo l'Alpe Fontana. In quel punto la neve era alta, soffice e in fase di discioglimento.
 
 Procedere era impossibile, quindi abbiamo deciso, come si dice in gergo, di _ragequittare_ e siamo tornati sui nostri passi :smile:.
-

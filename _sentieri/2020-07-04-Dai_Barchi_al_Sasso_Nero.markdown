@@ -4,7 +4,7 @@ title:  "Dai Barchi al Sasso Nero"
 date:   2020-07-04 09:05:00 +0100
 track:  /assets/tracks/2020-07-04-Dai_Barchi_al_Sasso_Nero.gpx
 track_color: green
-difficulty: 3
+excerpt_separator: <!--more-->
 image: /assets/img/featured/2020-07-04-Dai_Barchi_al_Sasso_Nero.jpg
 featured_image:
     alt: La croce di vetta
@@ -23,9 +23,15 @@ tags:
 - Valtellina
 - Valmalenco
 - Laghi
+- Impegnativo
+difficulty: 3
 ---
 
-Il massicco del Sasso Nero è un maestoso complesso roccioso di serpentini scuri, ai quali deve il suo nome. La montagna separa l'Alta Valmalenco dal Vallone di Scerscen e dalla sua cima si può godere di uno dei più bei panorami sulla testata della Valmalenco.
+Una lunga salita che senza particolari strappi conduce in vetta ad uno dei più bei balconi sulla testata della Valmalenco, quasi a 3000 metri
+
+<!--more-->
+
+Il massiccio del Sasso Nero è un maestoso complesso roccioso di serpentini scuri, ai quali deve il suo nome. La montagna separa l'Alta Valmalenco dal Vallone di Scerscen e dalla sua cima si può godere di uno dei più bei panorami sulla testata della Valmalenco.
 
 Presenta due vette principali, la SE, descritta in questa traccia e NW, leggermente più alta ma anche più complessa da raggiungere, richiedendo di utilizzare una corda fissa.
 

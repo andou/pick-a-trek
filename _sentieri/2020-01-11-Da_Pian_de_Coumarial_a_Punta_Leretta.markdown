@@ -8,7 +8,6 @@ featured_image:
     alt: Dalla Cima della Punta Leretta
     caption: Dalla Cima della Punta Leretta
 track_color: green
-difficulty: 2
 categories:
 - Italia
 - Val d'Aosta
@@ -17,12 +16,14 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Escursione
+difficulty: 2
 ---
 
 Vi è mai capitato di partire per un'escursione carichi e convinti che il sentiero sia ben tracciato e visibile, seguirlo sicuri come un treno e d'improvviso trovarvi in un vicolo cieco? A noi si :tired_face: e durante il percorso di qui sotto ci è successo proprio questo.
 
 La traccia descritta è stata effettuata in invernale, con le ciaspole ai piedi. Ad un bivio la traccia non era molto ben battuta ed il sentiero non _segnalatissimo_ e perciò siamo andati dritti come dei fusi, salvo poi dover tornare indietro per un bel tratto :unamused:
 
-Poco importa, visto che comunque la salita alla Punta Leretta è un itinerario piuttosto semplice ma davvero panoramico. Dalla cima, che alla fine abbiamo comunque raggiunto, si gode di un meraviglioso panorama che offre vedute dal Cervino al Monviso assieme a tutte le montagne della parte bassa della valle del Lys. 
+Poco importa, visto che comunque la salita alla Punta Leretta è un itinerario piuttosto semplice ma davvero panoramico. Dalla cima, che alla fine abbiamo comunque raggiunto, si gode di un meraviglioso panorama che offre vedute dal Cervino al Monviso assieme a tutte le montagne della parte bassa della valle del Lys.
 
 Il tutto immersi nella cornice naturale della Riserve Naturale Monte Mars, la cui mole domina la Punta Leretta stessa.

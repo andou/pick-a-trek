@@ -4,7 +4,6 @@ title:  "Punta Aquila"
 date:   2020-02-15 09:05:00 +0100
 track:  /assets/tracks/2020-02-15-Punta_Aquila.gpx
 track_color: green
-difficulty: 3
 categories:
 - Italia
 - Alpi Cozie
@@ -13,6 +12,8 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Impegnativo
+difficulty: 3
 ---
 
 La salita presenta alcuni tratti più costanti e alcuni strappi più ripidi, soprattutto per raggiungere la ex seggiovia dell'Aquila. Da lì la traccia corre in cresta, e i versanti sono ripidi quindi consigliamo i ramponi.

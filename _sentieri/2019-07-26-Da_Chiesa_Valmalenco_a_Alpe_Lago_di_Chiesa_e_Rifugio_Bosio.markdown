@@ -19,9 +19,10 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
+- Escursione
 difficulty: 2
 ---
 
-Da Chiesa in Valmalenco si sale a zig zag nel bosco e poi su strada sterrata fino al pianoro dell'Alpe Lago di Chiesa (non c'è nessun lago, eh). 
+Da Chiesa in Valmalenco si sale a zig zag nel bosco e poi su strada sterrata fino al pianoro dell'Alpe Lago di Chiesa (non c'è nessun lago, eh).
 
-Da qui si continua in parte su strada sterrata e in parte su sentieri nel bosco, fino al Rifugio Bosio, che si trova in una conca attraversata da un placido ruscello, circondata dai monti. 
+Da qui si continua in parte su strada sterrata e in parte su sentieri nel bosco, fino al Rifugio Bosio, che si trova in una conca attraversata da un placido ruscello, circondata dai monti.

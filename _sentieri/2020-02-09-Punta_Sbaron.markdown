@@ -8,7 +8,6 @@ image: /assets/img/featured/2020-02-09-Punta_Sbaron.jpg
 featured_image:
     alt: Una vista dalla cresta finale
     caption: Una vista dalla cresta finale
-difficulty: 3
 categories:
 - Italia
 - Alpi Graie
@@ -17,6 +16,8 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Impegnativo
+difficulty: 3
 ---
 
 La Punta Sbaron, al di là dei facili umorismi che potrebbe suscitare il suo nome, è una cima di 2223 metri di altezza facilmente raggiungibile e posta all’ingresso della Val Susa. Con la sua posizione offre una fantastico balconata sulle cime piemontesi che la circondano.

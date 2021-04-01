@@ -19,7 +19,8 @@ tags:
 - Natura
 - Pioggia
 - One-way
+- Escursione
 difficulty: 2
 ---
 
-Quarta tappa del Vallo di Adriano. 
+Quarta tappa del Vallo di Adriano.

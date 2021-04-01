@@ -12,7 +12,8 @@ tags:
 - Andata e ritorno
 - Natura
 - Laghi
+- Facile
 difficulty: 1
 ---
 
-Un bel sentiero ad anello che conduce facilmente alla Cascata del Cenghen. 
+Un bel sentiero ad anello che conduce facilmente alla Cascata del Cenghen.

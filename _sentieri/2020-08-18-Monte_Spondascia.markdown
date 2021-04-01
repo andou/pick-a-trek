@@ -4,7 +4,6 @@ title:  "Monte Spondascia"
 date:   2020-08-18 09:05:00 +0100
 track:  /assets/tracks/2020-08-18-Monte_Spondascia.gpx
 track_color: green
-difficulty: 3
 image: /assets/img/featured/2020-08-18-Monte_Spondascia.jpg
 featured_image:
     alt: Quasi in vetta
@@ -18,6 +17,8 @@ tags:
 - Facili roccette
 - Valtellina
 - Valmalenco
+- Impegnativo
+difficulty: 3
 ---
 
 Il monte Spondascia è una bella cima di rocce serpentine della Valmalenco, prossima ai Rifugi Zoia / Poschiavino e Cristina. Si trova tra la Val Poschiavina e il Piano di Campagneda, che si pone tra il massicco ed il Pizzo Scalino.

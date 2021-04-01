@@ -19,6 +19,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
+- Escursione
 difficulty: 2
 ---
 
@@ -26,7 +27,7 @@ Una lunga escursione fino alla cima di un Munro, ossia una delle montagne più a
 
 <!--more-->
 
-Nell'agosto del 2019 abbiamo affrontato nella sua interezza la [West Highland Way]({% link _raccolte/West_Highland_Way.md %}) che dai sobborghi di Glasgow ci ha portato con le nostre gambe 154 chilometri più a nord, fino a Fort William. 
+Nell'agosto del 2019 abbiamo affrontato nella sua interezza la [West Highland Way]({% link _raccolte/West_Highland_Way.md %}) che dai sobborghi di Glasgow ci ha portato con le nostre gambe 154 chilometri più a nord, fino a Fort William.
 
 Nel farlo, come anche nel caso del [Vallo di Adriano]({% link _raccolte/Vallo_di_Adriano.md %}), ci siamo avvalsi di un servizio di trasporto bagagli che ci ha permesso di non gravarci del peso dei *bagagli grossi* e di trovarci ben attrezzati ad affrontare qualche altra escursione Scozzese.
 
@@ -38,11 +39,11 @@ Difficilmente vi capiterà di trovarvi da queste parti *per caso* :wink:. Esatta
 
 ### I Cairngorms
 
-I [Cairngorms](https://it.wikipedia.org/wiki/Cairngorm){:target="_blank"} sono la catena montuosa più ampia del Regno Unito ed il [Parco Nazionale](https://it.wikipedia.org/wiki/Parco_nazionale_di_Cairngorms){:target="_blank"} più grande di tutto l'arcipelago britannico fino al 2010. Questi monti rappresentano un vasto plateu selvaggio con un ambiente simile alla tundra. 
+I [Cairngorms](https://it.wikipedia.org/wiki/Cairngorm){:target="_blank"} sono la catena montuosa più ampia del Regno Unito ed il [Parco Nazionale](https://it.wikipedia.org/wiki/Parco_nazionale_di_Cairngorms){:target="_blank"} più grande di tutto l'arcipelago britannico fino al 2010. Questi monti rappresentano un vasto plateu selvaggio con un ambiente simile alla tundra.
 
 Sono alture molto drammatiche ed affascinanti, impreziosite da magnifici *corries* nel centro della regione. L'altezza vera e propria di queste cime, che a stento passa i 1200 metri, non è impressionante, se pensiamo alle nostre montagne, ma rispetto alle classiche dolci colline Inglesi svettano quasi come giganti.
 
-Si tratta inoltre di una serie di montagne poste piuttosto a nord nel panorama europeo, trovandosi lungo il 57° parallelo sono di fatto circa alla stessa latitudine nord della penisola dello Jutland Danese. 
+Si tratta inoltre di una serie di montagne poste piuttosto a nord nel panorama europeo, trovandosi lungo il 57° parallelo sono di fatto circa alla stessa latitudine nord della penisola dello Jutland Danese.
 
 ### I Corries
 
@@ -77,7 +78,7 @@ La vetta è spesso sferzata da forti venti e sebbene noi siamo stati lì in pien
 
 Non ce ne vogliano gli amici inglesi ma un pò tutto l'arcipelago britannico è famoso per costellarsi di tante piccole e grandi eccentricità, molto spesso buffe e simpatiche.
 
-Una di queste è la pratica del **Munro-bagging**, ovvero la *raccolta* di escursioni in vetta alle montagne scozzesi catalogate da Sir Hugh Munro (1856 - 1919) nelle sue *Tavole dei Munros* (*Munros Tables*), pubblicate nel *Journal of the Scottish Mountaineering Club (SMC)* nel 1891. 
+Una di queste è la pratica del **Munro-bagging**, ovvero la *raccolta* di escursioni in vetta alle montagne scozzesi catalogate da Sir Hugh Munro (1856 - 1919) nelle sue *Tavole dei Munros* (*Munros Tables*), pubblicate nel *Journal of the Scottish Mountaineering Club (SMC)* nel 1891.
 
 {% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/articles/Sir_Hugh_Munro.jpg&w=400" }},col-lg-6 float-lg-left mr-lg-2, Il prode Sir Hugh Munro,, Baronetto, Il prode Sir Hugh Munro Baronetto %}
 
@@ -89,9 +90,3 @@ Ogni vetta raggiunta si considera un *munro messo nel sacco* (*bagging*) che avv
 Con il Cairn Gorm abbiamo messo nel sacco il nostro primo, e per il momento unico, Munro :smile:, sperando un giorno di poter incrementare la lista.
 
 Va detto infine che, da buon stravagante quale doveva essere, Sir Hugh stesso non riuscì mai a visitare tutti i Munros per entrare nell'olimpo.
-
-
-
-
-
-

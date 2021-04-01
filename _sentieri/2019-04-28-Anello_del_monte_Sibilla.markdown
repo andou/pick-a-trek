@@ -16,8 +16,9 @@ tags:
 - Anello
 - Panorami
 - Appennino
+- Escursione
 difficulty: 2
 ---
 
-Dal Rifugio Sibilla si sale ripidamente fino al Monte Zampa, da cui già il panorama è appagante. Da lì si prosegue in cresta e poi salendo fino alla cima del Monte Sibilla (l'ultimo pezzetto è attrezzato, occorre un po' di attenzione). La vista dal Sibilla spazia a 360° su tutte le cime circostanti. 
+Dal Rifugio Sibilla si sale ripidamente fino al Monte Zampa, da cui già il panorama è appagante. Da lì si prosegue in cresta e poi salendo fino alla cima del Monte Sibilla (l'ultimo pezzetto è attrezzato, occorre un po' di attenzione). La vista dal Sibilla spazia a 360° su tutte le cime circostanti.
 Per scendere abbiamo percorso la strada sterrata.

@@ -4,7 +4,6 @@ title:  "Diga di Gera - Bivacco Anghileri - Cima Fontana"
 date:   2020-08-12 09:05:00 +0100
 track:  /assets/tracks/2020-08-12-Diga_biv._Anghileri_a_cima_Fontana.gpx
 track_color: green
-difficulty: 3
 categories:
 - Italia
 - Alpi Retiche
@@ -17,11 +16,13 @@ tags:
 - Valtellina
 - Valmalenco
 - Laghi
+- Impegnativo
+difficulty: 3
 ---
 
-Dal parcheggio si sale in cima alla diga e costeggia il lago restando sulla sua sponda orientale. 
-Si prende poi a destra il sentiero per il passo Confinale, che infatti va verso il confine con la Svizzera, attraversando ampi pascoli. 
+Dal parcheggio si sale in cima alla diga e costeggia il lago restando sulla sua sponda orientale.
+Si prende poi a destra il sentiero per il passo Confinale, che infatti va verso il confine con la Svizzera, attraversando ampi pascoli.
 
-Dal Bivacco Anghileri-Rusconi il sentiero si inerpica tra le rocce mostrando a sorpresa alcuni laghetti. 
+Dal Bivacco Anghileri-Rusconi il sentiero si inerpica tra le rocce mostrando a sorpresa alcuni laghetti.
 
 Ancora uno sforzo e si raggiunge la cima Fontana, con splendida vista sull'imponente ghiacciaio del Fellaria.

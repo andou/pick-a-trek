@@ -19,6 +19,7 @@ tags:
 - Natura
 - Pioggia
 - One-way
+- Impegnativo
 difficulty: 3
 ---
 

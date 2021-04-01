@@ -13,7 +13,8 @@ tags:
 - Panorami
 - Natura
 - Appennino
+- Facile
 difficulty: 1
 ---
 
-Un altro bel sentiero in appennino, in parte nel bosco e in parte in cresta dove (nebbia permettendo...) si gode di una splendida vista. 
+Un altro bel sentiero in appennino, in parte nel bosco e in parte in cresta dove (nebbia permettendo...) si gode di una splendida vista.

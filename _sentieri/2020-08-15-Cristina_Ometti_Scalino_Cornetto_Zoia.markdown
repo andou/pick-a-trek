@@ -4,7 +4,6 @@ title:  "Cristina - Passo degli Ometti - Pizzo Scalino - Cornetto - Rif. Zoia"
 date:   2020-08-15 09:05:00 +0100
 track:  /assets/tracks/2020-08-15-Cristina_Ometti_Scalino_Cornetto_Zoia.gpx
 track_color: green
-difficulty: 3
 image: /assets/img/featured/2020-08-15-Cristina_Ometti_Scalino_Cornetto_Zoia.jpg
 featured_image:
     alt: Una vista dalla cima
@@ -24,6 +23,8 @@ tags:
 - Ghiacciaio
 - Valtellina
 - Valmalenco
+- Impegnativo
+difficulty: 3
 ---
 
 Per chi conosce la Valmalenco e Chiesa Valmalenco o vi è stato almeno una volta difficilmente non è rimasto colpito dall'elegante forma a piramide del Pizzo Scalino. O perlomeno lo abbia notato :smile:

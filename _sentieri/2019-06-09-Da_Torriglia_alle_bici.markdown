@@ -13,6 +13,7 @@ tags:
 - Paesaggi
 - Natura
 - One-way
+- Escursione
 difficulty: 2
 ---
 

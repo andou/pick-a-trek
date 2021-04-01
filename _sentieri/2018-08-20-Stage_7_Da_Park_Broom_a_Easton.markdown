@@ -19,7 +19,8 @@ tags:
 - Natura
 - Pioggia
 - One-way
+- Escursione
 difficulty: 2
 ---
 
-Settima tappa del Vallo di Adriano, che attraversa Carlisle. 
+Settima tappa del Vallo di Adriano, che attraversa Carlisle.

@@ -8,9 +8,9 @@ grid-gallery: /assets/img/galleries/2019-01-13_Nervi-Sori/
 image: /assets/img/galleries/2019-01-13_Nervi-Sori/IMG_4544.jpg
 featured_image:
     alt: il sentiero Liguria
-    caption: 
-categories: 
-- Italia 
+    caption:
+categories:
+- Italia
 - Sentiero Liguria
 tags:
 - Lunghe tratte
@@ -18,6 +18,7 @@ tags:
 - Paesaggi
 - Natura
 - One-way
+- Escursione
 difficulty: 2
 ---
 

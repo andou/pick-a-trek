@@ -15,6 +15,7 @@ tags:
 - Natura
 - Bici
 - One-way
+- Facile
 difficulty: 1
 ---
 

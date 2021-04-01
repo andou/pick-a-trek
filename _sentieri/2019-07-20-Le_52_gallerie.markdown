@@ -6,7 +6,7 @@ track:  /assets/tracks/2019-07-20-Le_52_gallerie.gpx
 track_color: green
 image: /assets/img/featured/2019-07-20-Le_52_gallerie.jpg
 featured_image:
-    alt: Una vista sul tratto finale del percorso prima del rifugio Achille Papa 
+    alt: Una vista sul tratto finale del percorso prima del rifugio Achille Papa
     caption: Una vista sul tratto finale del percorso prima del rifugio Achille Papa
 categories:
 - Italia
@@ -17,14 +17,15 @@ tags:
 - Panorami
 - Questi un pò le gambe le spezzano
 - Prima guerra mondiale
+- Escursione
 difficulty: 2
 ---
 
-Questo sentiero è famoso per essere stato costruito durante la prima guerra mondiale, scavando appunto 52 gallerie dentro la montagna per evitare di essere visti dagli austriaci. 
+Questo sentiero è famoso per essere stato costruito durante la prima guerra mondiale, scavando appunto 52 gallerie dentro la montagna per evitare di essere visti dagli austriaci.
 
-Le gallerie sono un'opera ingegneristica incredibile, e il sentiero è suggestivo, sia per il significato storico che per i panorami che si aprono tra una galleria e l'altra. Alcuni tratti di sentiero sono un po' esposti, o attrezzati con catene, ma basta un po' di normale buon senso e attenzione. 
+Le gallerie sono un'opera ingegneristica incredibile, e il sentiero è suggestivo, sia per il significato storico che per i panorami che si aprono tra una galleria e l'altra. Alcuni tratti di sentiero sono un po' esposti, o attrezzati con catene, ma basta un po' di normale buon senso e attenzione.
 
 Necessaria una pila frontale per le gallerie più lunghe.
 
-Non contenti, una volta arrivati al rifugio Achille Papa, abbiamo risalito la cresta della montagna fino alla cima dell'osservatorio, per godere di una vista a 360°. 
-Per il ritorno abbiamo preso la strada carrareccia larga e comoda, che riporta al parcheggio. 
+Non contenti, una volta arrivati al rifugio Achille Papa, abbiamo risalito la cresta della montagna fino alla cima dell'osservatorio, per godere di una vista a 360°.
+Per il ritorno abbiamo preso la strada carrareccia larga e comoda, che riporta al parcheggio.

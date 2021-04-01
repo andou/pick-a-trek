@@ -11,13 +11,14 @@ featured_image:
     caption: il sentiero della salita
 categories:
 - Estero
-- Azzorre 
+- Azzorre
 tags:
 - Ripido
 - Andata e ritorno  
 - Mare
 - Falesie
 - Laghi
+- Escursione
 difficulty: 2
 ---
 

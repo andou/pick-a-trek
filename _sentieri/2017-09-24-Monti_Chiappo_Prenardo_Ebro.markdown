@@ -7,7 +7,7 @@ track_color: green
 grid-gallery: /assets/img/galleries/2017-09-24_chiappo-ebro/
 image: /assets/img/galleries/2017-09-24_chiappo-ebro/IMG_2187.jpg
 featured_image:
-    alt: la vista in cresta 
+    alt: la vista in cresta
     caption: La vista in cresta
 categories:
 - Italia
@@ -17,7 +17,8 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+- Facile
 difficulty: 1
 ---
 
-Da Pian dell'Armà, semplice e tipico percorso dell'Oltrepò, che porta in cima al Monte Chiappo (punto di incontro tra le 3 Regioni Piemonte, Lombardia, Emilia-Romagna), e poi, tra saliscendi in cresta, porta ai Monti Prenardo e Ebro. 
+Da Pian dell'Armà, semplice e tipico percorso dell'Oltrepò, che porta in cima al Monte Chiappo (punto di incontro tra le 3 Regioni Piemonte, Lombardia, Emilia-Romagna), e poi, tra saliscendi in cresta, porta ai Monti Prenardo e Ebro.

@@ -20,6 +20,7 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
+- Impegnativo
 difficulty: 3
 ---
 Un percorso piuttosto impegnativo di avvicinamento al Pizzo Scalino, una delle cime più affascinanti della Valmalenco. Grandiosi paesaggi che si mostrano se si ha buona gamba.

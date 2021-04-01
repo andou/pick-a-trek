@@ -17,7 +17,7 @@ tags:
 - Anello
 - Panorami
 - Appennino
-- Normale
+- Escursione
 difficulty: 2
 ---
 

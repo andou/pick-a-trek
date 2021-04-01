@@ -15,6 +15,7 @@ tags:
 - Valtellina
 - Valmalenco
 - Laghi
+- Escursione
 difficulty: 2
 ---
 

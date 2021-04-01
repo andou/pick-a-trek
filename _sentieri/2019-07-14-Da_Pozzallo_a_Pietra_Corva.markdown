@@ -14,6 +14,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
+- Facile
 difficulty: 1
 ---
 

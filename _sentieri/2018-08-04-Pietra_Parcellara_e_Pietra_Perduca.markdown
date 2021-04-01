@@ -16,11 +16,12 @@ tags:
 - Anello
 - Panorami
 - Appennino
+- Escursione
 difficulty: 2
 ---
 
-Pietra Parcellara e Pietra Perduca sono due formazioni rocciose nere e imponenti. Il sentiero ad anello le tocca entrambe, attraversando prati, campi coltivati e boschi. 
+Pietra Parcellara e Pietra Perduca sono due formazioni rocciose nere e imponenti. Il sentiero ad anello le tocca entrambe, attraversando prati, campi coltivati e boschi.
 
-Il pezzo di sentiero per raggiungere la cima della Pietra Parcellara è abbastanza ripido, sconsiglio a chi soffre di vertigini. Per tutti gli altri: spettacolare! 
+Il pezzo di sentiero per raggiungere la cima della Pietra Parcellara è abbastanza ripido, sconsiglio a chi soffre di vertigini. Per tutti gli altri: spettacolare!
 
 Buona parte del sentiero non è riparato dagli alberi, ricordatevi di portare abbastanza acqua se andate d'estate...

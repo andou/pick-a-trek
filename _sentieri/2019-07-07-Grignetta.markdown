@@ -4,23 +4,24 @@ title:  "In Grignetta dalla Cresta Cermenati"
 date:   2019-07-07 09:05:00 +0100
 track:  /assets/tracks/2019-07-07-Grignetta.gpx
 track_color: green
+grid-gallery: /assets/img/galleries/2019-07-07_grignetta/
+image: /assets/img/featured/2019-07-07-Grignetta.jpg
+featured_image:
+    alt: Il lago dall'alto
+    caption: Il lago dall'alto
 categories:
 - Italia
 - Prealpi
-grid-gallery: /assets/img/galleries/2019-07-07_grignetta/
 tags:
 - Andata e ritorno
 - Panorami
 - Questi un pò le gambe le spezzano
 - Facili roccette
-image: /assets/img/featured/2019-07-07-Grignetta.jpg
-featured_image:
-    alt: Il lago dall'alto
-    caption: Il lago dall'alto
+- Impegnativo
 difficulty: 3
 ---
 
-Per chi vive a Milano o nei pressi (come noi), la zona di Lecco è meta piuttosto comune quando si vuole fare qualche _sgambata_ in montagna. 
+Per chi vive a Milano o nei pressi (come noi), la zona di Lecco è meta piuttosto comune quando si vuole fare qualche _sgambata_ in montagna.
 
 Le **Grigne** sono spesso una valida meta che permette di godere di viste eccezionali, anche se talvolta non senza il prezzo di qualche fatica :smile:.
 
@@ -30,11 +31,11 @@ Il sentiero nel suo complesso è semplice e non troppo esposto, a parte un picco
 
 Siamo partiti dai Piani dei Resinelli, dove, come era normale aspettarsi, abbiamo fatto fatica a trovare un posto per l'auto. Una volta trovato si parte alla volta del **Rifugio Carlo Porta**, da dove parte il sentiero vero e proprio.
 
-Inizialmente ci si muove all'interno di un bosco di faggi, appena usciti dal quale si intraprende la salita _importante_. Si tratta di una salita piuttosto ripida e che non concede molto spazio al riposo delle gambe. 
+Inizialmente ci si muove all'interno di un bosco di faggi, appena usciti dal quale si intraprende la salita _importante_. Si tratta di una salita piuttosto ripida e che non concede molto spazio al riposo delle gambe.
 
 {% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/featured/2019-07-07-Grignetta-01.jpg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Il tratto di salita finale, Il tratto di salita finale %}
 
-Come ama dire Marta in questi casi: 
+Come ama dire Marta in questi casi:
 > Qui si tagliano le isoipse dritto per dritto
 
 Emblema di sintesi ad effetto tra vernacolo (_dritto per dritto_) e corretti termini tecnici (_isoipse_).

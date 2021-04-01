@@ -15,8 +15,9 @@ categories:
 tags:
 - Anello
 - Natura
+- Facile
 difficulty: 1
 ---
 
-Un altro sentiero a Sao Miguel, un sentiero ad anello nella foresta, accanto alle condotte della centrale idroelettrica. 
+Un altro sentiero a Sao Miguel, un sentiero ad anello nella foresta, accanto alle condotte della centrale idroelettrica.
 Al termine del percorso, le terme naturali sono imperdibili!

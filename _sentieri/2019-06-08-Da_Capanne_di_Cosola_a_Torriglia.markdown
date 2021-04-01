@@ -14,11 +14,12 @@ tags:
 - Paesaggi
 - Natura
 - One-way
+- Escursione
 difficulty: 2
 ---
 
-Tappa della Via del Sale che da Capanne di Cosola porta a Torriglia, toccando le cime dell'Oltrpò: Legnà, Carmo, Brigneto, Antola. 
+Tappa della Via del Sale che da Capanne di Cosola porta a Torriglia, toccando le cime dell'Oltrpò: Legnà, Carmo, Brigneto, Antola.
 
-La strada è lunga ma non particolarmente impegnativa (tranne la "piramide" del Carmo, grande sofferenza ma passa presto!). L'Antola regala una vista impagabile sull'Appennino, e il rifugio, rinnovato e accogliente merita di fare una pausa con vista. 
+La strada è lunga ma non particolarmente impegnativa (tranne la "piramide" del Carmo, grande sofferenza ma passa presto!). L'Antola regala una vista impagabile sull'Appennino, e il rifugio, rinnovato e accogliente merita di fare una pausa con vista.
 
 Il nostro sentiero conduce al B&B dove abbiamo pernottato, poco fuori Torriglia.
