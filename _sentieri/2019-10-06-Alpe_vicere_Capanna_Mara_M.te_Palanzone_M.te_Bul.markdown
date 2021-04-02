@@ -11,7 +11,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Natura
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

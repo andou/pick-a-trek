@@ -14,7 +14,7 @@ tags:
 - Paesaggi
 - Natura
 - One-way
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

@@ -18,9 +18,9 @@ poterne mano a mano aggiungere altri, sia nuovi che magari vecchi, da rispolvera
 
 Abbiamo pensato di indicare per ciascuno un nostro personalissimo giudizio di _difficoltà_ sulla base dell'impegno fisico che ci hanno richiesto e pensiamo possano richiedere alla maggior parte delle persone abituate a fare attività fisica.
 
-- <span class="text-light badge badge-pill badge-success">F</span> **Facile**, fisicamente poco impegnativo
-- <span class="text-light badge badge-pill badge-primary">N</span> **Normale**, fisicamente impegnativo _il giusto_, alla fine un pò stanchini a casa si torna
-- <span class="text-light badge badge-pill badge-warning">I</span> **Impegnativo**, fisicamente impegnativo o che richiede particolare attenzione
+- <span class="text-light badge badge-pill badge-success">F</span> **[Facile](/tags/facile/)**, fisicamente poco impegnativo
+- <span class="text-light badge badge-pill badge-primary">E</span> **[Escursionistico](/tags/escursionistico/)**, fisicamente impegnativo _il giusto_, alla fine un pò stanchini a casa si torna
+- <span class="text-light badge badge-pill badge-warning">I</span> **[Impegnativo](/tags/impegnativo/)**, fisicamente impegnativo o che richiede particolare attenzione
 
 Insomma, per citare Marta
 > Che poi è quello che cerchi quando leggi i dati tecnici di un percorso...

@@ -13,7 +13,7 @@ tags:
 - Ciaspole
 - Laghi  
 - Neve
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

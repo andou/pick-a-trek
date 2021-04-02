@@ -19,7 +19,7 @@ tags:
 - Paesaggi
 - Natura
 - Pioggia
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

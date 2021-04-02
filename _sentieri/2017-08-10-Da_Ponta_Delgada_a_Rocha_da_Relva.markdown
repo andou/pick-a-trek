@@ -17,7 +17,7 @@ tags:
 - Andata e ritorno
 - Mare
 - Falesie
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

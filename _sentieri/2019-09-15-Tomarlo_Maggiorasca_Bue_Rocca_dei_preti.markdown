@@ -17,7 +17,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 Un percorso semplice che in un colpo solo conduce in cima alle due vette più alte dell'Appenino Ligure: Il Monte Maggiorasca ed il Monte Bue.

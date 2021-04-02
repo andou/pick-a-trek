@@ -17,7 +17,7 @@ tags:
 - Panorami
 - Appennino
 - Fenomeni Carsici
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

@@ -14,7 +14,7 @@ tags:
 - Laghi
 - Neve
 - Rifugi Alpini
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

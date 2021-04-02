@@ -18,7 +18,7 @@ tags:
 - Appennino  
 - Ciaspole
 - Neve
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

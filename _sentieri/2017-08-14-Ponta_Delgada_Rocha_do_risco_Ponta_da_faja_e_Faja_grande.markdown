@@ -17,7 +17,7 @@ tags:
 - Panorami
 - Natura
 - Mare
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

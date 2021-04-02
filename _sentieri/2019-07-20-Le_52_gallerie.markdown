@@ -17,7 +17,7 @@ tags:
 - Panorami
 - Questi un pò le gambe le spezzano
 - Prima guerra mondiale
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

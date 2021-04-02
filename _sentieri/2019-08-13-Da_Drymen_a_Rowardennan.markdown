@@ -20,7 +20,7 @@ tags:
 - Pioggia
 - Laghi
 - One-way
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

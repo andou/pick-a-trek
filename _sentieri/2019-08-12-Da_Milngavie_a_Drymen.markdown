@@ -19,7 +19,7 @@ tags:
 - Natura
 - Pioggia
 - One-way
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

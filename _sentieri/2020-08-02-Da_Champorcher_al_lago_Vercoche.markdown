@@ -14,7 +14,7 @@ tags:
 - Laghi
 - Rifugi Alpini
 - Questi un pò le gambe le spezzano
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

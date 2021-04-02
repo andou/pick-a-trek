@@ -19,7 +19,7 @@ tags:
 - Neve
 - Valtellina
 - Valmalenco
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

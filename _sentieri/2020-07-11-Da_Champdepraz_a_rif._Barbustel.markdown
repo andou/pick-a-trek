@@ -13,7 +13,7 @@ tags:
 - Panorami
 - Laghi
 - Rifugi Alpini
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

@@ -15,7 +15,7 @@ categories:
 tags:
 - Anello
 - Natura
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

@@ -16,7 +16,7 @@ tags:
 - Anello
 - Panorami
 - Appennino
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

@@ -16,7 +16,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Appennino
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

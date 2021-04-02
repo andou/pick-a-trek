@@ -13,7 +13,7 @@ tags:
 - Mare
 - Paesaggi
 - Natura
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

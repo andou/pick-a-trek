@@ -15,7 +15,7 @@ tags:
 - Andata e ritorno
 - Panorami
 - Laghi
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

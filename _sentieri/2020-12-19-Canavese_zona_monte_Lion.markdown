@@ -13,7 +13,7 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

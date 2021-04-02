@@ -18,7 +18,7 @@ tags:
 - Mare
 - Falesie
 - Laghi
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

@@ -19,7 +19,7 @@ tags:
 - Rifugi Alpini
 - Valtellina
 - Valmalenco
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

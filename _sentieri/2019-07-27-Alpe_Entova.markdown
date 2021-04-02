@@ -13,7 +13,7 @@ tags:
 - Natura
 - Valtellina
 - Valmalenco
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 

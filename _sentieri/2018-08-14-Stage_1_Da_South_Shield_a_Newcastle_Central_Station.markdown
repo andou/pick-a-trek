@@ -18,7 +18,7 @@ tags:
 - Paesaggi
 - Città
 - One-way
-- Escursione
+- Escursionistico
 difficulty: 2
 ---
 
