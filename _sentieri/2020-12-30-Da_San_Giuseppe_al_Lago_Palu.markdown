@@ -33,4 +33,4 @@ Il sentiero descritto nella traccia qui sotto non è molto impegnativo dal punto
 
 La traccia qui sotto l'abbiamo registrata in invernale e a meno che decidiate di percorrerlo subito dopo una nevicata, essendo piuttosto frequentato è anche solitamente ben battuto ed adatto ad essere percorso sia con ciaspole che con ramponi.
 
-Va da se che si può pensare di percorrerlo anche d'estate, magari aggiungedovi anche un pezzo aggiuntivo dopo aver raggiunto il lago, come abbiamo fatto noi la volta che siamo saliti fin su al [Sasso Nero]({% link _sentieri/2020-07-04-Dai_Barchi_al_Sasso_Nero.markdown %}){:target="_blank"}.
+Va da se che si può pensare di percorrerlo anche d'estate, magari aggiungendovi anche un pezzo aggiuntivo dopo aver raggiunto il lago, come abbiamo fatto noi la volta che siamo saliti fin su al [Sasso Nero]({% link _sentieri/2020-07-04-Dai_Barchi_al_Sasso_Nero.markdown %}){:target="_blank"}.
