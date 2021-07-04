@@ -1,0 +1,30 @@
+---
+layout: sentiero
+title:  "Resegone da Piani d'Erna"
+date:   2021-06-26 
+excerpt_separator: <!--more-->
+track:  /assets/tracks/2021-06-26_Resegone.gpx
+track_color: green
+grid-gallery: /assets/img/galleries/2021-06-26_Resegone/
+image: /assets/img/galleries/2021-06-26_Resegone/1.jpeg
+featured_image:
+    alt: Il lago visto durante la salita
+    caption: Il lago visto durante la salita
+categories:
+- Italia
+- Prealpi
+tags:
+- Andata e ritorno
+- Escursionistico
+difficulty: 2
+
+---
+
+Classica salita al monte Resegone partendo dai Piani d'Erna (arrivo della funivia)
+
+<!--more-->
+
+E' da un po' che giriamo nelle Prealpi Orobiche, ma il Resegone, che vediamo spesso nelle giornate di bel tempo quando andiamo al lavoro, ci mancava ancora. Abbiamo deciso di farlo in una bella giornata, prendendo la funivia che porta ai Piani d'Erna, per non esagerare con l'impegno fisico. Dai Piani d'Erna si scende brevemente fino a un bivio dove si gira a destra in un sentiero che si infila nel bosco. La fortuna di capitarci a fine giugno ci ha fatto incontrare diversi Gigli di San Giovanni, meravigliosi (è specie protetta quindi è vietato raccoglierli, come abbiamo purtroppo visto fare...).
+
+Usciti dal bosco il sentiero sale un po' ripido ma non tecnicamente difficile, e si arriva in vetta.
+
