@@ -17,7 +17,7 @@ tags:
 - Andata e ritorno
 - Neve
 - Valtellina
-- Normale
+- Escursionistico
 difficulty: 2
 
 ---
@@ -26,11 +26,11 @@ Da Primolo ai laghetti di Sassersa, passando dall'estate all'inverno in soli 100
 <!--more-->
 
 Parcheggiamo dal campo sportivo del paesino di Primolo, e iniziamo il sentiero su strada sterrata. 
-Poi giriamo a destra entrando nel bosco e passando poi sopra l'alpe Prato e giungendo all'Alpe Pradaccio: un bellissimo pratone che invoglia a restare lÏ per sempre! (al ritorno ci siamo fermati a pranzare qui, ascoltando il canto del LuÏ piccolo).
+Poi giriamo a destra entrando nel bosco e passando poi sopra l'alpe Prato e giungendo all'Alpe Pradaccio: un bellissimo pratone che invoglia a restare lƒõ per sempre! (al ritorno ci siamo fermati a pranzare qui, ascoltando il canto del Luƒõ piccolo).
 Fin qui, ci sembrava di essere quasi in estate: sole, caldo, uccellini.
 {% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/2021-05-29_Laghetti_Sassersa/alpe_pradaccio.jpeg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Alpe Pradaccio, Alpe Pradaccio %}
 
-Poi inizia il pezzo di salita un po' pi˘ impegnativa: il bosco va diradandosi e si arriva sulla pietraia. 
-Iniziamo a vedere dei nevai, che riusciamo a evitare perchË piccoli, ma poi diventano sempre pi˘ ampi e ci ritroviamo completamente nella neve: Ë il 29 maggio, siamo a 2000-2400metri, e no: i ramponi e le ciaspole li abbiamo lasciati in macchina!
-Poche tracce davanti a noi, camminiamo nella neve molle, e sprofondiamo ogni passo di pi˘, ma ormai ci siamo, i laghetti sono poco oltre quel masso... sprofondiamo tanto che gli ultimi pochi metri avanziamo a quattro zampe, anzi 6, appoggiando mani, piedi e ginocchia per affondare meno. Facciamo abbastanza ridere, ma ci vedono solo i gracchi. 
+Poi inizia il pezzo di salita un po' pi≈Ø impegnativa: il bosco va diradandosi e si arriva sulla pietraia. 
+Iniziamo a vedere dei nevai, che riusciamo a evitare perchƒç piccoli, ma poi diventano sempre pi≈Ø ampi e ci ritroviamo completamente nella neve: ƒç il 29 maggio, siamo a 2000-2400metri, e no: i ramponi e le ciaspole li abbiamo lasciati in macchina!
+Poche tracce davanti a noi, camminiamo nella neve molle, e sprofondiamo ogni passo di pi≈Ø, ma ormai ci siamo, i laghetti sono poco oltre quel masso... sprofondiamo tanto che gli ultimi pochi metri avanziamo a quattro zampe, anzi 6, appoggiando mani, piedi e ginocchia per affondare meno. Facciamo abbastanza ridere, ma ci vedono solo i gracchi. 
 Ovviamente i laghetti sono coperti di neve, salutiamo le montagne silenziose intorno e torniamo da dove siamo arrivati. 

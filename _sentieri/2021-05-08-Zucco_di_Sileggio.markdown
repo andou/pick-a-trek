@@ -17,6 +17,7 @@ tags:
 - Anello
 - Fiume
 - Ripido
+- Impegnativo
 difficulty: 3
 
 ---
@@ -25,14 +26,14 @@ Un anello salendo lungo il torrente e fino allo Zucco di Sileggio, e discesa rip
 <!--more-->
 
 Da Somana, abbiamo intrapreso un anello per raggiungere lo Zucco di Sileggio. Per la salita abbiamo seguito il torrente Valle Meria, con alcuni tratti un po' esposti e attrezzati con catene per attraversarlo. 
-Affascinanti le cascate e molto divertenti gli attraversamenti, ma con il sentiero bagnato o il fiume un po' più grosso non li consigliamo affatto.
+Affascinanti le cascate e molto divertenti gli attraversamenti, ma con il sentiero bagnato o il fiume un po' piÃ¹ grosso non li consigliamo affatto.
 
-Arrivati alla Chiesa di Sant'Antonio, il sentiero prosegue più agilmente tra boschi e radure, e dalla Bocchetta di Verdascia, da dove si vede la vallata ovest, si resta in cresta fino allo Zucco di Sileggio, da dove si vede, a est, il Grignone.
+Arrivati alla Chiesa di Sant'Antonio, il sentiero prosegue piÃ¹ agilmente tra boschi e radure, e dalla Bocchetta di Verdascia, da dove si vede la vallata ovest, si resta in cresta fino allo Zucco di Sileggio, da dove si vede, a est, il Grignone.
 
 Per scendere, abbiamo preso la "direttissima". Attenzione a prendere il sentiero giusto: la direttissima prevede una scala verticale a piombo nel vuoto, che abbiamo aggirato.
 
 Proseguiamo sulla cresta, e raggiungiamo le altre piccole cime: Zucco Morterolo, Zucco di Belloeuria, Zucco di Tura. A scendere alcuni passaggi sono complicati, serve mano ferma e due indicazioni su dove mettere i piedi. 
 Sconsigliato a chi soffre di vertigini. 
 
-Dopo queste cime, la strada è dritta e molto ripida fino a Somana, bella perchè nel bosco, ma sgradevole per le ginocchia. 
-Sconsigliamo quindi la direttissima per scendere, ma anche la via del fiume a scendere potrebbe essere impegnativa. C'è una terza strada che può essere utile per chiudere l'anello, forse più agevole delle due che abbiamo fatto noi.
+Dopo queste cime, la strada Ã¨ dritta e molto ripida fino a Somana, bella perchÃ¨ nel bosco, ma sgradevole per le ginocchia. 
+Sconsigliamo quindi la direttissima per scendere, ma anche la via del fiume a scendere potrebbe essere impegnativa. C'Ã¨ una terza strada che puÃ² essere utile per chiudere l'anello, forse piÃ¹ agevole delle due che abbiamo fatto noi.

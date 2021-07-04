@@ -15,7 +15,7 @@ categories:
 - Prealpi
 tags:
 - Anello
-- Normale
+- Escursionistico
 difficulty: 2
 
 ---
@@ -23,9 +23,9 @@ difficulty: 2
 Un piacevole anello tra alpeggi e pascoli, che da Pasturo tocca diversi rifugi.
 <!--more-->
 
-Siamo partiti da Pasturo, un paese vicino a Lecco: lasciata l'auto in uno dei vari parcheggi, abbiamo imboccato il sentiero per l'Alpe Cova, e da qui al Rifugio Pialeràl. 
-Da qui, si prosegue per l'alpe Prabello e siamo poi saliti in cima allo Zucco del Falò, da cui si vede la vallata sottostante. Subito sotto allo Zucco c'è la chiesa di San Calimero. Da qui l'anello inizia la sua parte di discesa, si passa dal rifugio Riva, e si torna a Pasturo. 
+Siamo partiti da Pasturo, un paese vicino a Lecco: lasciata l'auto in uno dei vari parcheggi, abbiamo imboccato il sentiero per l'Alpe Cova, e da qui al Rifugio PialerÃ l. 
+Da qui, si prosegue per l'alpe Prabello e siamo poi saliti in cima allo Zucco del FalÃ², da cui si vede la vallata sottostante. Subito sotto allo Zucco c'Ã¨ la chiesa di San Calimero. Da qui l'anello inizia la sua parte di discesa, si passa dal rifugio Riva, e si torna a Pasturo. 
 
-Il sentiero attraversa boschi e radure, abbiamo incrociato diversi pascoli di pecore e di mucche; a differenza di altri percorsi che siamo soliti fare, senza vedere anima viva per ore, qui il paesaggio è più bucolico e i sentieri sono utilizzati anche da contadini e villeggianti, senza che questo sia affatto un disturbo.
- 
-Il percorso non è impegnativo, ed è ben segnato. Alcune salite possono essere un po' ripide, ma complessivamente un giro di grande soddisfazione. Abbiamo incrociato un paio di ragazzi che hanno fatto il medesimo anello in senso opposto.
+Il sentiero attraversa boschi e radure, abbiamo incrociato diversi pascoli di pecore e di mucche; a differenza di altri percorsi che siamo soliti fare, senza vedere anima viva per ore, qui il paesaggio Ã¨ piÃ¹ bucolico e i sentieri sono utilizzati anche da contadini e villeggianti, senza che questo sia affatto un disturbo.
+
+Il percorso non Ã¨ impegnativo, ed Ã¨ ben segnato. Alcune salite possono essere un po' ripide, ma complessivamente un giro di grande soddisfazione. Abbiamo incrociato un paio di ragazzi che hanno fatto il medesimo anello in senso opposto.
