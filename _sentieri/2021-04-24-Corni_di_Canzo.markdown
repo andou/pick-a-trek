@@ -14,7 +14,7 @@ categories:
 - Italia
 - Prealpi
 tags:
-- Andata e ritorno
+- Anello
 - Escursionistico
 difficulty: 2
 
