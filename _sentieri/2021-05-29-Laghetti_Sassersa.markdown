@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 track:  /assets/tracks/2021-05-29-Laghetti_Sassersa.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2021-05-29_laghetti_sassersa/
-image: /assets/img/galleries/2021-05-29_laghetti_sassersa/laghetti_innevati.jpg
+image: /assets/img/galleries/2021-05-29_laghetti_sassersa/laghetti_innevati_cover.jpg
 featured_image:
     alt: I laghetti di Sassersa ancora coperti di neve
     caption: I laghetti di Sassersa ancora coperti di neve
