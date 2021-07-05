@@ -25,10 +25,10 @@ Val Brembana: una salita al Monte Venturosa con splendida vista delle cime circo
 
 Il sentiero parte da un piccolo parcheggio lungo la strada stretta che sale da Pianca. 
 
-Per lo piů il sentiero corre, comodo, nel fitto bosco, salendo dolcemente per un primo pezzo e poi diventa piů ripido nel tratto finale fino al Passo Grialeggio. 
+Per lo più il sentiero corre, comodo, nel fitto bosco, salendo dolcemente per un primo pezzo e poi diventa più ripido nel tratto finale fino al Passo Grialeggio. 
 
 Da qui si piega verso nord, i boschi si aprono e si puň godere il panorama camminando per l'ultimo tratto. 
 
-Il panorama dalla cima del Monte Venturosa č un 360° di cime e vette spettacolari, abbiamo avuto anche la fortuna di trovare una splendida giornata!
+Il panorama dalla cima del Monte Venturosa è un 360° di cime e vette spettacolari, abbiamo avuto anche la fortuna di trovare una splendida giornata!
 
-Volendo si puň raggiungere anche il Monte Cancervo, una cima gemella, piů a sud. Ma č saggio anche saper dosare le proprie forze...
+Volendo si puň raggiungere anche il Monte Cancervo, una cima gemella, più a sud. Ma è saggio anche saper dosare le proprie forze...
