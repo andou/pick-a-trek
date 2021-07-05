@@ -28,7 +28,7 @@ Da Primolo ai laghetti di Sassersa, passando dall'estate all'inverno in soli 100
 Parcheggiamo dal campo sportivo del paesino di Primolo, e iniziamo il sentiero su strada sterrata. 
 Poi giriamo a destra entrando nel bosco e passando poi sopra l'alpe Prato e giungendo all'Alpe Pradaccio: un bellissimo pratone che invoglia a restare lě per sempre! (al ritorno ci siamo fermati a pranzare qui, ascoltando il canto del Luě piccolo).
 Fin qui, ci sembrava di essere quasi in estate: sole, caldo, uccellini.
-{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/2021-05-29_Laghetti_Sassersa/alpe_pradaccio.jpg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Alpe Pradaccio, Alpe Pradaccio %}
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/2021-05-29_Laghetti_Sassersa/inner_a.jpg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Alpe Pradaccio, Alpe Pradaccio %}
 
 Poi inizia il pezzo di salita un po' piů impegnativa: il bosco va diradandosi e si arriva sulla pietraia. 
 Iniziamo a vedere dei nevai, che riusciamo a evitare perchč piccoli, ma poi diventano sempre piů ampi e ci ritroviamo completamente nella neve: č il 29 maggio, siamo a 2000-2400metri, e no: i ramponi e le ciaspole li abbiamo lasciati in macchina!

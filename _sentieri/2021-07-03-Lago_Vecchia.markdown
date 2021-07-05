@@ -35,7 +35,7 @@ Quindi ci inerpichiamo fino al Colle Canaggio (circa un centinaio di metri sopra
 
 Da qui scendiamo appunto lungo il sentiero "disagevole": più che altro il sentiero non è disagevole, ma va proprio indovinato! probabilmente l'ultima volta è stato percorso negli anni '80, il terreno è in parte franato, le tracce che si seguono sono probabilmente fatte dai cinghiali, l'erba alta (siamo a luglio, anche questo incide) è composta anche da ortiche (un* di noi aveva i pantaloni lunghi, l'altr* ha patito un po'...). C'è da dire che i segni bianchi e rossi sui sassi sono frequenti, ma non si vedono finchè non ci si cammina sopra. Poi, l'idea è che bisogna scendere, e la vallata è ampia e ben visibile, essendo di arbusti bassi. Quindi se anche si perde il sentiero per alcuni tratti, non ci si perde: un occhio alla traccia gps sul telefono e si punta dritti nella direzione giusta. 
 Consigliato avere le mappe offline, e stare attenti a dove si mettono i piedi (l'erba è traditrice). Vista la stagione, picchiare sempre forte con i bastoni in terra. Non è il luogo migliore per chiamare i soccorsi... Ma insomma, un po' di avventura, un po' di giungla, è divertente!
-{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/2021-07-03_Lago_Vecchia/intothejungle.jpg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Antonio con le ortiche fino al ginocchio %}
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/2021-07-03_Lago_Vecchia/inner_a.jpg&w=400" }},col-lg-6 float-lg-right mr-lg-2, Antonio con le ortiche fino al ginocchio %}
 
 Dall'Alpe Irogne poi il sentiero è un po' più facile e segnato, si ritorna nel bosco e ci sono un paio di facili attraversamenti del torrente. E così si torna a Piedicavallo.
 
