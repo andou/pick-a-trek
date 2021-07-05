@@ -3,10 +3,10 @@ layout: sentiero
 title:  "Corni di Canzo"
 date:   2021-04-24 
 excerpt_separator: <!--more-->
-track:  /assets/tracks/2021-04-24_Corni_di_Canzo.gpx
+track:  /assets/tracks/2021-04-24-Corni_di_Canzo.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2021-04-24_Canzo/
-image: /assets/img/galleries/2021-04-24_Canzo/1.jpeg
+image: /assets/img/galleries/2021-04-24_Canzo/1.jpg
 featured_image:
     alt: Il Corno di Canzo occidentale
     caption: Il Corno di Canzo occidentale

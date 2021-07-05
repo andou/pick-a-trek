@@ -3,10 +3,10 @@ layout: sentiero
 title:  "Anello per il Rif. Pialeral, San Calimero, Rif. Riva"
 date:   2021-06-02
 excerpt_separator: <!--more-->
-track:  /assets/tracks/2021-06-02_Anello_Rif._Pialeral-S.Calimero-Riva.gpx
+track:  /assets/tracks/2021-06-02-Anello_Pialeral.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2021-06-02_Pialeral/
-image: /assets/img/galleries/2021-06-02_Pialeral/Prabello.jpeg
+image: /assets/img/galleries/2021-06-02_Pialeral/Prabello.jpg
 featured_image:
     alt: alpe Prabello
     caption: alpe Prabello

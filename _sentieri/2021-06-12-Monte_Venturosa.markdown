@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 track:  /assets/tracks/2021-06-12-Monte_Venturosa.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2021-06-12_Monte_Venturosa/
-image: /assets/img/galleries/2021-06-12_Monte_Venturosa/2.jpeg
+image: /assets/img/galleries/2021-06-12_Monte_Venturosa/2.jpg
 featured_image:
     alt: La vista
     caption: La vista delle cime
@@ -14,7 +14,7 @@ categories:
 - Italia
 - Prealpi
 tags:
-- Andata e Ritorno
+- Andata e ritorno
 - Escursionistico
 difficulty: 2
 

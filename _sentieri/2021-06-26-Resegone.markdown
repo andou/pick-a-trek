@@ -3,10 +3,10 @@ layout: sentiero
 title:  "Resegone da Piani d'Erna"
 date:   2021-06-26 
 excerpt_separator: <!--more-->
-track:  /assets/tracks/2021-06-26_Resegone.gpx
+track:  /assets/tracks/2021-06-26-Resegone.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2021-06-26_Resegone/
-image: /assets/img/galleries/2021-06-26_Resegone/1.jpeg
+image: /assets/img/galleries/2021-06-26_Resegone/1.jpg
 featured_image:
     alt: Il lago visto durante la salita
     caption: Il lago visto durante la salita

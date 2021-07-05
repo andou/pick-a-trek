@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 track:  /assets/tracks/2021-05-08-Zucco_di_Sileggio.gpx
 track_color: green
 grid-gallery: /assets/img/galleries/2021-05-08_Zucco_di_Sileggio/
-image: /assets/img/galleries/2021-05-08_Zucco_di_Sileggio/torrente_3.jpeg
+image: /assets/img/galleries/2021-05-08_Zucco_di_Sileggio/torrente_3.jpg
 featured_image:
     alt: Un torrente da attraversare
     caption: Un torrente da attraversare
