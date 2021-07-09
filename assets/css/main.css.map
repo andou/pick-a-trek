@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss"
+	],
+	"sourcesContent": [
+		".gpx {\n\n  border: 2px #aaa solid;\n  border-radius: 5px;\n  box-shadow: 0 0 3px 3px #ccc;\n  width: 800px;\n  margin: 1em auto;\n\n  header {\n    padding: 0.5em;\n  }\n\n  h4 {\n    margin: 0;\n    padding: 0;\n    font-weight: bold;\n  }\n\n  .start {\n    font-size: smaller;\n    color: #444;\n  }\n\n  .map {\n    border: 1px #888 solid;\n    border-left: none;\n    border-right: none;\n    width: 800px;\n    height: 500px;\n    margin: 0;\n  }\n\n  .footer {\n    background: #f0f0f0;\n    padding: 0.5em;\n  }\n\n  ul.info {\n    list-style: none;\n    margin: 0;\n    padding: 0;\n    font-size: smaller;\n\n    li {\n      color: #666;\n      padding: 2px;\n      display: inline;\n\n      span {\n        color: black;\n      }\n    }\n  }\n\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,AAAC,CAEH,MAAM,CAAE,cAAc,CACtB,aAAa,CAAE,GAAG,CAClB,UAAU,CAAE,gBAAgB,CAC5B,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,QAAQ,CAgDjB,AAtDD,AAQE,IARE,CAQF,MAAM,AAAC,CACL,OAAO,CAAE,KAAK,CACf,AAVH,AAYE,IAZE,CAYF,EAAE,AAAC,CACD,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,WAAW,CAAE,IAAI,CAClB,AAhBH,AAkBE,IAlBE,CAkBF,MAAM,AAAC,CACL,SAAS,CAAE,OAAO,CAClB,KAAK,CAAE,IAAI,CACZ,AArBH,AAuBE,IAvBE,CAuBF,IAAI,AAAC,CACH,MAAM,CAAE,cAAc,CACtB,WAAW,CAAE,IAAI,CACjB,YAAY,CAAE,IAAI,CAClB,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,KAAK,CACb,MAAM,CAAE,CAAC,CACV,AA9BH,AAgCE,IAhCE,CAgCF,OAAO,AAAC,CACN,UAAU,CAAE,OAAO,CACnB,OAAO,CAAE,KAAK,CACf,AAnCH,AAqCE,IArCE,CAqCF,EAAE,AAAA,KAAK,AAAC,CACN,UAAU,CAAE,IAAI,CAChB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,SAAS,CAAE,OAAO,CAWnB,AApDH,AA2CI,IA3CA,CAqCF,EAAE,AAAA,KAAK,CAML,EAAE,AAAC,CACD,KAAK,CAAE,IAAI,CACX,OAAO,CAAE,GAAG,CACZ,OAAO,CAAE,MAAM,CAKhB,AAnDL,AAgDM,IAhDF,CAqCF,EAAE,AAAA,KAAK,CAML,EAAE,CAKA,IAAI,AAAC,CACH,KAAK,CAAE,KAAK,CACb"
+}
