@@ -20,7 +20,8 @@ tags:
 - Natura
 - Pioggia
 - Escursionistico
-difficulty: 2
+difficulty: 2 
+comments: true
 ---
 
 Una lunga escursione fino alla cima di un Munro, ossia una delle montagne più alte della Scozia, con lo sguardo che può spaziare tra valli glaciali e paesaggi drammatici.
