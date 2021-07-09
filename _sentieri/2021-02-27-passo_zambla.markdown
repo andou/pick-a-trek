@@ -20,6 +20,7 @@ tags:
 - Neve
 - Impegnativo
 difficulty: 3
+comments: true
 ---
 
 Un sentiero impegnativo conduce in cresta alla Cima Grem, da cui si gode di un'ottima vista. Attenzione nella salita in invernale, quando i ramponi sono d'obbligo.

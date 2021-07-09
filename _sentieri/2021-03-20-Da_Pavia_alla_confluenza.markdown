@@ -19,6 +19,7 @@ tags:
 - Pianura
 - Facile
 difficulty: 1
+comments: true
 ---
 
 Una lunga passeggiata dal centro di Pavia fino alla confluenza dei fiumi Po e Ticino, a volte è bello anche accontentarsi di quello che si ha vicino.

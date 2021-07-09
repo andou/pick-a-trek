@@ -15,6 +15,7 @@ tags:
 - Neve
 - Escursionistico
 difficulty: 2
+comments: true
 ---
 
 Parco Naturale del Monte Avic: questa bella ciaspolata porta da Covarey al Lago della Serva. La prima parte è su carrareccia, poi il sentiero diventa più stretto e si arriva al'Alpe Serva Desot. Da qui il sentiero attraversa i boschi di pino uncinato, con alcuni tratti un po' ripidi, e si arriva al suggestivo Lago della Serva.
