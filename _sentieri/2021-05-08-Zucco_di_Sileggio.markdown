@@ -19,7 +19,7 @@ tags:
 - Ripido
 - Impegnativo
 difficulty: 3
-
+comments: true
 ---
 
 Un anello salendo lungo il torrente e fino allo Zucco di Sileggio, e discesa ripida fino a Somana 

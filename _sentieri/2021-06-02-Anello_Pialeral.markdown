@@ -17,7 +17,7 @@ tags:
 - Anello
 - Escursionistico
 difficulty: 2
-
+comments: true
 ---
 
 Un piacevole anello tra alpeggi e pascoli, che da Pasturo tocca diversi rifugi.

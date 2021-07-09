@@ -17,6 +17,7 @@ tags:
 - Andata e ritorno
 - Escursionistico
 difficulty: 2
+comments: true
 
 ---
 

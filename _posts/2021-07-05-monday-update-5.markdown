@@ -5,6 +5,7 @@ date:   2021-07-05 08:05:00 +0100
 categories: 
 - updates
 - aggiornamento del lunedì
+comments: true
 ---
 E ciao! Siamo nuovamente in pista.
 

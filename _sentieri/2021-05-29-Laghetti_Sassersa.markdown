@@ -19,7 +19,7 @@ tags:
 - Valtellina
 - Escursionistico
 difficulty: 2
-
+comments: true
 ---
 
 Da Primolo ai laghetti di Sassersa, passando dall'estate all'inverno in soli 1000 m di dislivello

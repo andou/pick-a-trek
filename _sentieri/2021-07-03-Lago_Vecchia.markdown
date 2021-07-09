@@ -16,6 +16,7 @@ tags:
 - Anello
 - Escursionistico
 difficulty: 2
+comments: true
 
 ---
 

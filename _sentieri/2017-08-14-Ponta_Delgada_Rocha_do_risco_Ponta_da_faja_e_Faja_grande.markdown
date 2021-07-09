@@ -19,6 +19,7 @@ tags:
 - Mare
 - Escursionistico
 difficulty: 2
+comments: true  
 ---
 
 Nell'isola di Flores, splendido sentiero a picco sull'oceano. Dal punto di partenza, a nord, si vede l'isola di Corvo.

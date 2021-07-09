@@ -17,7 +17,7 @@ tags:
 - Andata e ritorno
 - Escursionistico
 difficulty: 2
-
+comments: true
 ---
 
 Val Brembana: una salita al Monte Venturosa con splendida vista delle cime circostanti.
