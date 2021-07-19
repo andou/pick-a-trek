@@ -21,6 +21,7 @@ tags:
 - Laghi
 - Escursionistico
 difficulty: 1
+comments: true
 ---
 
 Un tranquillo e facile giro ad anello che conduce prima al Rifugio Gerli e Porro e poi fino al Lago Pirola, con belle viste su tutta la Val Sissone e fino al Passo del Muretto.
