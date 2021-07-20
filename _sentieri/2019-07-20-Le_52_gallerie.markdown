@@ -19,6 +19,7 @@ tags:
 - Prima guerra mondiale
 - Escursionistico
 difficulty: 2
+comments: true
 ---
 
 Questo sentiero è famoso per essere stato costruito durante la prima guerra mondiale, scavando appunto 52 gallerie dentro la montagna per evitare di essere visti dagli austriaci.
