@@ -16,6 +16,7 @@ tags:
 - Panorami
 - Ciaspole
 - Neve
+- Riserva naturale Mont Mars  
 - Escursionistico
 difficulty: 2
 ---
