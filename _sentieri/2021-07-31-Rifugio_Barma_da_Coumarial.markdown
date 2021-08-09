@@ -21,6 +21,7 @@ tags:
 - Riserva naturale Mont Mars  
 - Escursionistico
 difficulty: 2
+comments: true
 ---
 
 Un bel giro ad anello tra laghi, alpeggi, rifugi e qualche saliscendi. Un classico tra i sentieri che partono da Pian Coumarial.
