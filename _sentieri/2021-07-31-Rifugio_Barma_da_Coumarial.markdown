@@ -1,7 +1,7 @@
 ---
 layout: sentiero
 title:  "Rifugio Barma, Colle della Barma e Lago Vargno da Coumarial"
-date:   2021-08-08 09:05:00 +0100
+date:   2021-07-31 09:05:00 +0100
 track:  /assets/tracks/2021-07-31-Rifugio_Barma.gpx
 image: /assets/img/galleries/2021-07-31_Rifugio_Barma/010.jpeg
 featured_image:
