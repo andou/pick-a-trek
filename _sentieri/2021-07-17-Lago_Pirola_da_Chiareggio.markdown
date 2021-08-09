@@ -28,7 +28,7 @@ Un tranquillo e facile giro ad anello che conduce prima al Rifugio Gerli e Porro
 
 <!--more-->
 
-Per chi come noi è abituato da un pò a visitare la Val Malenco sa bene che uno dei sentieri più semplici e piacevoli per acclimatarsi alle sgambate in montagna è quello di salire all'Alpe Ventina per fare una visita ai Rifugi [Gerli e Porro](https://www.rifugiogerliporro.it/) prima e all'omonimo [Rifugio Ventina](http://www.rifugioventina.it/) poi.
+Per chi come noi è abituato da un pò a visitare la Val Malenco sa bene che uno dei sentieri più semplici e piacevoli per acclimatarsi alle sgambate in montagna è quello di salire all'Alpe Ventina per fare una visita ai Rifugi [Gerli e Porro](https://www.rifugiogerliporro.it/){:target="_blank"} prima e all'omonimo [Rifugio Ventina](http://www.rifugioventina.it/){:target="_blank"} poi.
 
 Se uno ha voglia e gamba, poi, può percorrere tutto il [Sentiero Glaciologico Vittorio Sella](https://www.valtellina.it/it/approfondimenti/trekking/il-sentiero-glaciologico-vittorio-sella){:target="_blank"} per arrivare fino a raggiungere il ghiacciaio.
 
