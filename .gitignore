@@ -165,3 +165,4 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+tools/geoloc/opencage.key
