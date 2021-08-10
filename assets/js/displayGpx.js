@@ -71,13 +71,13 @@ function displayGpx(elt) {
         //_c('start').textContent = gpx.get_start_time().toDateString() + ', '
             //+ gpx.get_start_time().toLocaleTimeString();
 
-        var mts = gpx.get_distance();
-        var kms = mts / 1000;
+        //var mts = gpx.get_distance();
+        //var kms = mts / 1000;
 
-        _c('distance').textContent = kms.toFixed(2);
+        //_c('distance').textContent = kms.toFixed(2);
         //_c('duration').textContent = gpx.get_duration_string(gpx.get_moving_time());
-        _c('elevation-max').textContent = gpx.get_elevation_max().toFixed(0);
-        _c('elevation-min').textContent = gpx.get_elevation_min().toFixed(0);
+        //_c('elevation-max').textContent = gpx.get_elevation_max().toFixed(0);
+        //_c('elevation-min').textContent = gpx.get_elevation_min().toFixed(0);
     }).addTo(map);
 
     el.clear();

@@ -48,15 +48,45 @@ layout: default
                     {% if site.google_analytics.pv.enabled %}
                     <span id="pv" class="pageviews"><i class="fas fa-spinner fa-spin fa-fw"></i></span>
                     {% endif %}
-
                 </div>
 
-                {% if page.track %}
+            </div> <!-- .post-meta -->
+
+            <div class="post-meta text-muted d-flex flex-column">
+
                 <div>
-                    <span class="text-light badge badge-pill badge-info"><i class="fas fa-map-marked-alt"></i>&nbsp;<a class="link-unstyled text-light" target="_blank" href="{{ page.track | relative_url }}">Traccia gpx</a></span>
-                </div>
-                {% endif %}
+                    {% if page.track %}
+                    <span>
+                        <span class="text-light badge badge-pill badge-info" data-toggle="tooltip" title="Scarica la traccia"><i class="fas fa-map-marked-alt"></i>&nbsp;<a class="link-unstyled text-light" target="_blank" href="{{ page.track | relative_url }}">Traccia gpx</a></span>
+                    </span>
+                    {% endif %}
 
+                    {% if page.latitude and page.longitude %}
+                    <span>
+                        <span class="text badge badge-pill" data-toggle="tooltip" title="Vedi sulla mappa"><a class="link-unstyled" target="_blank" href="http://www.openstreetmap.org/?mlat={{ page.latitude }}&mlon={{ page.longitude }}&zoom=12"><i class="fas fa-globe"></i>&nbsp;Dove si trova?</a></span>
+                    </span>
+                    {% endif %}
+                </div>
+
+                <div>
+                    {% if page.max_elev %}
+                    <span>
+                        <span class="text badge badge-pill" data-toggle="tooltip" title="Elevazione massima"><i class="fas fa-mountain"></i>&nbsp;{{ page.max_elev }} m</span>
+                    </span>
+                    {% endif %}
+
+                    {% if page.gain_elev %}
+                    <span>
+                        <span class="text badge badge-pill" data-toggle="tooltip" title="Dislivello positivo totale"><i class="fas fa-chart-line"></i>&nbsp;{{ page.gain_elev }} m</span>
+                    </span>
+                    {% endif %}
+
+                    {% if page.distance %}
+                    <span>
+                        <span class="text badge badge-pill" data-toggle="tooltip" title="Lunghezza percorso"><i class="fas fa-ruler"></i>&nbsp;{{ page.distance }}</span>
+                    </span>
+                    {% endif %}
+                </div>
 
             </div> <!-- .post-meta -->
 
