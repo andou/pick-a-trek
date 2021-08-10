@@ -20,8 +20,8 @@ tags:
 - Neve
 - Impegnativo
 difficulty: 3
-distance: 12.15 km
-time: 5:16:47
+distance: 12.15 
+duration: 5:16:47
 min_elev: 1395
 max_elev: 2219
 loss_elev: -817

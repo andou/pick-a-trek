@@ -17,8 +17,8 @@ tags:
 - Rifugi Alpini
 - Escursionistico
 difficulty: 2
-distance: 17.36 km
-time: 6:22:11
+distance: 17.36 
+duration: 6:22:11
 min_elev: 1248
 max_elev: 2200
 loss_elev: -968

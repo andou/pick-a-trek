@@ -20,8 +20,8 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true
-distance: 8.484 km
-time: 4:30:40
+distance: 8.484 
+duration: 4:30:40
 min_elev: 1088
 max_elev: 1993
 loss_elev: -920

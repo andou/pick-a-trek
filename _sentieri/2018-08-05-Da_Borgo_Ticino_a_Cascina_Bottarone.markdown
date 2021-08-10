@@ -21,8 +21,8 @@ tags:
 - Pianura
 - Facile
 difficulty: 1
-distance: 15.15 km
-time: 5:02:58
+distance: 15.15 
+duration: 5:02:58
 min_elev: 55
 max_elev: 63
 loss_elev: -11

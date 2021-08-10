@@ -22,8 +22,8 @@ tags:
 - Laghi
 - Escursionistico
 difficulty: 2
-distance: 14.55 km
-time: 7:30:02
+distance: 14.55 
+duration: 7:30:02
 min_elev: 8
 max_elev: 653
 loss_elev: -918

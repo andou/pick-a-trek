@@ -22,8 +22,8 @@ tags:
 - Facile
 difficulty: 1
 comments: true
-distance: 23.48 km
-time: 4:54:53
+distance: 23.48 
+duration: 4:54:53
 min_elev: 54
 max_elev: 77
 loss_elev: -36

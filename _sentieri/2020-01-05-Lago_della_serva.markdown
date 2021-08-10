@@ -25,8 +25,8 @@ featured_image:
   caption: Il Lago della Serva innevato
 track_color: green
 excerpt_separator: <!--more-->
-distance: 11.26 km
-time: 4:32:35
+distance: 11.26 
+duration: 4:32:35
 min_elev: 1246
 max_elev: 1803
 loss_elev: -545

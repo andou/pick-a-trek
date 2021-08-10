@@ -18,8 +18,8 @@ tags:
 - Appennino
 - Facile
 difficulty: 1
-distance: 8.137 km
-time: 2:13:18
+distance: 8.137 
+duration: 2:13:18
 min_elev: 921
 max_elev: 1068
 loss_elev: -242

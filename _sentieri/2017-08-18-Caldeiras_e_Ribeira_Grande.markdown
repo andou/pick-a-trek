@@ -19,8 +19,8 @@ tags:
 - Natura
 - Facile
 difficulty: 1
-distance: 10.84 km
-time: 3:09:47
+distance: 10.84 
+duration: 3:09:47
 min_elev: 125
 max_elev: 365
 loss_elev: -292

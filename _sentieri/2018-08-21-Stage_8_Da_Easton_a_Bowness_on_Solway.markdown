@@ -23,8 +23,8 @@ tags:
 - One-way
 - Facile
 difficulty: 1
-distance: 10.29 km
-time: 2:53:27
+distance: 10.29 
+duration: 2:53:27
 min_elev: 3
 max_elev: 21
 loss_elev: -10

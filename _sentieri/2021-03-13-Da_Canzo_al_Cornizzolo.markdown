@@ -20,8 +20,8 @@ tags:
 - Panorami
 - Escursionistico
 difficulty: 2
-distance: 9.431 km
-time: 3:45:40
+distance: 9.431 
+duration: 3:45:40
 min_elev: 410
 max_elev: 1219
 loss_elev: -817

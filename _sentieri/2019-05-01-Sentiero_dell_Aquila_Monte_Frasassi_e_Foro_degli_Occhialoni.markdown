@@ -21,8 +21,8 @@ tags:
 - Fenomeni Carsici
 - Escursionistico
 difficulty: 2
-distance: 12.66 km
-time: 5:09:43
+distance: 12.66 
+duration: 5:09:43
 min_elev: 373
 max_elev: 683
 loss_elev: -783

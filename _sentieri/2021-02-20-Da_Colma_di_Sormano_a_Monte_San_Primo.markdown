@@ -22,8 +22,8 @@ tags:
 - Neve
 - Escursionistico
 difficulty: 2
-distance: 15.72 km
-time: 4:21:24
+distance: 15.72 
+duration: 4:21:24
 min_elev: 1114
 max_elev: 1678
 loss_elev: -624

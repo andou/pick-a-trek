@@ -18,8 +18,8 @@ tags:
 - Valmalenco
 - Escursionistico
 difficulty: 2
-distance: 12.93 km
-time: 4:27:00
+distance: 12.93 
+duration: 4:27:00
 min_elev: 956
 max_elev: 1536
 loss_elev: -580

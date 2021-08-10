@@ -18,8 +18,8 @@ tags:
 - Questi un pò le gambe le spezzano
 - Escursionistico
 difficulty: 2
-distance: 9.078 km
-time: 3:26:25
+distance: 9.078 
+duration: 3:26:25
 min_elev: 1205
 max_elev: 2228
 loss_elev: -119

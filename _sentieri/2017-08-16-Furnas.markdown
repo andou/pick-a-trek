@@ -21,8 +21,8 @@ tags:
 - Tranquillo
 - Facile
 difficulty: 1
-distance: 17.72 km
-time: 7:58:18
+distance: 17.72 
+duration: 7:58:18
 min_elev: 201
 max_elev: 384
 loss_elev: -429

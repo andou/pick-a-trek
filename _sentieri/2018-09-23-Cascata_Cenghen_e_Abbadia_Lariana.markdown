@@ -16,8 +16,8 @@ tags:
 - Laghi
 - Facile
 difficulty: 1
-distance: 8.086 km
-time: 2:17:03
+distance: 8.086 
+duration: 2:17:03
 min_elev: 239
 max_elev: 628
 loss_elev: -542

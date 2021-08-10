@@ -22,8 +22,8 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
-distance: 14.77 km
-time: 7:02:34
+distance: 14.77 
+duration: 7:02:34
 min_elev: 2
 max_elev: 759
 loss_elev: -838

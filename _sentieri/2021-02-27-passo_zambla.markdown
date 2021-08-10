@@ -23,8 +23,8 @@ tags:
 - Impegnativo
 difficulty: 3
 comments: true
-distance: 9.757 km
-time: 4:26:08
+distance: 9.757 
+duration: 4:26:08
 min_elev: 1209
 max_elev: 1923
 loss_elev: -769

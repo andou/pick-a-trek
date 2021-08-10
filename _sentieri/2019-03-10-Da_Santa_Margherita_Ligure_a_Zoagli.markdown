@@ -17,8 +17,8 @@ tags:
 - Natura
 - Escursionistico
 difficulty: 2
-distance: 16.90 km
-time: 5:39:22
+distance: 16.90 
+duration: 5:39:22
 min_elev: 1
 max_elev: 327
 loss_elev: -806

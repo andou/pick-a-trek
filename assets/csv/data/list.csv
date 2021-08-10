@@ -1,0 +1,5 @@
+---
+layout: compress
+---
+{% assign the_tracks = site.sentieri | sort: 'date' | reverse %}{% assign everything = the_posts | concat: the_tracks %}Name,Link,Latitude,Longitude,MaxElev,MinElev,LossElev,GainElev,Distance,Time,Difficulty{% for post in everything %}
+"{{ post.title | escape }}","{{ site.baseurl }}{{ post.url }}","{% if post.latitude %}{{ post.latitude }}{% endif %}","{% if post.longitude %}{{ post.longitude }}{% endif %}","{% if post.max_elev %}{{ post.max_elev }}{% endif %}","{% if post.min_elev %}{{ post.min_elev }}{% endif %}","{% if post.loss_elev %}{{ post.loss_elev }}{% endif %}","{% if post.gain_elev %}{{ post.gain_elev }}{% endif %}","{% if post.distance %}{{ post.distance }}{% endif %}","{% if post.duration %}{{ post.duration }}{% endif %}","{% if post.difficulty %}{{ post.difficulty }}{% endif %}"{% endfor %}

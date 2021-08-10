@@ -19,8 +19,8 @@ tags:
 - Andata e ritorno
 - Escursionistico
 difficulty: 2
-distance: 6.170 km
-time: 3:17:14
+distance: 6.170 
+duration: 3:17:14
 min_elev: 364
 max_elev: 911
 loss_elev: -559

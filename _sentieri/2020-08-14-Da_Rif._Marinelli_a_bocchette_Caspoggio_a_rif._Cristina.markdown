@@ -25,8 +25,8 @@ tags:
 - One-way
 - Impegnativo
 difficulty: 3
-distance: 16.11 km
-time: 6:14:13
+distance: 16.11 
+duration: 6:14:13
 min_elev: 1990
 max_elev: 2987
 loss_elev: -1223

@@ -20,8 +20,8 @@ tags:
 - Appennino
 - Escursionistico
 difficulty: 2
-distance: 11.92 km
-time: 4:01:26
+distance: 11.92 
+duration: 4:01:26
 min_elev: 1534
 max_elev: 2148
 loss_elev: -653

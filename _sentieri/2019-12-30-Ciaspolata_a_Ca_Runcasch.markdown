@@ -20,8 +20,8 @@ tags:
 - Valmalenco
 - Facile
 difficulty: 1
-distance: 5.041 km
-time: 2:02:58
+distance: 5.041 
+duration: 2:02:58
 min_elev: 1947
 max_elev: 2165
 loss_elev: -246

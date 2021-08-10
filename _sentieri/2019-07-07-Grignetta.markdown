@@ -21,8 +21,8 @@ tags:
 - Facili roccette
 - Impegnativo
 difficulty: 3
-distance: 8.780 km
-time: 5:18:00
+distance: 8.780 
+duration: 5:18:00
 min_elev: 1260
 max_elev: 2169
 loss_elev: -895

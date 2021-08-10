@@ -21,8 +21,8 @@ tags:
 - Riserva naturale Mont Mars  
 - Escursionistico
 difficulty: 2
-distance: 10.67 km
-time: 4:33:34
+distance: 10.67 
+duration: 4:33:34
 min_elev: 1441
 max_elev: 2050
 loss_elev: -608

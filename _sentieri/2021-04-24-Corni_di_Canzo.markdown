@@ -19,8 +19,8 @@ tags:
 - Anello
 - Escursionistico
 difficulty: 2
-distance: 12.58 km
-time: 4:48:00
+distance: 12.58 
+duration: 4:48:00
 min_elev: 410
 max_elev: 1239
 loss_elev: -820

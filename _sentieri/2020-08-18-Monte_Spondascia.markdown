@@ -21,8 +21,8 @@ tags:
 - Valmalenco
 - Impegnativo
 difficulty: 3
-distance: 10.17 km
-time: 5:21:25
+distance: 10.17 
+duration: 5:21:25
 min_elev: 1990
 max_elev: 2849
 loss_elev: -903

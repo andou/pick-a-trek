@@ -27,8 +27,8 @@ tags:
 - Laghi
 - Impegnativo
 difficulty: 3
-distance: 14.54 km
-time: 7:30:57
+distance: 14.54 
+duration: 7:30:57
 min_elev: 1688
 max_elev: 2913
 loss_elev: -1215
