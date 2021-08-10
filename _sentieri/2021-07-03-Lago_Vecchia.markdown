@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.9547902
+latitude : 45.6898031
 title:  "Lago della Vecchia e anello via Alpe Irogne"
 date:   2021-07-03
 excerpt_separator: <!--more-->

@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.819354
+latitude : 45.871487
 title:  "Salita alla Cima Grem dal Passo di Zambla"
 date:   2021-02-27 09:05:00 +0100
 track:  /assets/tracks/2021-02-27-Passo_Zambla.gpx

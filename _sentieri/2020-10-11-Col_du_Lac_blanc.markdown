@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.5887656
+latitude : 45.6438169
 title:  "Col du Lac blanc"
 date:   2020-10-11 09:05:00 +0100
 track:  /assets/tracks/2020-10-11-Col_du_Lac_blanc.gpx

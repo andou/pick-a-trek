@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : -4.6410702
+latitude : 56.1504308
 title:  "WHW/T3 Da Rowardennan a Inverarnan"
 date:   2019-08-14 09:05:00 +0100
 track:  /assets/tracks/2019-08-14-Da_Rowardennan_a_Inverarnan.gpx

@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1527065
+latitude : 45.17842
 title:  "Da Borgo Ticino a Cascina Bottarone"
 date:   2018-08-05 09:05:00 +0100
 track:  /assets/tracks/2018-08-05-Da_Borgo_Ticino_a_Cascina_Bottarone.gpx

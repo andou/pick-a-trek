@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.9065137
+latitude : 45.62243
 title:  "Rifugio Coda, Punta Sella e Colle Sella da Coumarial"
 date:   2021-08-08 09:05:00 +0100
 track:  /assets/tracks/2021-08-08-Rifugio_Coda.gpx

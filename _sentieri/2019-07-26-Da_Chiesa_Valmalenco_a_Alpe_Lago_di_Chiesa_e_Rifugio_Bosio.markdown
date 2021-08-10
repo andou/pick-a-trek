@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.848647
+latitude : 46.265097
 title:  "Da Chiesa Valmalenco a Alpe Lago di Chiesa e Rifugio Bosio"
 date:   2019-07-26 09:05:00 +0100
 track:  /assets/tracks/2019-07-26-Da_Chiesa_Valmalenco_a_Alpe_Lago_di_Chiesa_e_Rifugio_Bosio.gpx

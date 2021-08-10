@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.2695581
+latitude : 45.1527709
 title:  "Punta Sbaron da Prato del Rio"
 date:   2020-02-09 09:05:00 +0100
 track:  /assets/tracks/2020-02-09-Punta_Sbaron.gpx

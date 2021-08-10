@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1940383
+latitude : 44.7277152
 title:  "Da Capanne di Cosola al Monte Carmo"
 date:   2018-10-20 09:05:00 +0100
 track:  /assets/tracks/2018-10-20-Da_Capanne_di_Cosola_al_Monte_Carmo.gpx

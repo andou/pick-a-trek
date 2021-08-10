@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1495424
+latitude : 44.5741468
 title:  "Antola"
 date:   2019-03-24 09:05:00 +0100
 track:  /assets/tracks/2019-03-24-Antola.gpx

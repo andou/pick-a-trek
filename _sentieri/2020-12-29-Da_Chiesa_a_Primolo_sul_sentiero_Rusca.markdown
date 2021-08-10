@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.8427557
+latitude : 46.2722752
 title:  "Da Chiesa a Primolo sul sentiero Rusca"
 date:   2020-12-29 09:05:00 +0100
 track:  /assets/tracks/2020-12-29-Da_Chiesa_a_Primolo_sul_sentiero_Rusca.gpx

@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 8.9340246
+latitude : 45.2873563
 title:  "Da Villa Ronchi a Cascina Torricella"
 date:   2018-08-12 09:05:00 +0100
 track:  /assets/tracks/2018-08-12-Da_Villa_Ronchi_a_Cascina_Torricella.gpx

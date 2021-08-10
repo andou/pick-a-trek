@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1801242
+latitude : 44.5196698
 title:  "VDS19/T2: Da Torriglia alle bici"
 date:   2019-06-09 09:05:00 +0100
 track_color: green

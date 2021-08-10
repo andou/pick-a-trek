@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.4808548
+latitude : 44.5503579
 excerpt_separator: <!--more-->
 title:  "Sui Monti Maggiorasca e Bue da Passo del Tomarlo"
 date:   2019-09-15 09:05:00 +0100

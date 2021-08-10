@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.3019923
+latitude : 45.8370925
 title:  "Il Monte Cornizzolo da Canzo"
 date:   2021-03-13 09:05:00 +0100
 excerpt_separator: <!--more-->

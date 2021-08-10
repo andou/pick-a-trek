@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.448615
+latitude : 45.8652051
 title:  "Resegone da Piani d'Erna"
 date:   2021-06-26 
 excerpt_separator: <!--more-->

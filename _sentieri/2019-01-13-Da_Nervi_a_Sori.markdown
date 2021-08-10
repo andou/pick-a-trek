@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.0402428
+latitude : 44.3836439
 title:  "Da Nervi a Sori"
 date:   2019-01-13 09:05:00 +0100
 track:  /assets/tracks/2019-01-13-Da_Nervi_a_Sori.gpx

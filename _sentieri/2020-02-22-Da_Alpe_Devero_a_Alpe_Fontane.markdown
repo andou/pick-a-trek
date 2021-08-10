@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 8.2585634
+latitude : 46.3160367
 title:  "Da Alpe Devero ad Alpe Fontane verso la Corona Troggi"
 date:   2020-02-22 09:05:00 +0100
 track:  /assets/tracks/2020-02-22-Da_Alpe_Devero_a_Alpe_Fontane.gpx

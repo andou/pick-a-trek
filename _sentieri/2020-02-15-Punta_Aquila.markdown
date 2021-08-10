@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.2577715
+latitude : 45.0302898
 title:  "Punta Aquila"
 date:   2020-02-15 09:05:00 +0100
 track:  /assets/tracks/2020-02-15-Punta_Aquila.gpx

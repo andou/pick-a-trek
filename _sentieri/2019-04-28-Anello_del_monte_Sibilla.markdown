@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 13.2636548
+latitude : 42.9001966
 title:  "Anello del Monte Sibilla"
 date:   2019-04-28 09:05:00 +0100
 track:  /assets/tracks/2019-04-28-Anello_del_monte_Sibilla.gpx

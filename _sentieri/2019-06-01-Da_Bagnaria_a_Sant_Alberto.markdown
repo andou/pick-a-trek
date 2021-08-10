@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1226055
+latitude : 44.8272619
 title:  "Da Bagnaria a Sant'Alberto di Butrio"
 date:   2019-06-01 09:05:00 +0100
 track:  /assets/tracks/2019-06-01-Da_Bagnaria_a_Sant_Alberto.gpx

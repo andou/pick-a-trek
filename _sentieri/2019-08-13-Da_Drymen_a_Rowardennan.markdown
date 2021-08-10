@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : -4.4534365
+latitude : 56.0651682
 title:  "WHW/T2 Da Drymen a Rowardennan"
 date:   2019-08-13 09:05:00 +0100
 track:  /assets/tracks/2019-08-13-Da_Drymen_a_Rowardennan.gpx

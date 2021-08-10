@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.4880818
+latitude : 44.5461665
 excerpt_separator: <!--more-->
 title:  "Sul Monte Maggiorasca da Passo del Tomarlo"
 date:   2019-04-20 09:05:00 +0100

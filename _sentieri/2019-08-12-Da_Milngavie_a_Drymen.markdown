@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : -4.3178027
+latitude : 55.9410791
 title:  "WHW/T1 Da Milngavie a Drymen"
 date:   2019-08-12 09:05:00 +0100
 track:  /assets/tracks/2019-08-12-Da_Milngavie_a_Drymen.gpx

@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.3750153
+latitude : 45.8175344
 title:  "Monte Barro da Galbiate"
 date:   2021-04-17
 excerpt_separator: <!--more-->

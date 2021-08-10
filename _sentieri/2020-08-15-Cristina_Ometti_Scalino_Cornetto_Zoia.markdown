@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.9734137
+latitude : 46.2786101
 title:  "Cristina - Passo degli Ometti - Pizzo Scalino - Cornetto - Rif. Zoia"
 date:   2020-08-15 09:05:00 +0100
 track:  /assets/tracks/2020-08-15-Cristina_Ometti_Scalino_Cornetto_Zoia.gpx

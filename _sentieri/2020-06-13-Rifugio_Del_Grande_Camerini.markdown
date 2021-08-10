@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.7419936
+latitude : 46.308655
 title:  "Rifugio Del Grande Camerini"
 date:   2020-06-13 09:05:00 +0100
 track:  /assets/tracks/2020-06-13-Rifugio_Del_Grande_Camerini.gpx

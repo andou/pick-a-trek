@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 8.5102862
+latitude : 46.05196
 title:  "Da Cicogna a Pian di Boit"
 date:   2020-08-09 09:05:00 +0100
 track:  /assets/tracks/2020-08-09-Da_Cicogna_a_Pian_di_Boit.gpx

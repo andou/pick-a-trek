@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.895665
+latitude : 45.6399983
 title:  "Punta Leretta da Pian de Coumarial"
 date:   2020-01-11 09:05:00 +0100
 track:  /assets/tracks/2020-01-11-Da_Pian_de_Coumarial_a_Punta_Leretta.gpx

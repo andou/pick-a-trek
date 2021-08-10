@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.929725
+latitude : 45.6442657
 title:  "Rifugio Barma, Colle della Barma e Lago Vargno da Coumarial"
 date:   2021-07-31 09:05:00 +0100
 track:  /assets/tracks/2021-07-31-Rifugio_Barma.gpx

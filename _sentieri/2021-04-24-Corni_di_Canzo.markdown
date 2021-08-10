@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.3193012
+latitude : 45.8622341
 title:  "Corni di Canzo"
 date:   2021-04-24 
 excerpt_separator: <!--more-->

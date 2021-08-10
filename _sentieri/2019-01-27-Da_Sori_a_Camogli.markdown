@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1044467
+latitude : 44.3733735
 title:  "Da Sori a Camogli"
 date:   2019-01-27 09:05:00 +0100
 track:  /assets/tracks/2019-01-27-Da_Sori_a_Camogli.gpx

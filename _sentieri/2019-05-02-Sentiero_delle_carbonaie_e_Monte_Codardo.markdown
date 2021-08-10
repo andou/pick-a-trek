@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 13.211882
+latitude : 43.0949464
 title:  "Sentiero delle carbonaie e Monte Codardo"
 date:   2019-05-02 09:05:00 +0100
 excerpt_separator: <!--more-->

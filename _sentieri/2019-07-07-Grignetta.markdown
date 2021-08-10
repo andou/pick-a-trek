@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.3919706
+latitude : 45.9001209
 title:  "In Grignetta dalla Cresta Cermenati"
 date:   2019-07-07 09:05:00 +0100
 track:  /assets/tracks/2019-07-07-Grignetta.gpx

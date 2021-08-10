@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.3281
+latitude : 44.84131
 title:  "Da Pozzallo a Pietra Corva"
 date:   2019-07-14 09:05:00 +0100
 track:  /assets/tracks/2019-07-14-Da_Pozzallo_a_Pietra_Corva.gpx

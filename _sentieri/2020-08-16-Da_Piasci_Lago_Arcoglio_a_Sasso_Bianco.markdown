@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.85228
+latitude : 46.23356
 title:  "Da Piasci al Lago Arcoglio e al Sasso Bianco"
 date:   2020-08-16 09:05:00 +0100
 track:  /assets/tracks/2020-08-16-Da_Piasci_Lago_Arcoglio_a_Sasso_Bianco.gpx

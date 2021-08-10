@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : -25.5109255
+latitude : 37.7488914
 title:  "Janela do inferno"
 date:   2017-08-19 09:05:00 +0100
 track:  /assets/tracks/2017-08-19-Janela_do_infierno.gpx

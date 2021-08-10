@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.9342691
+latitude : 46.3002554
 title:  "Dal Rifugio Poschiavino alla Marinelli"
 date:   2020-08-13 09:05:00 +0100
 track:  /assets/tracks/2020-08-13-Da_Poschiavino_a_Rif._Marinelli.gpx

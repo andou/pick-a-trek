@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.9572268
+latitude : 46.2718632
 title:  "Il passo degli Ometti"
 date:   2019-08-31 09:05:00 +0100
 excerpt_separator: <!--more-->

@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.7992072
+latitude : 46.2686497
 title:  "Laghetti di Sassersa da Primolo in invernale"
 date:   2021-05-29 09:05:00 +0100
 excerpt_separator: <!--more-->

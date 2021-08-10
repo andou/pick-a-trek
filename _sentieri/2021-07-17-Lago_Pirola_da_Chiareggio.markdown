@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.7888076
+latitude : 46.3018826
 title:  "Lago Pirola da Chiareggio"
 date:   2021-07-17 09:05:00 +0100
 track:  /assets/tracks/2021-07-17-Lago_Pirola_da_Chiareggio.gpx

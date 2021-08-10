@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.6383262
+latitude : 45.9033053
 title:  "Monte Venturosa"
 date:   2021-06-12
 excerpt_separator: <!--more-->

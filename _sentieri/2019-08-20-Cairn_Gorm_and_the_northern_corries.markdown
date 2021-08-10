@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : -3.6444857
+latitude : 57.116769
 excerpt_separator: <!--more-->
 title:  "Cairn Gorm e i Northern Corries"
 date:   2019-08-20 09:05:00 +0100

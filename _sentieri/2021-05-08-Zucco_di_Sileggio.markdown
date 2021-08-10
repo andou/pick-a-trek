@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.2648372
+latitude : 45.6485558
 title:  "Zucco di Sileggio da Somana"
 date:   2021-05-08 09:05:00 +0100
 excerpt_separator: <!--more-->

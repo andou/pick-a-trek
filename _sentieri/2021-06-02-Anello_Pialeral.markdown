@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.4421694
+latitude : 45.9517834
 title:  "Anello per il Rif. Pialeral, San Calimero, Rif. Riva"
 date:   2021-06-02
 excerpt_separator: <!--more-->

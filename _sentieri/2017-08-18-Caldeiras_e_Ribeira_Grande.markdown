@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : -25.5206598
+latitude : 37.8223427
 title:  "Caldeiras e Ribeira Grande"
 date:   2017-08-18 09:05:00 +0100
 track:  /assets/tracks/2017-08-18-Caldeiras_e_Ribeira_Grande.gpx

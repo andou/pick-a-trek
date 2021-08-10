@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.248741
+latitude : 45.877782
 title:  "Sul Monte San Primo dalla Colma di Sormano"
 date:   2021-02-20 09:05:00 +0100
 track:  /assets/tracks/2021-02-20-Da_Colma_di_Sormano_a_Monte_San_Primo.gpx

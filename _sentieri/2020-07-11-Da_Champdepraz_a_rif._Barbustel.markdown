@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.6577653
+latitude : 45.6853316
 title:  "Da Champdepraz al rifugio Barbustel"
 date:   2020-07-11 09:05:00 +0100
 track:  /assets/tracks/2020-07-11-Da_Champdepraz_a_rif._Barbustel.gpx

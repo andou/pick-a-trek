@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : -2.8644896
+latitude : 54.9276058
 title:  "HWP/T7 Da Park Broom a Easton"
 date:   2018-08-20 09:05:00 +0100
 track:  /assets/tracks/2018-08-20-Stage_7_Da_Park_Broom_a_Easton.gpx

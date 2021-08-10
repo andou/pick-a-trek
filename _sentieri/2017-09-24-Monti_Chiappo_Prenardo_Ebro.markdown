@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1911617
+latitude : 44.6893591
 title:  "Monti Chiappo, Prenardo, e Ebro"
 date:   2017-09-24 09:05:00 +0100
 track:  /assets/tracks/2017-09-24-Monti_Chiappo_Prenardo_Ebro.gpx

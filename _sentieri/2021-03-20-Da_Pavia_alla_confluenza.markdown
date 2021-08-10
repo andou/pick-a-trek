@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1378251
+latitude : 45.0368546
 title:  "Fino alla confluenza di Po e Ticino dal centro di Pavia"
 date:   2021-03-20 09:05:00 +0100
 excerpt_separator: <!--more-->

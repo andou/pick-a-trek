@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 7.6837672
+latitude : 45.069103
 title:  "Da Durando verso il monte Lion"
 date:   2020-12-19 09:05:00 +0100
 track:  /assets/tracks/2020-12-19-Canavese_zona_monte_Lion.gpx

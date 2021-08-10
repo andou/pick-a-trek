@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.8696346
+latitude : 46.3256407
 title:  "Dai Barchi al Sasso Nero"
 date:   2020-07-04 09:05:00 +0100
 track:  /assets/tracks/2020-07-04-Dai_Barchi_al_Sasso_Nero.gpx

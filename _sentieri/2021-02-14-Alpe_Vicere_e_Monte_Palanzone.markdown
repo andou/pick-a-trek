@@ -1,5 +1,7 @@
 ---
 layout: sentiero
+longitude : 9.1884829
+latitude : 45.8031171
 title:  "Sul Monte Palanzone dall’Alpe del Vicerè"
 date:   2021-02-14 09:05:00 +0100
 track:  /assets/tracks/2021-02-14-Alpe_Vicere_e_Monte_Palanzone.gpx
