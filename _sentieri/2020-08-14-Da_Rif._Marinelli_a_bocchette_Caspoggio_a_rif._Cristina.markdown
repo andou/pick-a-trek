@@ -23,6 +23,12 @@ tags:
 - One-way
 - Impegnativo
 difficulty: 3
+distance: 16.11 km
+time: 6:14:13
+min_elev: 1990
+max_elev: 2987
+loss_elev: -1223
+gain_elev: 638
 ---
 
 Uno degli itinerari più classici e belli della Valmalenco è quello che nell'alta Val Lantera, partendo dalla Diga di Campo Moro e passando per il rifugio Bignami, conduce al Rifugio Marinelli Bombardieri passando per la bocchetta di Caspoggio. Da li si può eventualmente ridiscendere alla Diga passando per il rifugio Carate Brianza oppure tornare sui propri passi.

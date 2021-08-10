@@ -13,8 +13,14 @@ tags:
 - Natura
 - Valtellina
 - Valmalenco
-- Escursionistico
-difficulty: 2
+- Facile
+difficulty: 1
+distance: 6.599 km
+time: 2:09:34
+min_elev: 1600
+max_elev: 1919
+loss_elev: -317
+gain_elev: 317
 ---
 
 Questo sentiero parte da Braciascia e arriva all'Alpe Entova, attraversando boschi in gran parte su carrareccia. Il dislivello non è molto ma in alcuni tratti la salita è abbastanza ripida.

@@ -19,6 +19,12 @@ tags:
 - Appennino
 - Escursionistico
 difficulty: 2
+distance: 7.569 km
+time: 2:02:13
+min_elev: 1390
+max_elev: 1595
+loss_elev: -240
+gain_elev: 309
 ---
 
 Da Casa del Romano un bel sentiero porta in cima al monte Antola, da cui la vista spazia dal mare alle Alpi, e poi scende un po' fino al rifugio.

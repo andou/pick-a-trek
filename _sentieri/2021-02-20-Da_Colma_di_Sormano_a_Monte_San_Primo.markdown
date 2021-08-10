@@ -20,6 +20,12 @@ tags:
 - Neve
 - Escursionistico
 difficulty: 2
+distance: 15.72 km
+time: 4:21:24
+min_elev: 1114
+max_elev: 1678
+loss_elev: -624
+gain_elev: 625
 ---
 
 Da Colma di Sormano il sentiero inizia dolcemente nel bosco; uscendo diventa più ripido e lo sguardo si apre sulla vallata. Nell'ultimo tratto si resta sulla cresta, godendo del panorama a destra e sinistra, e con un ultimo sforzo si raggiunge la cima di monte San Primo.

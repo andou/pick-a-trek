@@ -20,6 +20,12 @@ tags:
 - One-way
 - Facile
 difficulty: 1
+distance: 11.12 km
+time: 4:50:31
+min_elev: 575
+max_elev: 1126
+loss_elev: -438
+gain_elev: 829
 ---
 
 Raggiunta Cicogna in auto (la strada per salire è strettissima, pregate di non incrociare nessuno), e dopo aver parcheggiato con un po' di fantasia, ci si incammina lungo il bel sentiero acciottolato che porta verso l'abitato di Pogallo.

@@ -17,7 +17,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true
-
+distance: 11.80 km
+time: 6:07:57
+min_elev: 1027
+max_elev: 1989
+loss_elev: -984
+gain_elev: 996
 ---
 
 Una bella e piacevole escursione fino al Lago della Vecchia, nel Biellese, resa avventurosa sul ritorno dalla scelta di percorrere un anello molto poco frequentato...

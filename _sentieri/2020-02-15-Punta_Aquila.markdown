@@ -14,6 +14,12 @@ tags:
 - Neve
 - Impegnativo
 difficulty: 3
+distance: 10.02 km
+time: 4:44:53
+min_elev: 1254
+max_elev: 2109
+loss_elev: -850
+gain_elev: 851
 ---
 
 La salita presenta alcuni tratti più costanti e alcuni strappi più ripidi, soprattutto per raggiungere la ex seggiovia dell'Aquila. Da lì la traccia corre in cresta, e i versanti sono ripidi quindi consigliamo i ramponi.

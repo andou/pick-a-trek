@@ -17,6 +17,12 @@ tags:
 - Laghi
 - Escursionistico
 difficulty: 2
+distance: 13.73 km
+time: 5:36:44
+min_elev: 1814
+max_elev: 2689
+loss_elev: -880
+gain_elev: 880
 ---
 
 Abbiamo l'abitudine di uscire di casa per le nostre escursioni con generalmente sempre in mente il percorso che andremo a percorrere. Ci serve per sapere più o meno cosa aspettarci nel caso si tratti di una _gita_ nuova ed in ogni caso avere una _mappa mentale_ dei luoghi che dobbiamo attraversare ci aiuta a tenere bene il tempo e dosare le forse nel tragitto.

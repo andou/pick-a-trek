@@ -17,6 +17,12 @@ tags:
 - Natura
 - Facile
 difficulty: 1
+distance: 10.84 km
+time: 3:09:47
+min_elev: 125
+max_elev: 365
+loss_elev: -292
+gain_elev: 291
 ---
 
 Un altro sentiero a Sao Miguel, un sentiero ad anello nella foresta, accanto alle condotte della centrale idroelettrica.

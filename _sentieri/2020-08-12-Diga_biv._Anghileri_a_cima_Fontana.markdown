@@ -18,6 +18,12 @@ tags:
 - Laghi
 - Impegnativo
 difficulty: 3
+distance: 18.12 km
+time: 7:18:32
+min_elev: 2003
+max_elev: 3062
+loss_elev: -1294
+gain_elev: 1275
 ---
 
 Dal parcheggio si sale in cima alla diga e costeggia il lago restando sulla sua sponda orientale.

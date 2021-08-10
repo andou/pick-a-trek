@@ -18,6 +18,12 @@ tags:
 - Neve
 - Impegnativo
 difficulty: 3
+distance: 12.15 km
+time: 5:16:47
+min_elev: 1395
+max_elev: 2219
+loss_elev: -817
+gain_elev: 815
 ---
 
 La Punta Sbaron, al di là dei facili umorismi che potrebbe suscitare il suo nome, è una cima di 2223 metri di altezza facilmente raggiungibile e posta all’ingresso della Val Susa. Con la sua posizione offre una fantastico balconata sulle cime piemontesi che la circondano.

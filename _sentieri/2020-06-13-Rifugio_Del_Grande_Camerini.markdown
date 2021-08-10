@@ -19,6 +19,12 @@ tags:
 - Valmalenco
 - Impegnativo
 difficulty: 3
+distance: 10.94 km
+time: 5:30:36
+min_elev: 1615
+max_elev: 2564
+loss_elev: -952
+gain_elev: 952
 ---
 
 Nella traccia qui sotto abbiamo percorso un bell'anello a partire dall'abitato di Chiareggio, passando per le alpi Vazzeda fino ad arrivare al **Rifugio del Grande Camerini**, siamo poi scesi passando per l'alpe Sissone ricongiungedoci con il percorso dell'Alta Via della Valmalenco e tornando al punto di partenza.

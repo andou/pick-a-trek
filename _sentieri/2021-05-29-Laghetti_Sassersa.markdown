@@ -21,6 +21,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true
+distance: 9.774 km
+time: 6:04:32
+min_elev: 1345
+max_elev: 2373
+loss_elev: -1079
+gain_elev: 1080
 ---
 
 Da Primolo ai laghetti di Sassersa, passando dall'estate all'inverno in soli 1000 m di dislivello

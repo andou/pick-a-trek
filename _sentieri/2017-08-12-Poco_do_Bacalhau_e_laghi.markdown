@@ -20,6 +20,12 @@ tags:
 - Laghi
 - Escursionistico
 difficulty: 2
+distance: 14.55 km
+time: 7:30:02
+min_elev: 8
+max_elev: 653
+loss_elev: -918
+gain_elev: 918
 ---
 
 A Flores, una ripida salita a zigzag tra i boschi pieni di gigli dell'Himalaya, porta sull'altopiano centrale dell'isola, dove ci sono diversi laghi vulcanici, circondati da ortensie e erika, e popolati di sterne, gabbiani... un paradiso della natura.

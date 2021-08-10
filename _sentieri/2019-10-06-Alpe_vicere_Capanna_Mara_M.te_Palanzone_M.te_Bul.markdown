@@ -13,6 +13,12 @@ tags:
 - Natura
 - Escursionistico
 difficulty: 2
+distance: 16.04 km
+time: 4:34:45
+min_elev: 899
+max_elev: 1430
+loss_elev: -659
+gain_elev: 658
 ---
 
 Nel Triangolo Lariano, questa zona è ricca di sentieri per tutte le difficoltà: il pezzo iniziale è su comoda carrareccia, poi ci sono diverse cime che si possono raggiungere o... aggirare!

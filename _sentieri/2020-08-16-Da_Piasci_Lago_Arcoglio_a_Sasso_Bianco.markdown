@@ -19,6 +19,12 @@ tags:
 - Valmalenco
 - Escursionistico
 difficulty: 2
+distance: 11.40 km
+time: 4:06:19
+min_elev: 1697
+max_elev: 2482
+loss_elev: -761
+gain_elev: 781
 ---
 
 Quando si visita la Valmalenco con l'intenzione di compiere delle escursioni, spesso Torre Santa Maria viene un pò ignorata o non presa nella dovuta considerazione. In realtà questo probabilmente dipende dalla _sudditanza_ che le ben più blasonate mete dell'Alta Valmalenco le impongono.

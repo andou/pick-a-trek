@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 19.39 km
+time: 6:27:41
+min_elev: 43
+max_elev: 337
+loss_elev: -219
+gain_elev: 405
 ---
 
 Quarta tappa della West Highland Way.

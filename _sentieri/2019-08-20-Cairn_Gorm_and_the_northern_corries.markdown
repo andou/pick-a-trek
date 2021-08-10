@@ -22,6 +22,12 @@ tags:
 - Escursionistico
 difficulty: 2 
 comments: true
+distance: 12.00 km
+time: 3:54:01
+min_elev: 624
+max_elev: 1243
+loss_elev: -753
+gain_elev: 762
 ---
 
 Una lunga escursione fino alla cima di un Munro, ossia una delle montagne più alte della Scozia, con lo sguardo che può spaziare tra valli glaciali e paesaggi drammatici.

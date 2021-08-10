@@ -20,6 +20,12 @@ tags:
 - Appennino
 - Facile
 difficulty: 1
+distance: 7.172 km
+time: 2:34:39
+min_elev: 1469
+max_elev: 1787
+loss_elev: -335
+gain_elev: 331
 ---
 Un sentiero facile e relativamente breve che conduce alla vetta più alta dell'Appenino Ligure. Adatto anche a famiglie con bambini.
 

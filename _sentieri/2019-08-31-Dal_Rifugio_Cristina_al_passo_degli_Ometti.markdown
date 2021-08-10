@@ -22,6 +22,12 @@ tags:
 - Valmalenco
 - Impegnativo
 difficulty: 3
+distance: 15.52 km
+time: 7:12:03
+min_elev: 1942
+max_elev: 2945
+loss_elev: -1145
+gain_elev: 1147
 ---
 Un percorso piuttosto impegnativo di avvicinamento al Pizzo Scalino, una delle cime più affascinanti della Valmalenco. Grandiosi paesaggi che si mostrano se si ha buona gamba.
 

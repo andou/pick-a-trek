@@ -17,7 +17,12 @@ tags:
 - Andata e ritorno
 - Escursionistico
 difficulty: 2
-
+distance: 6.170 km
+time: 3:17:14
+min_elev: 364
+max_elev: 911
+loss_elev: -559
+gain_elev: 558
 ---
 La salita al monte Barro è sicuramente una tra le escursioni più panoramiche da fare sul lago di Como, facilmente accessibile da Lecco.
 

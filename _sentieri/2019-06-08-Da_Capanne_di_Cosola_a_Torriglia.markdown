@@ -16,6 +16,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 25.93 km
+time: 8:32:26
+min_elev: 1017
+max_elev: 1671
+loss_elev: -1300
+gain_elev: 835
 ---
 
 Tappa della Via del Sale che da Capanne di Cosola porta a Torriglia, toccando le cime dell'Oltrpò: Legnà, Carmo, Brigneto, Antola.

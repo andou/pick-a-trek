@@ -19,6 +19,12 @@ tags:
 - Falesie
 - Escursionistico
 difficulty: 2
+distance: 7.988 km
+time: 4:05:07
+min_elev: 0
+max_elev: 174
+loss_elev: -550
+gain_elev: 549
 ---
 
 Si tratta di un bel sentiero ripido ripido che scende fino al mare lungo una falesia, la Rocha da Relva che da il nome al sentiero.

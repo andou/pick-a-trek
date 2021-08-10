@@ -20,6 +20,12 @@ tags:
 - Facile
 difficulty: 1
 comments: true
+distance: 23.48 km
+time: 4:54:53
+min_elev: 54
+max_elev: 77
+loss_elev: -36
+gain_elev: 35
 ---
 
 Una lunga passeggiata dal centro di Pavia fino alla confluenza dei fiumi Po e Ticino, a volte è bello anche accontentarsi di quello che si ha vicino.

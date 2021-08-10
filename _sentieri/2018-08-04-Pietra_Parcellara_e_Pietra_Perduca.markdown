@@ -18,6 +18,12 @@ tags:
 - Appennino
 - Escursionistico
 difficulty: 2
+distance: 14.65 km
+time: 5:15:32
+min_elev: 426
+max_elev: 805
+loss_elev: -549
+gain_elev: 511
 ---
 
 Pietra Parcellara e Pietra Perduca sono due formazioni rocciose nere e imponenti. Il sentiero ad anello le tocca entrambe, attraversando prati, campi coltivati e boschi.

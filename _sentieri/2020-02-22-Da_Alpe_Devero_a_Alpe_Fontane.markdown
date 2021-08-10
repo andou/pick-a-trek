@@ -18,6 +18,12 @@ tags:
 - Neve
 - Escursionistico
 difficulty: 2
+distance: 6.274 km
+time: 3:13:33
+min_elev: 1531
+max_elev: 2070
+loss_elev: -532
+gain_elev: 534
 ---
 
 Ci sono delle volte in cui, per quanto ci si impegni, ci si prepari e si cerchi di essere pronti quasi ad ogni evenienza, qualcosa la si sbaglia e l'escursione, come la più classica delle ciambelle, _non riesce con il buco_.

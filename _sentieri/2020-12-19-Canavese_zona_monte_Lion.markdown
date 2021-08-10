@@ -15,6 +15,12 @@ tags:
 - Neve
 - Escursionistico
 difficulty: 2
+distance: 6.636 km
+time: 2:52:43
+min_elev: 1152
+max_elev: 1580
+loss_elev: -426
+gain_elev: 425
 ---
 
 Si parcheggia lungo la strada, e si sale per un sentiero ben marcato. Passate alcune case, un sentiero si inerpica nel bosco e poi si esce su una radura. Quando siamo andati c'era la neve alta e il sentiero non era stato battuto da nessuno, quindi ci siamo un po' persi e avendo la neve al ginocchio (le ciaspole erano rimaste a casa), a un certo punto siamo tornati indietro. La zona però è bella e ci siamo ripromessi di tornarci! Magari senza neve non ci perdiamo :grin:

@@ -18,6 +18,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true
+distance: 8.484 km
+time: 4:30:40
+min_elev: 1088
+max_elev: 1993
+loss_elev: -920
+gain_elev: 895
 ---
 
 Val Brembana: una salita al Monte Venturosa con splendida vista delle cime circostanti.

@@ -21,6 +21,12 @@ tags:
 - Impegnativo
 difficulty: 3
 comments: true
+distance: 9.757 km
+time: 4:26:08
+min_elev: 1209
+max_elev: 1923
+loss_elev: -769
+gain_elev: 769
 ---
 
 Un sentiero impegnativo conduce in cresta alla Cima Grem, da cui si gode di un'ottima vista. Attenzione nella salita in invernale, quando i ramponi sono d'obbligo.

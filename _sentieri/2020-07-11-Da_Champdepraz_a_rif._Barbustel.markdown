@@ -15,6 +15,12 @@ tags:
 - Rifugi Alpini
 - Escursionistico
 difficulty: 2
+distance: 17.36 km
+time: 6:22:11
+min_elev: 1248
+max_elev: 2200
+loss_elev: -968
+gain_elev: 986
 ---
 
 Il Parco del Monte Avic è bellissimo: selvaggio, non troppo frequentato. In questo occasione, dopo essere saliti al Lago della Serva (già questa è una bella escursione), abbiamo risalito il ripido versante, raggiunto il pianoro con le torbiere (ci sono le rare piante carnivore presenti in Italia), e con un'ultimo sforzo siamo arrivati al Rifugio Barbustel.

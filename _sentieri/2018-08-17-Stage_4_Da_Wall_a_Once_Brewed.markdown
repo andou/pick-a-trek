@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 24.51 km
+time: 8:15:25
+min_elev: 53
+max_elev: 323
+loss_elev: -279
+gain_elev: 416
 ---
 
 Quarta tappa del Vallo di Adriano.

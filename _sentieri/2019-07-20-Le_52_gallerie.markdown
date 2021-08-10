@@ -20,6 +20,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true
+distance: 18.47 km
+time: 6:14:33
+min_elev: 1187
+max_elev: 2006
+loss_elev: -1576
+gain_elev: 1583
 ---
 
 Questo sentiero è famoso per essere stato costruito durante la prima guerra mondiale, scavando appunto 52 gallerie dentro la montagna per evitare di essere visti dagli austriaci.

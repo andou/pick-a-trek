@@ -23,6 +23,12 @@ featured_image:
   caption: Il Lago della Serva innevato
 track_color: green
 excerpt_separator: <!--more-->
+distance: 11.26 km
+time: 4:32:35
+min_elev: 1246
+max_elev: 1803
+loss_elev: -545
+gain_elev: 545
 ---
 
 Bellissima e tranquilla ciaspolata da Covarey fino al Lago della Serva, immersi nella pace e nella tranquillità del Parco Naturale del Monte Avic.

@@ -18,6 +18,12 @@ tags:
 - Panorami
 - Escursionistico
 difficulty: 2
+distance: 9.431 km
+time: 3:45:40
+min_elev: 410
+max_elev: 1219
+loss_elev: -817
+gain_elev: 817
 ---
 
 Sentiero tecnicamente semplice e fisicamente non troppo impegnativo, sebbene pienamente soddisfacente per una bella sgambata in montagna. :running:

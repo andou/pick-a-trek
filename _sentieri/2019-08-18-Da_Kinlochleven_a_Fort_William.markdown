@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 25.52 km
+time: 6:40:29
+min_elev: 7
+max_elev: 333
+loss_elev: -533
+gain_elev: 535
 ---
 
 Settima e ultima tappa della West Highland Way.

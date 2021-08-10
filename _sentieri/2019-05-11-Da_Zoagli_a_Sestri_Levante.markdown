@@ -14,7 +14,13 @@ tags:
 - Paesaggi
 - Natura
 - Escursionistico
-difficulty: 2
+difficulty: 
+distance: 19.03 km
+time: 5:34:51
+min_elev: 1
+max_elev: 255
+loss_elev: -570
+gain_elev: 542
 ---
 
 Quinta tappa del Sentiero Liguria.

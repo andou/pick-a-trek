@@ -25,6 +25,12 @@ tags:
 - Laghi
 - Impegnativo
 difficulty: 3
+distance: 14.54 km
+time: 7:30:57
+min_elev: 1688
+max_elev: 2913
+loss_elev: -1215
+gain_elev: 1215
 ---
 
 Una lunga salita che senza particolari strappi conduce in vetta ad uno dei più bei balconi sulla testata della Valmalenco, quasi a 3000 metri

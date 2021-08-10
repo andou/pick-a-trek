@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 19.45 km
+time: 7:33:56
+min_elev: 117
+max_elev: 343
+loss_elev: -351
+gain_elev: 306
 ---
 
 Quinta tappa del Vallo di Adriano.

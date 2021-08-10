@@ -20,6 +20,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true  
+distance: 15.73 km
+time: 7:18:42
+min_elev: 23
+max_elev: 326
+loss_elev: -774
+gain_elev: 585
 ---
 
 Nell'isola di Flores, il sentiero parte dall'estremità sud e costeggia l'oceano fino a Faja Grande. Lungo il sentiero, da ammirare la spettacolare Rocha dos Bordões, con le colonne di basalto esagonali.

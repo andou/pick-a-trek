@@ -18,6 +18,12 @@ tags:
 - Appennino
 - Escursionistico
 difficulty: 2
+distance: 11.92 km
+time: 4:01:26
+min_elev: 1534
+max_elev: 2148
+loss_elev: -653
+gain_elev: 634
 ---
 
 Dal Rifugio Sibilla si sale ripidamente fino al Monte Zampa, da cui già il panorama è appagante. Da lì si prosegue in cresta e poi salendo fino alla cima del Monte Sibilla (l'ultimo pezzetto è attrezzato, occorre un po' di attenzione). La vista dal Sibilla spazia a 360° su tutte le cime circostanti.

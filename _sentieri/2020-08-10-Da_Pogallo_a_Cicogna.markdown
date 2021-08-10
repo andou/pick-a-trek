@@ -20,6 +20,12 @@ tags:
 - One-way
 - Facile
 difficulty: 1
+distance: 3.792 km
+time: 1:03:25
+min_elev: 560
+max_elev: 731
+loss_elev: -131
+gain_elev: 251
 ---
 
 Il sentiero tra Pogallo e Cicogna corre nel bosco, senza dislivello particolarmente impegnativo, su un sentiero in parte acciottolato che a volte si restringe.

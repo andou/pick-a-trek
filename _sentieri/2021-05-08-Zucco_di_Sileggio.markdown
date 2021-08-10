@@ -20,6 +20,12 @@ tags:
 - Impegnativo
 difficulty: 3
 comments: true
+distance: 14.70 km
+time: 6:37:26
+min_elev: 348
+max_elev: 1345
+loss_elev: -1284
+gain_elev: 1281
 ---
 
 Un anello salendo lungo il torrente e fino allo Zucco di Sileggio, e discesa ripida fino a Somana 

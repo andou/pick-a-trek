@@ -19,6 +19,12 @@ tags:
 - Valmalenco
 - Impegnativo
 difficulty: 3
+distance: 10.17 km
+time: 5:21:25
+min_elev: 1990
+max_elev: 2849
+loss_elev: -903
+gain_elev: 903
 ---
 
 Il monte Spondascia è una bella cima di rocce serpentine della Valmalenco, prossima ai Rifugi Zoia / Poschiavino e Cristina. Si trova tra la Val Poschiavina e il Piano di Campagneda, che si pone tra il massicco ed il Pizzo Scalino.

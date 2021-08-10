@@ -15,6 +15,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 13.38 km
+time: 5:34:59
+min_elev: 1
+max_elev: 487
+loss_elev: -748
+gain_elev: 719
 ---
 
 Seconda tappa del Sentiero Liguria.

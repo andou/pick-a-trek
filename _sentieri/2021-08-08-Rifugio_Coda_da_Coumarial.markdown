@@ -22,6 +22,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true
+distance: 11.02 km
+time: 4:47:40
+min_elev: 1441
+max_elev: 2301
+loss_elev: -887
+gain_elev: 887
 ---
 
 Un nuovo giro ad anello nella Riserva naturale Mont Mars ci ha condotto al Rifugio Coda e alla Punta della Sella, al confine tra la Valle d'Aosta e la provincia di Biella.

@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 24.24 km
+time: 8:56:12
+min_elev: 2
+max_elev: 139
+loss_elev: -196
+gain_elev: 173
 ---
 
 Seconda tappa del Vallo di Adriano.

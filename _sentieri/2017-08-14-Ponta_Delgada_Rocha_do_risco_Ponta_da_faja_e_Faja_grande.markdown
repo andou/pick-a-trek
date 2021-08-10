@@ -20,6 +20,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true  
+distance: 10.71 km
+time: 6:39:19
+min_elev: 5
+max_elev: 423
+loss_elev: -761
+gain_elev: 518
 ---
 
 Nell'isola di Flores, splendido sentiero a picco sull'oceano. Dal punto di partenza, a nord, si vede l'isola di Corvo.

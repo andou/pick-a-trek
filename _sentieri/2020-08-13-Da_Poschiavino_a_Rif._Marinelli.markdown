@@ -21,6 +21,12 @@ tags:
 - One-way
 - Impegnativo
 difficulty: 3
+distance: 10.85 km
+time: 4:20:53
+min_elev: 1877
+max_elev: 2812
+loss_elev: -219
+gain_elev: 1037
 ---
 
 Questo percorso fa parte della tre tappe nell'Alta Via della Valmalenco che ci siamo ritagliati tutta per noi.

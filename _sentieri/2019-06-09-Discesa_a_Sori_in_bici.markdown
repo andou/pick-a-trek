@@ -17,6 +17,12 @@ tags:
 - One-way
 - Facile
 difficulty: 1
+distance: 10.71 km
+time: 0:38:51
+min_elev: 2
+max_elev: 731
+loss_elev: -726
+gain_elev: 0
 ---
 
 Invece che concludere la Via del Sale arrivando a piedi a Sori, abbiamo fatto l'ultimo tratto con delle bici noleggiate. Una discesa lunga e divertente fino al mare!

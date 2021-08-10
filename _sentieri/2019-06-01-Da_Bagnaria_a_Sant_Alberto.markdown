@@ -14,6 +14,12 @@ tags:
 - Appennino
 - Facile
 difficulty: 1
+distance: 12.19 km
+time: 4:09:43
+min_elev: 305
+max_elev: 752
+loss_elev: -482
+gain_elev: 482
 ---
 
 Da Bagnaria il sentiero sale fino al Monte Bagnaria, poi resta in falsopiano fino all'abbazia di Sant'Alberto di Butrio. Il sentiero è sempre tra i boschi, ombroso e fresco.

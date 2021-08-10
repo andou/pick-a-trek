@@ -19,6 +19,12 @@ tags:
 - Appennino
 - Facile
 difficulty: 1
+distance: 9.475 km
+time: 3:02:01
+min_elev: 1361
+max_elev: 1704
+loss_elev: -437
+gain_elev: 436
 ---
 
 Dall’albergo abbandonato ci si incammina sulla strada sterrata che dopo poco si abbandona per entrare nel bosco.

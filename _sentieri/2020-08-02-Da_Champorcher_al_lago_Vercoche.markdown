@@ -16,6 +16,12 @@ tags:
 - Questi un pò le gambe le spezzano
 - Escursionistico
 difficulty: 2
+distance: 9.078 km
+time: 3:26:25
+min_elev: 1205
+max_elev: 2228
+loss_elev: -119
+gain_elev: 1088
 ---
 
 Parcheggiato a Outre L'Eve, poco oltre Champorcher, seguiamo il sentiero nel bosco. La strada è lunga, e in particolare l'ultimo pezzo prima del lago è una salita molto ripida e spaccagambe. Il lago è bellissimo, incastonato tra le montagne!

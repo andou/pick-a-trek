@@ -18,6 +18,12 @@ tags:
 - Appennino
 - Escursionistico
 difficulty: 2
+distance: 15.75 km
+time: 5:26:20
+min_elev: 1456
+max_elev: 1672
+loss_elev: -665
+gain_elev: 665
 ---
 
 Un bel sentiero in Oltrepò, che da Capanne di Cosola tocca le cime di Monte Cavalmurone, Monte Legnà, e Monte Carmo. Un po' di sali-scendi, in un misto di boschi e creste aperte (se il tempo lo consente, la vista è bellissima!).

@@ -19,6 +19,12 @@ tags:
 - Riserva naturale Mont Mars  
 - Escursionistico
 difficulty: 2
+distance: 10.67 km
+time: 4:33:34
+min_elev: 1441
+max_elev: 2050
+loss_elev: -608
+gain_elev: 615
 ---
 
 Vi è mai capitato di partire per un'escursione carichi e convinti che il sentiero sia ben tracciato e visibile, seguirlo sicuri come un treno e d'improvviso trovarvi in un vicolo cieco? A noi si :tired_face: e durante il percorso di qui sotto ci è successo proprio questo.

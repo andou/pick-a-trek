@@ -15,6 +15,12 @@ tags:
 - Appennino
 - Facile
 difficulty: 1
+distance: 5.974 km
+time: 2:32:55
+min_elev: 1061
+max_elev: 1643
+loss_elev: -568
+gain_elev: 577
 ---
 
 Un altro bel sentiero in appennino, in parte nel bosco e in parte in cresta dove (nebbia permettendo...) si gode di una splendida vista.

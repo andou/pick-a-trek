@@ -20,6 +20,12 @@ tags:
 - Neve
 - Escursionistico
 difficulty: 2
+distance: 8.868 km
+time: 3:37:17
+min_elev: 1360
+max_elev: 1704
+loss_elev: -423
+gain_elev: 422
 ---
 
 Dall’albergo abbandonato ci si incammina sulla strada sterrata che dopo poco si abbandona per entrare nel bosco.

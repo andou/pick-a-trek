@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 15.20 km
+time: 4:01:57
+min_elev: 9
+max_elev: 552
+loss_elev: -595
+gain_elev: 361
 ---
 
 Sesta tappa della West Highland Way.

@@ -22,6 +22,12 @@ tags:
 - Escursionistico
 difficulty: 2
 comments: true
+distance: 16.00 km
+time: 6:10:15
+min_elev: 1409
+max_elev: 2258
+loss_elev: -1120
+gain_elev: 1110
 ---
 
 Un bel giro ad anello tra laghi, alpeggi, rifugi e qualche saliscendi. Un classico tra i sentieri che partono da Pian Coumarial.

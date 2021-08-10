@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 25.10 km
+time: 7:59:01
+min_elev: 6
+max_elev: 30
+loss_elev: -57
+gain_elev: 44
 ---
 
 Settima tappa del Vallo di Adriano, che attraversa Carlisle.

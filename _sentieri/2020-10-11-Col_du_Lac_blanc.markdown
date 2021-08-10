@@ -19,6 +19,12 @@ tags:
 - Rifugi Alpini
 - Escursionistico
 difficulty: 2
+distance: 7.685 km
+time: 3:23:33
+min_elev: 1692
+max_elev: 2305
+loss_elev: -603
+gain_elev: 603
 ---
 
 Parcheggiato qualche tornante dopo Petit Mont Blanc (Champorcher), il sentiero si snoda tra prati e boschi; alcuni tratti più ripidi si alternano a momenti in cui si tira il fiato.

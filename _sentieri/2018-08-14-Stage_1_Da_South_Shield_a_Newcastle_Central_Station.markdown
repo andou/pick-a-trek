@@ -20,6 +20,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 25.74 km
+time: 7:39:21
+min_elev: 0
+max_elev: 36
+loss_elev: -71
+gain_elev: 99
 ---
 
 Prima tappa del Vallo di Adriano. Anzi, in teoria inizia a Wallsend (a metà di questa tratta), dove si trova il primo forte, ma noi abbiamo preferito partire dal mare. Un breve traghetto porta da South Shield a Norh Shield.

@@ -19,6 +19,12 @@ tags:
 - Appennino
 - Facile
 difficulty: 1
+distance: 9.050 km
+time: 3:40:24
+min_elev: 1470
+max_elev: 1697
+loss_elev: -510
+gain_elev: 462
 ---
 
 Da Pian dell'Armà, semplice e tipico percorso dell'Oltrepò, che porta in cima al Monte Chiappo (punto di incontro tra le 3 Regioni Piemonte, Lombardia, Emilia-Romagna), e poi, tra saliscendi in cresta, porta ai Monti Prenardo e Ebro.

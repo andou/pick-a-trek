@@ -25,6 +25,12 @@ tags:
 - Valmalenco
 - Impegnativo
 difficulty: 3
+distance: 14.94 km
+time: 7:01:33
+min_elev: 1989
+max_elev: 3317
+loss_elev: -1369
+gain_elev: 1125
 ---
 
 Per chi conosce la Valmalenco e Chiesa Valmalenco o vi è stato almeno una volta difficilmente non è rimasto colpito dall'elegante forma a piramide del Pizzo Scalino. O perlomeno lo abbia notato :smile:

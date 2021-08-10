@@ -14,6 +14,12 @@ tags:
 - Pianura
 - Facile
 difficulty: 1
+distance: 16.58 km
+time: 3:58:38
+min_elev: 69
+max_elev: 77
+loss_elev: -11
+gain_elev: 11
 ---
 
 Il sentiero costeggia il Ticino all'interno del suo Parco Naturale, a sud di Vigevano.

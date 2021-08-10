@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 21.63 km
+time: 5:40:51
+min_elev: 19
+max_elev: 141
+loss_elev: -152
+gain_elev: 149
 ---
 
 Prima tappa della West Highland Way.

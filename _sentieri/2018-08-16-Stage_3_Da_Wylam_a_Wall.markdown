@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 26.85 km
+time: 8:07:23
+min_elev: 4
+max_elev: 267
+loss_elev: -267
+gain_elev: 336
 ---
 
 Terza tappa del Vallo di Adriano.

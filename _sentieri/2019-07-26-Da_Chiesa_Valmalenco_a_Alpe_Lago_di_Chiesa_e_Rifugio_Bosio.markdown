@@ -21,6 +21,12 @@ tags:
 - Valmalenco
 - Escursionistico
 difficulty: 2
+distance: 16.78 km
+time: 6:30:55
+min_elev: 1094
+max_elev: 2079
+loss_elev: -980
+gain_elev: 991
 ---
 
 Da Chiesa in Valmalenco si sale a zig zag nel bosco e poi su strada sterrata fino al pianoro dell'Alpe Lago di Chiesa (non c'è nessun lago, eh).

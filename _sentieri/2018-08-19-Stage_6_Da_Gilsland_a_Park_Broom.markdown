@@ -21,6 +21,12 @@ tags:
 - One-way
 - Escursionistico
 difficulty: 2
+distance: 29.55 km
+time: 9:07:47
+min_elev: 15
+max_elev: 174
+loss_elev: -314
+gain_elev: 161
 ---
 
 Sesta tappa del Vallo di Adriano, per noi la più lunga.
