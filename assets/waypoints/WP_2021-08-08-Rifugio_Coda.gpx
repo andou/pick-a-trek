@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <wpt lat="45.63998" lon="7.87949">
+        <ele>1440.0</ele>
+        <name>Pian Coumarial</name>
+        <sym>square</sym>
+    </wpt>
+    <wpt lat="45.6271" lon="7.90489">
+        <ele>2093.0</ele>
+        <name>Lago Goudin</name>
+        <sym>circle</sym>
+    </wpt>
+    <wpt lat="45.6245" lon="7.90938">
+        <ele>2240.0</ele>
+        <name>Colle Sella</name>
+        <sym>triangle</sym>
+    </wpt>
+    <wpt lat="45.62218" lon="7.9068">
+        <ele>2280.0</ele>
+        <name>Rifugio Coda</name>
+        <desc>Rifugio Delfo e Agostino Coda</desc>
+        <sym>triangle</sym>
+    </wpt>
+    <wpt lat="45.62361" lon="7.90679">
+        <ele>2315.0</ele>
+        <name>Punta della Sella</name>
+        <sym>triangle</sym>
+    </wpt>
+    <wpt lat="45.61587" lon="7.90034">
+        <ele>2124.0</ele>
+        <name>Col Carisey</name>
+        <sym>triangle</sym>
+    </wpt>
+    <wpt lat="45.63998" lon="7.87949">
+        <ele>1440.0</ele>
+        <name>Pian Coumarial</name>
+        <sym>square</sym>
+    </wpt>
+</gpx>
