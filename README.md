@@ -40,3 +40,4 @@ magick mogrify -monitor -format jpeg -resize 800x *.heic; rm -rf *.heic
 - https://undraw.co/search
 - https://www.humaaans.com/
 - https://github.com/SVG-Edit/svgedit
+- https://illlustrations.co/
