@@ -26,6 +26,11 @@ Repository del sito web [Pick a Trek](https://www.pick-a-trek.it/)
 
 - 17/03/2021 -> Traduzione ITA delle date :smirk:
 
+## Mass convert & resize
+
+```bash
+magick mogrify -monitor -format jpeg -resize 800x *.heic; rm -rf *.heic
+```
 
 ## SVG Resources
 
