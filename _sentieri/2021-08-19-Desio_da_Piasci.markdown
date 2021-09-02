@@ -19,7 +19,6 @@ tags:
 - Panorami
 - Andata e ritorno
 - Rifugi Alpini
-- Ghiacciaio
 - Valtellina
 - Valmalenco
 - Questi un pò le gambe le spezzano
