@@ -101,10 +101,19 @@ Style for Homepage
 
 // .pagination
 
-#post-list, #track-list {
+#post-list, #track-list, #number-list {
   margin-top: 1rem;
   padding-right: 0.5rem;
 
+  .counter-cell {
+    text-align: center;
+    margin: 1rem;
+
+    .counter {
+      font: 800 40px system-ui;
+      padding: 0.5rem;
+    }
+  }
 
   .card-columns {
 

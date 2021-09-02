@@ -1,0 +1,22 @@
+{% assign countertrack = site.sentieri.size %}
+{% assign counterblog = site.posts.size %}
+{% assign countermulti = site.raccolte.size %}
+
+<div id="number-list">
+    <h2>In numeri</h2>
+
+    <div class="row justify-content-center">
+        <div class="counter-cell">
+            <div class="counter" data-target="{{ countertrack }}" data-sleep="50">0</div>
+            <a href="{% link _tabs/sentieri.md %}">sentieri</a>
+        </div>
+        <div class="counter-cell">
+            <div class="counter" data-target="{{ countermulti }}" data-sleep="50">0</div>
+            <a href="{% link _tabs/raccolte.md %}">multi tappe</a>
+        </div>
+        <div class="counter-cell">
+            <div class="counter" data-target="{{ counterblog }}" data-sleep="50">0</div>
+            <a href="{% link _tabs/archives.md %}">post di blog</a>
+        </div>
+    </div>
+</div>
