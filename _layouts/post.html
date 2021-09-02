@@ -42,13 +42,27 @@ layout: default
 
       </div> <!-- .post-meta -->
 
+      {% if page.excerpt and page.excerpt_separator %}
+      <div class="pl-3 mt-3 post-meta d-flex font-italic flex-column border-left">
+        {{  page.excerpt | remove: '<p>' }}
+      </div>
+      {% endif %}
+
       <div class="post-content">
 
-        {% if page.image.src %}
-          <img src="{{ page.image.src }}" class="preview-img" alt="{{ page.image.alt | default: "Preview Image" }}">
+        {% if page.image %}
+        {% if use_weserve %}
+        {% figure {{site.data.weserve.url | append: site.url | append: page.image | append: "&w=400" }}, col-lg-6 float-lg-left mr-lg-2, {{page.featured_image.caption | default: ''}} , {{page.featured_image.alt | default: 'Preview'}} %}
+        {% else %}
+        {% figure {{page.image}}, col-lg-6 float-lg-left mr-lg-2, {{page.featured_image.caption | default: ''}} , {{page.featured_image.alt | default: 'Preview'}} %}
+        {% endif %}
         {% endif %}
 
-        {{ content }}
+        {% if page.excerpt and page.excerpt_separator %}
+        {{ page.content | remove: page.excerpt  }}
+        {% else %}
+        {{ page.content  }}
+        {% endif %}
 
       </div>
 
