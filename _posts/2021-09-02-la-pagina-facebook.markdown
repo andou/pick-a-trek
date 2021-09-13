@@ -3,6 +3,7 @@ layout: post
 title:  "Abbiamo la pagina Facebook!"
 date:   2021-09-02 09:05:00 +0100
 categories: updates
+type: blog
 ---
 
 Heila!

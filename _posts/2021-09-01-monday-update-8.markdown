@@ -2,6 +2,7 @@
 layout: post
 title:  "Aggiornamento del lunedì #8"
 date:   2021-09-01 08:05:00 +0100
+type: blog
 categories: 
 - updates
 - aggiornamento del lunedì

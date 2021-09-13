@@ -2,7 +2,7 @@
 layout: sentieri
 title: Sentieri
 icon: fas fa-hiking
-order: 2
+order: 1
 image: /assets/img/featured/backpack.png
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Contenuti multitraccia"
 date:   2021-03-09 09:05:00 +0100
 categories: updates
+type: blog
 ---
 Ciao! 
 

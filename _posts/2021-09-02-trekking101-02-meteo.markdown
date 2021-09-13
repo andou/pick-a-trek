@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Guida al trekking: controllare il meteo"
+date:   2021-09-02 11:05:00 +0100
+type: approfondimento
+categories:
+- updates
+- magazine
+- trekking 101
+comments: true
+excerpt_separator: <!--more-->
+image: /assets/img/galleries/guides/hiking_007.jpeg
+featured_image:
+  alt: Arcobaleno su Garabal Hill
+  caption: Arcobaleno su Garabal Hill
+
+---
+
+Una piccola, spassionata e modesta guida su dove e come controllare online le previsioni meteo. Qualche consiglio pratico e alcuni link utili
+
+<!--more-->
+
+Ne abbiamo parlato anche nella nostra [piccola e modesta guida per gli escursionisti alle prime armi]({% link _posts/2021-09-01-trekking101-01-starter-guide.markdown %}){:target="_blank"}, una volta scelto l'itinerario che vogliamo percorrere e presa coscienza del sentiero da intraprendere, il passo successivo è quello di controllare le previsioni del tempo.
+
+E' buona cosa verificare se dobbiamo aspettarci bel tempo o nuvole, sole a picco o pioggia. Questo ci serve per arrivare preparati sul sentiero e poterci godere appieno l'esperienza. Nessuno ha voglia di tornare a casa bagnato come un pulcino per essersi dimenticato la mantellina o rosso vermiglio come un gambero per non aver messo la crema solare nello zainetto.
+
+Non dimentichiamo mai che potrebbe anche essere il caso di valutare un cambio di destinazione o di posticipare l'escursione a cui avevamo pensato. L'obiettivo, tutto sommato, è godersi la giornata, il panorama e la natura e farlo in sicurezza.
+
+## Qualche precisazione
+
+Partiamo da un assunto onesto: _la meteorologia è una scienza basata su leggi probabilistiche, è normale che le previsioni del tempo facciano talvolta cilecca_.
+
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/guides/hiking_008.jpeg?w=400" }},col-lg-6 float-lg-right mr-lg-2,  %}
+
+Non per questo dobbiamo rinunciare a provare a capire che tempo aspettarci nella zona della nostra escursione, affidarci al dolore dei calli di zia Peppina o fidarci del sito internet che urla di più.
+
+In generale il consiglio che ci sentiamo di dare è quello di stare alla larga da allarmismi inutili, come ben descritto in questo [articolo del Post.it](https://www.ilpost.it/2017/08/09/meteo-siti-per-informarsi-previsioni/){:target="_blank"}.
+
+Permuriamoci di soppesare le informazioni che si possono recuperare da diverse fonti più o meno affidabili, senza mai rinunciare a farlo _cum grano salis_.
+
+## Dove iniziare a cercare le informazioni
+
+Anche per citare l'opinione di [Paolo Sottocorona](https://it.wikipedia.org/wiki/Paolo_Sottocorona){:target="_blank"}, noto meteorologo, il primo consiglio che ci sentiamo di dare è quello di consultare innanzi tutto il [sito delle previsioni dell’Aeronautica Militare](http://www.meteoam.it/){:target="_blank"}.
+
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/guides/hiking_009.jpeg?w=400" }},col-lg-6 float-lg-left mr-lg-2,  %}
+
+In prima battuta perché riporta le migliori previsioni sull'Italia che si possono trovare e anche perché, cercando da altre parti si rischia di imbattersi il clickbait ed in siti che riportano titoli esagerati e comunicati sbraitati.
+
+Il sito dell'Aeronautica è molto utile perché pubblica cartine da esperti di meteorologia ma presenta anche le classiche icone dei soli e delle nuvolette a cui siamo tanto abituati.
+
+Quindi si tratta di una fonte valida sia per esperti che per neofiti o per chi vuole semplicemente un colpo d'occhio di massima.
+
+## Affinare le previsioni
+
+Noi, in linea di principio utilizziamo il sopracitato sito [dell’Aeronautica Militare](http://www.meteoam.it/){:target="_blank"} come punto di partenza per capire a grandi linee cosa aspettarci.
+
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/guides/hiking_010.jpeg?w=400" }},col-lg-6 float-lg-right mr-lg-2,  %}
+
+Una volta capito indicativamente se nella zona d'Italia che intendiamo _esplorare_ dobbiamo aspettarci sole, pioggia o nuvole, facciamo un altro paio di check, giusto per avere qualche secondo e terzo parere.
+
+I nostri punti di riferimento, per il momento, sono, nell'ordine:
+- Il _Norwegian Meteorological Institute_ tramite il sito [yr.no](https://www.yr.no/en){:target="_blank"}
+- Una bella spulciata ai modelli meteo aggiornati su [wxcharts.com](https://wxcharts.com/){:target="_blank"}
+
+Sono entrambi fonti piuttosto affidabili che permettono in linea di massima di capire se nel corso della giornata dobbiamo aspettarci pioggia, sole, copertura nuvolosa, vento o altre amenità.
+
+In particolare [wxcharts.com](https://wxcharts.com/){:target="_blank"} permette di visionare tramite scorrimento, l'andamento del modello meteo nel corso del tempo su un'ampia zona. Questo a volte permette di correggere il tiro sulla zona del nord Italia (nel nostro caso specifico) che eventualmente potremmo valutare di visitare.
+
+## Menzione speciale: Valle d'Aosta
+
+Per quanto riguarda le previsioni meteo relative alla Valle d'Aosta vale la pena menzionare il fatto che sul sito ufficiale della Regione Autonoma Valle d'Aosta vengono pubblicate le [previsioni meteo del Centro Funzionale](https://cf.regione.vda.it/){:target="_blank"}, che sono sempre aggiornate e piuttosto affidabili.
+
+## E in inverno?
+
+Ogni stagione vale la pena di essere vissuta all'aperto e ci sono escursioni che possono essere intraprese in ogni periodo dell'anno.
+
+{% figure {{ site.data.weserve.url | append: site.url | append: "/assets/img/galleries/guides/hiking_011.jpeg?w=400" }},col-lg-6 float-lg-left mr-lg-2,  %}
+
+Anche la stagione fredda, infatti, riserva possibilità ed esperienze che valgono la pena di essere realizzate nonostante le temperature o le minori ore di luce a disposizione.
+
+Tenete presente che spesso i mesi invernali hanno meno precipitazioni dei corrispettivi autunnali e quindi è spesso possibile andare a farsi una sbambata senza bagnarsi. Ovviamente coprendosi adeguatamente e attrezzandosi di ramponi, ramponcini o ciaspole dove e quando necessario.
+
+Quindi, in linea di massima, se si intende effettuare una escursione in invernale, al di là delle considerazioni sull'attrezzatura e sul vestiario, gli accorgimenti generali da utilizzare sono gli stessi della stagione calda.
+
+Altro aspetto però da tenere in considerazione quando si intende intraprendere delle escursioni in inverno, se si vogliono visitare zone innevate, è controllare i bollettini valanghe aggiornati. E' molto importante farlo, per evitare di trovarsi in situazioni spiacevoli.
+
+I siti ARPA (Agenzia Regionale per la Protezione Ambientale) delle varie regioni (ad es. [Piemonte](http://www.arpa.piemonte.it/bollettini/elenco-bollettini-1/bollettino-valanghe){:target="_blank"} e [Lombardia](https://www.arpalombardia.it/Pages/Neve-Valanghe-Ghiacciai/Neve,-Valanghe-e-Ghiacciai.aspx){:target="_blank"}) e l'[apposita sezione del](https://appweb.regione.vda.it/DBWeb/bollnivometeo/bollnivometeo.nsf/){:target="_blank"} sito ufficiale della Regione Autonoma Valle d'Aosta, ad esempio, riportano i bollettini valanghe aggiornati, che permettono di scegliere le zone non a rishio.
+
+Non dimentichiamo che se viene segnalato un rischio valanghe nella zona che si intende visitare è sempre bene valutare seriamente l'eventualità di rinviare l'escursione o scegliere un'altra destinazione.
+
+## Attribuzioni foto
+
+Fatta eccezione per la foto di copertina, che è nostra, scattata da Antonio durante la nostra esperienza in Scozia lungo la [West Highland Way]({% link _raccolte/West_Highland_Way.md %}){:target="_blank"}, tutte le altre foto provengono dal sito [unsplash.com](https://unsplash.com/){:target="_blank"} che ne consente l'utilizzo, [anche senza attribuzione](https://unsplash.com/license){:target="_blank"}.
+
+Ma visto che riteniamo essere belle persone, le singole attribuzioni sono le seguenti:
+- Sezione [Qualche precisazione](#qualche-precisazione) ➜ Photo by <a href="https://unsplash.com/@pixelfreund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ralph Hutter</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Sezione [Dove iniziare a cercare le informazioni](#dove-iniziare-a-cercare-le-informazioni) ➜ Photo by <a href="https://unsplash.com/@markkoenig?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark König</a> on <a href="https://unsplash.com/s/photos/forecast?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Sezione [Affinare le previsioni](#affinare-le-previsioni) ➜ Photo by <a href="https://unsplash.com/@cookiethepom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cookie the Pom</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Sezione [E in inverno?](#e-in-inverno) ➜ Photo by <a href="https://unsplash.com/@atlemo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Atle Mo</a> on <a href="https://unsplash.com/s/photos/winter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+<span class="clearfix"></span>
+<div align="right" class="clearfix">
+  <b><a href="#indice">↥ Torna in cima</a></b>
+</div>

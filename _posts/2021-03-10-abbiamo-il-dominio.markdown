@@ -3,6 +3,7 @@ layout: post
 title:  "Abbiamo il dominio!"
 date:   2021-03-10 09:05:00 +0100
 categories: updates
+type: blog
 ---
 Che potrebbe suonare strano, letto così :stuck_out_tongue_winking_eye:. Ma significa che abbiamo acquistato il dominio `www.pick-a-trek.it`.
 

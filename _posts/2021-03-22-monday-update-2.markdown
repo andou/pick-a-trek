@@ -5,6 +5,7 @@ date:   2021-03-21 09:05:00 +0100
 categories: 
 - updates
 - aggiornamento del lunedì
+type: blog
 ---
 E' un nuovo fantastico Lunedì, sembra ieri che abbiamo fatto nascere una nuova brillante rubrica, invece è già passata una
 settimana.

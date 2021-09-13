@@ -2,6 +2,7 @@
 layout: post
 title:  "Aggiornamento del lunedì #6"
 date:   2021-07-19 08:05:00 +0100
+type: blog
 categories: 
 - updates
 - aggiornamento del lunedì

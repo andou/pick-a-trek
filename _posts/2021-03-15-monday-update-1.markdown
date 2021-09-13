@@ -5,6 +5,7 @@ date:   2021-03-15 09:05:00 +0100
 categories: 
 - updates
 - aggiornamento del lunedì
+type: blog
 ---
 Bene gente. Da oggi, una nuova tradizione! Iniziamo con _l'aggiornamento del lunedì_ :sweat_smile:.
 

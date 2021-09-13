@@ -3,7 +3,7 @@ title: Su di noi
 layout: page
 dynamic_title: true
 icon: fas fa-info
-order: 1
+order: 2
 image: /assets/img/logo/antonio_e_marta.jpg
 ---
 
