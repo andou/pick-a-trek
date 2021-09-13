@@ -67,6 +67,8 @@ Cerca una traccia GPS da seguire e scaricala sul tuo dispositivo mobile per pote
 
 Se poi sei interessato a diversi percorsi in una particolare zona, prendi in considerazione l'idea di acquistare una guida specifica e/o una mappa cartacea.
 
+Ovviamente, non dimenticare di dare un'occhiata alla sezione [sentieri]({{ '/sentieri/' | relative_url }}){:target="_blank"} del nostro sito, magari anche solo quelli [facili]({{ '/tags/facile/' | relative_url }}){:target="_blank"} se stai iniziando adesso :smile:
+
 <span class="clearfix"></span>
 <div align="right" class="clearfix">
   <b><a href="#indice">↥ Torna in cima</a></b>
